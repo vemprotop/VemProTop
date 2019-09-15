@@ -1,29 +1,42 @@
 <channels>
 <channel>
-<name>[COLOR green]BEM VINDOS[/COLOR]</name>
-<thumbnail>https://ia801505.us.archive.org/18/items/fanart_20190915_1746/benvindo.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia801505.us.archive.org/18/items/fanart_20190915_1746/fanart.jpg</fanart>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia801406.us.archive.org/7/items/farnat_201909/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/ADDONTESTE/ADDONTESTE/master/FILMES</externallink>
+<fanart>https://ia801507.us.archive.org/8/items/fanartfilme/fanartlancamento.jpg</fanart>
 <info>
- 
- 
-[COLOR deeppink]|[/COLOR] - MELHOR ADDONS VemProTop. CANAIS, FILMES E SÉRIES - [COLOR deeppink]|[/COLOR]</info>
+
+
+[COLOR deeppink]|[/COLOR]- OS MELHORES LANÇAMENTOS -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
- 
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
- 
+
 <channels>
 <channel>
-<name>[COLOR navy]ENTRE AQUI[/COLOR]</name>
-<thumbnail>https://ia801505.us.archive.org/18/items/fanart_20190915_1746/entrar.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia801505.us.archive.org/18/items/fanart_20190915_1746/fanart.jpg</fanart>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia801406.us.archive.org/7/items/farnat_201909/series.png</thumbnail>
+<externallink>https://raw.githubusercontent.com</externallink>
+<fanart>https://ia801507.us.archive.org/8/items/fanartfilme/fanart%20series.jpg</fanart>
 <info>
- 
- 
-[COLOR deeppink]|[/COLOR] - AQUI VOCÊ ENCONTRA ENTRETENIMENTO PARA VOCÊ E SUA FAMÍLIA - [COLOR deeppink]|[/COLOR]</info>
+
+
+[COLOR deeppink]|[/COLOR]- AS MELHORES SÉRIES -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
- 
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]KIDS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia801406.us.archive.org/7/items/farnat_201909/kids.png</thumbnail>
+<externallink>https://raw.githubusercontent.com</externallink>
+<fanart>https://ia801507.us.archive.org/8/items/fanartfilme/fanart%20kids.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR]- TUDO PARA CRIANÇADA -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
