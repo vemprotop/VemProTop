@@ -1,5 +1,20 @@
 <channels>
 <channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/vemprotop/VemProTop/master/LANCAMENTO2</externallink>
+<fanart>https://ia801509.us.archive.org/15/items/fanart-filme/fanart%20series.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR]- FILMES -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]LANÇAMENTOS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/lancamento.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/vemprotop/VemProTop/master/LANCAMENTO2</externallink>
