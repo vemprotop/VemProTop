@@ -9,7 +9,7 @@
 
 <item>
 <title>[B][COLOR lime]*NEW  [/COLOR][/B][B]Resgate - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15kKZUTyee9tJfyVVvQumJ1Bj91G38z1Q/view$$lsname=[COLOR lime]FULLHD[/COLOR] - AUDIO ORIGINAL</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15kKZUTyee9tJfyVVvQumJ1Bj91G38z1Q/view?usp=drivesdk</link>
 <jsonrpc>https://youtu.be/GMKKq_bYd0E/?page=0</jsonrpc>
 <thumbnail>https://ia601407.us.archive.org/22/items/20200427-212353/20200427_212353.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DS1Xh1dxfrR1H0sqATPxkwWFzi.jpg</fanart>
