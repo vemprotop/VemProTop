@@ -10,11 +10,11 @@ by VemProTop
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y4jh7yav" group-title="CANAL EDGAR SILVA", CANAL EDGAR SILVA 24hs
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y4jh7yav" group-title="VemProTop", CANAIS VemProTop 24hs
 https://www.youtube.com/channel/UCUHtLbZz8dm_h3ujDhTs3Ng
 
 #EXTINF:-1 tvg-logo="http://www.trrevista.com.br/uploads/2014/12/grupo-da-solidariedade-angaria-doacoes-pelo-face-1.png" group-title="LISTA VIP", MELHOR LISTA VIP
-https://tinyurl.com/y2a9fdks
+http://ppns.io:80/get.php?username=ArzJoqYE1g&password=bQR0NBUpqZ&type=m3u_plus&output=ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ralOkM" group-title="NOVOS CANAIS ATUALIZADO", Atualizado 31/03/2020
 https://goo.gl/gRV5Xu
