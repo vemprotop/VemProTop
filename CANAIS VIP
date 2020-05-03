@@ -8,3 +8,2488 @@
 by VemProTop
 [COLOR deeppink]l[/COLOR]- CANAIS -[COLOR deeppink]l[/COLOR]</info>
 </item>
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/30/items/20200427-210518/20200427_210518.png" group-title="VemProTop", CANAIS VemProTop 24hs
+https://www.youtube.com/channel/UCUHtLbZz8dm_h3ujDhTs3Ng
+
+#EXTM3U
+#EXTINF:-1,A&E HD
+http://maxptv.net:8080/sergio/sergio/236
+#EXTINF:-1,A&E SD
+http://maxptv.net:8080/sergio/sergio/235
+#EXTINF:-1,Amc HD
+http://maxptv.net:8080/sergio/sergio/512
+#EXTINF:-1,AMC SD
+http://maxptv.net:8080/sergio/sergio/233
+#EXTINF:-1,Animal Planet HD
+http://maxptv.net:8080/sergio/sergio/232
+#EXTINF:-1,Animal Planet SD
+http://maxptv.net:8080/sergio/sergio/231
+#EXTINF:-1,AXN HD
+http://maxptv.net:8080/sergio/sergio/535
+#EXTINF:-1,AXN SD
+http://maxptv.net:8080/sergio/sergio/227
+#EXTINF:-1,BabyTV HD
+http://maxptv.net:8080/sergio/sergio/226
+#EXTINF:-1,BabyTV SD
+http://maxptv.net:8080/sergio/sergio/225
+#EXTINF:-1,Band Campinas HD
+http://maxptv.net:8080/sergio/sergio/242
+#EXTINF:-1,Band Campinas SD
+http://maxptv.net:8080/sergio/sergio/241
+#EXTINF:-1,Band News HD
+http://maxptv.net:8080/sergio/sergio/224
+#EXTINF:-1,Band News SD
+http://maxptv.net:8080/sergio/sergio/223
+#EXTINF:-1,Band SP HD
+http://maxptv.net:8080/sergio/sergio/130
+#EXTINF:-1,Band SP SD
+http://maxptv.net:8080/sergio/sergio/129
+#EXTINF:-1,Band Sports HD
+http://maxptv.net:8080/sergio/sergio/221
+#EXTINF:-1,Band Sports SD
+http://maxptv.net:8080/sergio/sergio/220
+#EXTINF:-1,Big Brother Brasil 2020 HD
+http://maxptv.net:8080/sergio/sergio/230
+#EXTINF:-1,Big Brother Brasil 2020  SD
+http://maxptv.net:8080/sergio/sergio/229
+#EXTINF:-1,BIZ HD
+http://maxptv.net:8080/sergio/sergio/219
+#EXTINF:-1,BIZ SD
+http://maxptv.net:8080/sergio/sergio/218
+#EXTINF:-1,Boomerang HD
+http://maxptv.net:8080/sergio/sergio/217
+#EXTINF:-1,Boomerang SD
+http://maxptv.net:8080/sergio/sergio/216
+#EXTINF:-1,Canal Canção Nova HD
+http://maxptv.net:8080/sergio/sergio/215
+#EXTINF:-1,Canal Canal Canção SD
+http://maxptv.net:8080/sergio/sergio/214
+#EXTINF:-1,Canal Futura HD
+http://maxptv.net:8080/sergio/sergio/211
+#EXTINF:-1,Canal Futura SD
+http://maxptv.net:8080/sergio/sergio/210
+#EXTINF:-1,Canal Curta! HD
+http://maxptv.net:8080/sergio/sergio/213
+#EXTINF:-1,Canal Curta! SD
+http://maxptv.net:8080/sergio/sergio/212
+#EXTINF:-1,Canal HGTV HD
+http://maxptv.net:8080/sergio/sergio/193
+#EXTINF:-1,Canal HGTV SD
+http://maxptv.net:8080/sergio/sergio/192
+#EXTINF:-1,Canal OFF HD
+http://maxptv.net:8080/sergio/sergio/209
+#EXTINF:-1,Canal OFF SD
+http://maxptv.net:8080/sergio/sergio/208
+#EXTINF:-1,Canal Woohoo HD
+http://maxptv.net:8080/sergio/sergio/207
+#EXTINF:-1,Canal Woohoo SD
+http://maxptv.net:8080/sergio/sergio/206
+#EXTINF:-1,Cartoon Network HD
+http://maxptv.net:8080/sergio/sergio/524
+#EXTINF:-1,Cartoon Network SD
+http://maxptv.net:8080/sergio/sergio/204
+#EXTINF:-1,Comedy Central HD
+http://maxptv.net:8080/sergio/sergio/199
+#EXTINF:-1,Comedy Central SD
+http://maxptv.net:8080/sergio/sergio/198
+#EXTINF:-1,Combate HD
+http://maxptv.net:8080/sergio/sergio/201
+#EXTINF:-1,Combate SD
+http://maxptv.net:8080/sergio/sergio/200
+#EXTINF:-1,Cinemax HD
+http://maxptv.net:8080/sergio/sergio/203
+#EXTINF:-1,Cinemax SD
+http://maxptv.net:8080/sergio/sergio/202
+#EXTINF:-1,A&E  FULL HD H265
+http://maxptv.net:8080/sergio/sergio/3036
+#EXTINF:-1,ANIMAL PLANET FULL HD H265
+http://maxptv.net:8080/sergio/sergio/3037
+#EXTINF:-1,AXN  FULL HD H265
+http://maxptv.net:8080/sergio/sergio/3038
+#EXTINF:-1,Black Kamen Rider 24H
+http://maxptv.net:8080/sergio/sergio/537
+#EXTINF:-1,Bob Esponja
+http://maxptv.net:8080/sergio/sergio/319
+#EXTINF:-1,Canal CSI 24H
+http://maxptv.net:8080/sergio/sergio/538
+#EXTINF:-1,CARTOON NETWORK FULL HD H265
+http://maxptv.net:8080/sergio/sergio/3039
+#EXTINF:-1,Caverna do Dragao  24H
+http://maxptv.net:8080/sergio/sergio/539
+#EXTINF:-1,CDZ  Saga de Poseidon 24H
+http://maxptv.net:8080/sergio/sergio/540
+#EXTINF:-1,Chaves 24H
+http://maxptv.net:8080/sergio/sergio/547
+#EXTINF:-1,Cine Action 24H Ultra HD
+http://maxptv.net:8080/sergio/sergio/548
+#EXTINF:-1,Cine Aventura 24H Ultra HD
+http://maxptv.net:8080/sergio/sergio/549
+#EXTINF:-1,Cine Drama 24H Ultra HD
+http://maxptv.net:8080/sergio/sergio/550
+#EXTINF:-1,Cine Family 24H
+http://maxptv.net:8080/sergio/sergio/551
+#EXTINF:-1,Cine Faroeste 24H Ultra HD
+http://maxptv.net:8080/sergio/sergio/1478
+#EXTINF:-1,Cine Fiction 24H Ultra HD
+http://maxptv.net:8080/sergio/sergio/536
+#EXTINF:-1,Cine Fun 24H Ultra HD
+http://maxptv.net:8080/sergio/sergio/552
+#EXTINF:-1,Cine Guerra 24H Ultra HD
+http://maxptv.net:8080/sergio/sergio/1477
+#EXTINF:-1,Cine Horror 24H Ultra HD
+http://maxptv.net:8080/sergio/sergio/553
+#EXTINF:-1,CINE KIDS 24H ULTRA HD
+http://maxptv.net:8080/sergio/sergio/554
+#EXTINF:-1,CINE Nacionais 24H
+http://maxptv.net:8080/sergio/sergio/555
+#EXTINF:-1,Como eu Conheci a Sua Mae  24H
+http://maxptv.net:8080/sergio/sergio/567
+#EXTINF:-1,Cultura HD
+http://maxptv.net:8080/sergio/sergio/197
+#EXTINF:-1,CULTURA HD FHD
+http://maxptv.net:8080/sergio/sergio/3040
+#EXTINF:-1,Cultura SD
+http://maxptv.net:8080/sergio/sergio/196
+#EXTINF:-1,Cybercop 24H
+http://maxptv.net:8080/sergio/sergio/1479
+#EXTINF:-1,DISCORVERY CIVILIZATION FULL HD
+http://maxptv.net:8080/sergio/sergio/3044
+#EXTINF:-1,DISCORVERY KIDS FULL HD
+http://maxptv.net:8080/sergio/sergio/3041
+#EXTINF:-1,DISCORVERY THEATER FULL HD
+http://maxptv.net:8080/sergio/sergio/3042
+#EXTINF:-1,Discovery Channel HD
+http://maxptv.net:8080/sergio/sergio/195
+#EXTINF:-1,Discovery Channel SD
+http://maxptv.net:8080/sergio/sergio/194
+#EXTINF:-1,Discovery Home & Health HD
+http://maxptv.net:8080/sergio/sergio/191
+#EXTINF:-1,Discovery Home & Health SD
+http://maxptv.net:8080/sergio/sergio/190
+#EXTINF:-1,Discovery Kids HD
+http://maxptv.net:8080/sergio/sergio/189
+#EXTINF:-1,Discovery Kids SD
+http://maxptv.net:8080/sergio/sergio/188
+#EXTINF:-1,Discovery Science HD
+http://maxptv.net:8080/sergio/sergio/187
+#EXTINF:-1,Discovery Science SD
+http://maxptv.net:8080/sergio/sergio/186
+#EXTINF:-1,Discovery Theater HD
+http://maxptv.net:8080/sergio/sergio/185
+#EXTINF:-1,Discovery Theater SD
+http://maxptv.net:8080/sergio/sergio/184
+#EXTINF:-1,DISCOVERY TURBO FULL HD
+http://maxptv.net:8080/sergio/sergio/3043
+#EXTINF:-1,Discovery Turbo HD
+http://maxptv.net:8080/sergio/sergio/183
+#EXTINF:-1,Discovery Turbo SD
+http://maxptv.net:8080/sergio/sergio/182
+#EXTINF:-1,Discovery World HD
+http://maxptv.net:8080/sergio/sergio/181
+#EXTINF:-1,Discovery World SD
+http://maxptv.net:8080/sergio/sergio/180
+#EXTINF:-1,Disney Channel  HD
+http://maxptv.net:8080/sergio/sergio/179
+#EXTINF:-1,DISNEY CHANNEL FULL HD H265
+http://maxptv.net:8080/sergio/sergio/3045
+#EXTINF:-1,Disney Channel SD
+http://maxptv.net:8080/sergio/sergio/178
+#EXTINF:-1,Disney Junior HD
+http://maxptv.net:8080/sergio/sergio/177
+#EXTINF:-1,Disney Junior SD
+http://maxptv.net:8080/sergio/sergio/176
+#EXTINF:-1,Disney XD HD
+http://maxptv.net:8080/sergio/sergio/175
+#EXTINF:-1,Disney XD SD
+http://maxptv.net:8080/sergio/sergio/174
+#EXTINF:-1,DR. House 24HR
+http://maxptv.net:8080/sergio/sergio/568
+#EXTINF:-1,Dragoes  24H
+http://maxptv.net:8080/sergio/sergio/1480
+#EXTINF:-1,E! HD
+http://maxptv.net:8080/sergio/sergio/516
+#EXTINF:-1,E! SD
+http://maxptv.net:8080/sergio/sergio/172
+#EXTINF:-1,EPTV Campinas HD
+http://maxptv.net:8080/sergio/sergio/238
+#EXTINF:-1,EPTV Campinas HD 2
+http://maxptv.net:8080/sergio/sergio/246
+#EXTINF:-1,EPTV Campinas SD
+http://maxptv.net:8080/sergio/sergio/237
+#EXTINF:-1,Eptv FHD Ribeirao
+http://maxptv.net:8080/sergio/sergio/3073
+#EXTINF:-1,Espn  2 HD
+http://maxptv.net:8080/sergio/sergio/171
+#EXTINF:-1,Espn  2 SD 
+http://maxptv.net:8080/sergio/sergio/170
+#EXTINF:-1,ESPN BRASIL FULL  HD H265
+http://maxptv.net:8080/sergio/sergio/3047
+#EXTINF:-1,Espn Brasil HD
+http://maxptv.net:8080/sergio/sergio/169
+#EXTINF:-1,Espn Brasil SD
+http://maxptv.net:8080/sergio/sergio/168
+#EXTINF:-1,Espn Extra  SD
+http://maxptv.net:8080/sergio/sergio/164
+#EXTINF:-1,Espn Extra HD
+http://maxptv.net:8080/sergio/sergio/165
+#EXTINF:-1,Espn HD
+http://maxptv.net:8080/sergio/sergio/167
+#EXTINF:-1,Espn SD
+http://maxptv.net:8080/sergio/sergio/166
+#EXTINF:-1,Eu a Patroa e as Crianças
+http://maxptv.net:8080/sergio/sergio/321
+#EXTINF:-1,Familia da Pesada 24H
+http://maxptv.net:8080/sergio/sergio/1481
+#EXTINF:-1,Familia Dinossauro  24H
+http://maxptv.net:8080/sergio/sergio/569
+#EXTINF:-1,Film&Arts HD
+http://maxptv.net:8080/sergio/sergio/163
+#EXTINF:-1,Film&Arts SD
+http://maxptv.net:8080/sergio/sergio/162
+#EXTINF:-1,FISH TV HD
+http://maxptv.net:8080/sergio/sergio/525
+#EXTINF:-1,Fish TV SD
+http://maxptv.net:8080/sergio/sergio/161
+#EXTINF:-1,Food Network HD
+http://maxptv.net:8080/sergio/sergio/158
+#EXTINF:-1,Food Network SD
+http://maxptv.net:8080/sergio/sergio/159
+#EXTINF:-1,FOX ESPORTES 2 FULL HD  H265
+http://maxptv.net:8080/sergio/sergio/3048
+#EXTINF:-1,FOX ESPORTES FULL HD H265
+http://maxptv.net:8080/sergio/sergio/3049
+#EXTINF:-1,FOX FULL HD h265
+http://maxptv.net:8080/sergio/sergio/3050
+#EXTINF:-1,FOX HD
+http://maxptv.net:8080/sergio/sergio/157
+#EXTINF:-1,FOX Life HD
+http://maxptv.net:8080/sergio/sergio/156
+#EXTINF:-1,FOX Life SD
+http://maxptv.net:8080/sergio/sergio/155
+#EXTINF:-1,Fox Premium 2 HD
+http://maxptv.net:8080/sergio/sergio/526
+#EXTINF:-1,Fox Premium 2 SD
+http://maxptv.net:8080/sergio/sergio/527
+#EXTINF:-1,Fox Premium HD
+http://maxptv.net:8080/sergio/sergio/528
+#EXTINF:-1,Fox Premium SD
+http://maxptv.net:8080/sergio/sergio/151
+#EXTINF:-1,FOX SD
+http://maxptv.net:8080/sergio/sergio/150
+#EXTINF:-1,Fox Sports 2 HD
+http://maxptv.net:8080/sergio/sergio/529
+#EXTINF:-1,Fox Sports 2 SD
+http://maxptv.net:8080/sergio/sergio/148
+#EXTINF:-1,Fox Sports HD
+http://maxptv.net:8080/sergio/sergio/147
+#EXTINF:-1,Fox Sports SD
+http://maxptv.net:8080/sergio/sergio/146
+#EXTINF:-1,FX HD
+http://maxptv.net:8080/sergio/sergio/145
+#EXTINF:-1,FX SD
+http://maxptv.net:8080/sergio/sergio/144
+#EXTINF:-1,Galinha Pintadinha 24H
+http://maxptv.net:8080/sergio/sergio/1476
+#EXTINF:-1,Globo Ribeirão HD
+http://maxptv.net:8080/sergio/sergio/985
+#EXTINF:-1,Globo Ribeirão SD
+http://maxptv.net:8080/sergio/sergio/986
+#EXTINF:-1,Globo SP HD
+http://maxptv.net:8080/sergio/sergio/72
+#EXTINF:-1,Globo SP SD
+http://maxptv.net:8080/sergio/sergio/71
+#EXTINF:-1,GloboNews HD
+http://maxptv.net:8080/sergio/sergio/143
+#EXTINF:-1,GloboNews SD
+http://maxptv.net:8080/sergio/sergio/142
+#EXTINF:-1,Gloob HD
+http://maxptv.net:8080/sergio/sergio/530
+#EXTINF:-1,Gloob SD
+http://maxptv.net:8080/sergio/sergio/140
+#EXTINF:-1,GNT HD
+http://maxptv.net:8080/sergio/sergio/139
+#EXTINF:-1,GNT SD
+http://maxptv.net:8080/sergio/sergio/138
+#EXTINF:-1,H2 HD
+http://maxptv.net:8080/sergio/sergio/137
+#EXTINF:-1,H2 SD
+http://maxptv.net:8080/sergio/sergio/523
+#EXTINF:-1,HBO 2 HD
+http://maxptv.net:8080/sergio/sergio/135
+#EXTINF:-1,HBO 2 SD
+http://maxptv.net:8080/sergio/sergio/134
+#EXTINF:-1,HBO Family HD
+http://maxptv.net:8080/sergio/sergio/133
+#EXTINF:-1,HBO Family SD
+http://maxptv.net:8080/sergio/sergio/132
+#EXTINF:-1,HBO HD
+http://maxptv.net:8080/sergio/sergio/131
+#EXTINF:-1,HBO Plus HD
+http://maxptv.net:8080/sergio/sergio/128
+#EXTINF:-1,HBO Plus SD
+http://maxptv.net:8080/sergio/sergio/127
+#EXTINF:-1,HBO SD
+http://maxptv.net:8080/sergio/sergio/126
+#EXTINF:-1,HBO Signature HD
+http://maxptv.net:8080/sergio/sergio/531
+#EXTINF:-1,HBO Signature SD
+http://maxptv.net:8080/sergio/sergio/124
+#EXTINF:-1,History Channel HD
+http://maxptv.net:8080/sergio/sergio/532
+#EXTINF:-1,History Channel SD
+http://maxptv.net:8080/sergio/sergio/122
+#EXTINF:-1,Homem-Aranha 24H
+http://maxptv.net:8080/sergio/sergio/566
+#EXTINF:-1,ID HD
+http://maxptv.net:8080/sergio/sergio/121
+#EXTINF:-1,ID SD
+http://maxptv.net:8080/sergio/sergio/120
+#EXTINF:-1,Jaspion 24H
+http://maxptv.net:8080/sergio/sergio/570
+#EXTINF:-1,Jiraya  O Incrivel Ninja 24H
+http://maxptv.net:8080/sergio/sergio/1475
+#EXTINF:-1,Larva 24H
+http://maxptv.net:8080/sergio/sergio/1474
+#EXTINF:-1,Lifetime HD
+http://maxptv.net:8080/sergio/sergio/522
+#EXTINF:-1,Lifetime SD
+http://maxptv.net:8080/sergio/sergio/118
+#EXTINF:-1,Lion Man 24H
+http://maxptv.net:8080/sergio/sergio/1473
+#EXTINF:-1,Looney Tunnes 24H
+http://maxptv.net:8080/sergio/sergio/565
+#EXTINF:-1,Mais Globosat HD
+http://maxptv.net:8080/sergio/sergio/117
+#EXTINF:-1,Mais Globosat SD
+http://maxptv.net:8080/sergio/sergio/116
+#EXTINF:-1,MARVEL & DC 24H
+http://maxptv.net:8080/sergio/sergio/545
+#EXTINF:-1,HBO Mundi HD
+http://maxptv.net:8080/sergio/sergio/521
+#EXTINF:-1,HBO Xtreme HD
+http://maxptv.net:8080/sergio/sergio/520
+#EXTINF:-1,HBO Xtreme SD
+http://maxptv.net:8080/sergio/sergio/113
+#EXTINF:-1,HBO Mundi SD
+http://maxptv.net:8080/sergio/sergio/112
+#EXTINF:-1,Max up full hd
+http://maxptv.net:8080/sergio/sergio/3074
+#EXTINF:-1,HBO Pop HD
+http://maxptv.net:8080/sergio/sergio/111
+#EXTINF:-1,HBO Pop SD
+http://maxptv.net:8080/sergio/sergio/110
+#EXTINF:-1,Megapix HD
+http://maxptv.net:8080/sergio/sergio/109
+#EXTINF:-1,Megapix SD
+http://maxptv.net:8080/sergio/sergio/108
+#EXTINF:-1,MR. Bean 24H
+http://maxptv.net:8080/sergio/sergio/546
+#EXTINF:-1,MTV HD
+http://maxptv.net:8080/sergio/sergio/519
+#EXTINF:-1,MTV SD
+http://maxptv.net:8080/sergio/sergio/106
+#EXTINF:-1,MULTISHOW HD
+http://maxptv.net:8080/sergio/sergio/105
+#EXTINF:-1,MULTISHOW SD
+http://maxptv.net:8080/sergio/sergio/104
+#EXTINF:-1,MULTSHOW FULL HD H265
+http://maxptv.net:8080/sergio/sergio/3067
+#EXTINF:-1,Naruto 24H
+http://maxptv.net:8080/sergio/sergio/564
+#EXTINF:-1,Nat Geo Kids HD
+http://maxptv.net:8080/sergio/sergio/518
+#EXTINF:-1,Nat Geo Kids SD
+http://maxptv.net:8080/sergio/sergio/102
+#EXTINF:-1,Nat Geo Wild HD
+http://maxptv.net:8080/sergio/sergio/101
+#EXTINF:-1,Nat Geo Wild SD
+http://maxptv.net:8080/sergio/sergio/100
+#EXTINF:-1,NATIONAL GEOGRAPHIC FULL HD H265
+http://maxptv.net:8080/sergio/sergio/3068
+#EXTINF:-1,National Geographic HD
+http://maxptv.net:8080/sergio/sergio/99
+#EXTINF:-1,National Geographic SD
+http://maxptv.net:8080/sergio/sergio/98
+#EXTINF:-1,NHK HD
+http://maxptv.net:8080/sergio/sergio/97
+#EXTINF:-1,NHK SD
+http://maxptv.net:8080/sergio/sergio/96
+#EXTINF:-1,NICK JR  FULL HD
+http://maxptv.net:8080/sergio/sergio/3072
+#EXTINF:-1,Nick Jr HD
+http://maxptv.net:8080/sergio/sergio/95
+#EXTINF:-1,Nick Jr SD
+http://maxptv.net:8080/sergio/sergio/94
+#EXTINF:-1,NICKELOAD FULL HD H265
+http://maxptv.net:8080/sergio/sergio/3063
+#EXTINF:-1,Nickelodeon HD
+http://maxptv.net:8080/sergio/sergio/93
+#EXTINF:-1,Nickelodeon SD
+http://maxptv.net:8080/sergio/sergio/92
+#EXTINF:-1,Os Simpsons 24H
+http://maxptv.net:8080/sergio/sergio/563
+#EXTINF:-1,Os Vingadores 24H
+http://maxptv.net:8080/sergio/sergio/1482
+#EXTINF:-1,Paramount Channel HD
+http://maxptv.net:8080/sergio/sergio/91
+#EXTINF:-1,Paramount Channel SD
+http://maxptv.net:8080/sergio/sergio/90
+#EXTINF:-1,Peppa Pig 24H
+http://maxptv.net:8080/sergio/sergio/562
+#EXTINF:-1,Playboy HD
+http://maxptv.net:8080/sergio/sergio/88
+#EXTINF:-1,Playboy SD
+http://maxptv.net:8080/sergio/sergio/87
+#EXTINF:-1,POCOYO 24H
+http://maxptv.net:8080/sergio/sergio/561
+#EXTINF:-1,Pokemon 24H
+http://maxptv.net:8080/sergio/sergio/560
+#EXTINF:-1,Premiere 1 HD
+http://maxptv.net:8080/sergio/sergio/86
+#EXTINF:-1,Premiere 1 HD Alternativo
+http://maxptv.net:8080/sergio/sergio/1461
+#EXTINF:-1,Premiere 1 HD2
+http://maxptv.net:8080/sergio/sergio/247
+#EXTINF:-1,Premiere 1 SD
+http://maxptv.net:8080/sergio/sergio/85
+#EXTINF:-1,PREMIERE 2 FULL HD
+http://maxptv.net:8080/sergio/sergio/3064
+#EXTINF:-1,Premiere 2 HD
+http://maxptv.net:8080/sergio/sergio/84
+#EXTINF:-1,Premiere 2 HD Alternativo
+http://maxptv.net:8080/sergio/sergio/1462
+#EXTINF:-1,Premiere 2 SD
+http://maxptv.net:8080/sergio/sergio/83
+#EXTINF:-1,PREMIERE 3 FHD
+http://maxptv.net:8080/sergio/sergio/3065
+#EXTINF:-1,Premiere 3 HD
+http://maxptv.net:8080/sergio/sergio/82
+#EXTINF:-1,Premiere 3 HD Alternativo
+http://maxptv.net:8080/sergio/sergio/1463
+#EXTINF:-1,Premiere 3 SD
+http://maxptv.net:8080/sergio/sergio/81
+#EXTINF:-1,PREMIERE 4 FHD
+http://maxptv.net:8080/sergio/sergio/3066
+#EXTINF:-1,Premiere 4 HD
+http://maxptv.net:8080/sergio/sergio/80
+#EXTINF:-1,Premiere 4 HD Alternativo
+http://maxptv.net:8080/sergio/sergio/1464
+#EXTINF:-1,Premiere 4 SD
+http://maxptv.net:8080/sergio/sergio/79
+#EXTINF:-1,Premiere 5 HD
+http://maxptv.net:8080/sergio/sergio/78
+#EXTINF:-1,Premiere 5 HD Alternativo
+http://maxptv.net:8080/sergio/sergio/1465
+#EXTINF:-1,Premiere 5 SD
+http://maxptv.net:8080/sergio/sergio/77
+#EXTINF:-1,Premiere 6 HD
+http://maxptv.net:8080/sergio/sergio/76
+#EXTINF:-1,Premiere 6 HD Alternativo
+http://maxptv.net:8080/sergio/sergio/1466
+#EXTINF:-1,Premiere 6 SD
+http://maxptv.net:8080/sergio/sergio/75
+#EXTINF:-1,Premiere 7 HD
+http://maxptv.net:8080/sergio/sergio/74
+#EXTINF:-1,Premiere 7 HD Alternativo
+http://maxptv.net:8080/sergio/sergio/1467
+#EXTINF:-1,Premiere 7 SD
+http://maxptv.net:8080/sergio/sergio/73
+#EXTINF:-1,PREMIERE CLUBES FULL HD
+http://maxptv.net:8080/sergio/sergio/3062
+#EXTINF:-1,Record HD
+http://maxptv.net:8080/sergio/sergio/240
+#EXTINF:-1,Record HD 2
+http://maxptv.net:8080/sergio/sergio/68
+#EXTINF:-1,RECORD NEWS FULL HD
+http://maxptv.net:8080/sergio/sergio/3061
+#EXTINF:-1,Record News HD
+http://maxptv.net:8080/sergio/sergio/67
+#EXTINF:-1,Record News SD
+http://maxptv.net:8080/sergio/sergio/66
+#EXTINF:-1,Record SD
+http://maxptv.net:8080/sergio/sergio/239
+#EXTINF:-1,Record SP HD
+http://maxptv.net:8080/sergio/sergio/65
+#EXTINF:-1,Record SP SD
+http://maxptv.net:8080/sergio/sergio/64
+#EXTINF:-1,REDE TV FHD
+http://maxptv.net:8080/sergio/sergio/3071
+#EXTINF:-1,Rede Vida HD
+http://maxptv.net:8080/sergio/sergio/62
+#EXTINF:-1,Rede Vida SD
+http://maxptv.net:8080/sergio/sergio/63
+#EXTINF:-1,RedeTV HD
+http://maxptv.net:8080/sergio/sergio/61
+#EXTINF:-1,RedeTV SD
+http://maxptv.net:8080/sergio/sergio/60
+#EXTINF:-1,Rá -Tim Bum- HD
+http://maxptv.net:8080/sergio/sergio/70
+#EXTINF:-1,Rá- Tim- Bum SD
+http://maxptv.net:8080/sergio/sergio/69
+#EXTINF:-1,SBT FHD INTERIOR
+http://maxptv.net:8080/sergio/sergio/3060
+#EXTINF:-1,Sbt HD
+http://maxptv.net:8080/sergio/sergio/59
+#EXTINF:-1,Sbt SD
+http://maxptv.net:8080/sergio/sergio/58
+#EXTINF:-1,Sextreme HD
+http://maxptv.net:8080/sergio/sergio/57
+#EXTINF:-1,Sextreme SD
+http://maxptv.net:8080/sergio/sergio/56
+#EXTINF:-1,Sexy Hot HD
+http://maxptv.net:8080/sergio/sergio/55
+#EXTINF:-1,Sexy Hot SD
+http://maxptv.net:8080/sergio/sergio/54
+#EXTINF:-1,Show da Luna 24H
+http://maxptv.net:8080/sergio/sergio/559
+#EXTINF:-1,Sony HD
+http://maxptv.net:8080/sergio/sergio/53
+#EXTINF:-1,Sony SD
+http://maxptv.net:8080/sergio/sergio/52
+#EXTINF:-1,South Park 24H
+http://maxptv.net:8080/sergio/sergio/544
+#EXTINF:-1,Space HD
+http://maxptv.net:8080/sergio/sergio/51
+#EXTINF:-1,Space SD
+http://maxptv.net:8080/sergio/sergio/50
+#EXTINF:-1,SporTV 2 FULL HD H265
+http://maxptv.net:8080/sergio/sergio/3058
+#EXTINF:-1,SPORTV 3 FULL HD H265
+http://maxptv.net:8080/sergio/sergio/3059
+#EXTINF:-1,SporTV FULL HD H265
+http://maxptv.net:8080/sergio/sergio/3057
+#EXTINF:-1,SporTV HD
+http://maxptv.net:8080/sergio/sergio/49
+#EXTINF:-1,SporTV SD
+http://maxptv.net:8080/sergio/sergio/48
+#EXTINF:-1,SporTV2 HD
+http://maxptv.net:8080/sergio/sergio/47
+#EXTINF:-1,SporTV2 SD
+http://maxptv.net:8080/sergio/sergio/46
+#EXTINF:-1,SporTV3 HD
+http://maxptv.net:8080/sergio/sergio/45
+#EXTINF:-1,SporTV3 SD
+http://maxptv.net:8080/sergio/sergio/44
+#EXTINF:-1,Studio Universal HD
+http://maxptv.net:8080/sergio/sergio/43
+#EXTINF:-1,Studio Universal SD
+http://maxptv.net:8080/sergio/sergio/42
+#EXTINF:-1,Syfy HD
+http://maxptv.net:8080/sergio/sergio/41
+#EXTINF:-1,Syfy SD
+http://maxptv.net:8080/sergio/sergio/40
+#EXTINF:-1,Tbs HD
+http://maxptv.net:8080/sergio/sergio/39
+#EXTINF:-1,Tbs SD
+http://maxptv.net:8080/sergio/sergio/38
+#EXTINF:-1,TCM HD
+http://maxptv.net:8080/sergio/sergio/37
+#EXTINF:-1,TCM SD
+http://maxptv.net:8080/sergio/sergio/36
+#EXTINF:-1,TELECINE ACTION FULL  HD
+http://maxptv.net:8080/sergio/sergio/3056
+#EXTINF:-1,Telecine Action HD
+http://maxptv.net:8080/sergio/sergio/35
+#EXTINF:-1,Telecine Action SD
+http://maxptv.net:8080/sergio/sergio/34
+#EXTINF:-1,Telecine Cult HD
+http://maxptv.net:8080/sergio/sergio/33
+#EXTINF:-1,Telecine Cult SD
+http://maxptv.net:8080/sergio/sergio/32
+#EXTINF:-1,TELECINE FUN FULL  HD H265
+http://maxptv.net:8080/sergio/sergio/3055
+#EXTINF:-1,Telecine Fun HD
+http://maxptv.net:8080/sergio/sergio/31
+#EXTINF:-1,Telecine Fun SD
+http://maxptv.net:8080/sergio/sergio/30
+#EXTINF:-1,TELECINE PIPOCA FULL HD H265
+http://maxptv.net:8080/sergio/sergio/3054
+#EXTINF:-1,Telecine Pipoca HD
+http://maxptv.net:8080/sergio/sergio/29
+#EXTINF:-1,Telecine Pipoca SD
+http://maxptv.net:8080/sergio/sergio/28
+#EXTINF:-1,TELECINE PREMIUM FULL HD H265
+http://maxptv.net:8080/sergio/sergio/3053
+#EXTINF:-1,Telecine Premium HD
+http://maxptv.net:8080/sergio/sergio/27
+#EXTINF:-1,Telecine Premium SD
+http://maxptv.net:8080/sergio/sergio/26
+#EXTINF:-1,TELECINE TOUCH FULL HD
+http://maxptv.net:8080/sergio/sergio/3070
+#EXTINF:-1,Telecine Touch HD
+http://maxptv.net:8080/sergio/sergio/25
+#EXTINF:-1,Telecine Touch SD
+http://maxptv.net:8080/sergio/sergio/24
+#EXTINF:-1,The Backyardigans 24H
+http://maxptv.net:8080/sergio/sergio/558
+#EXTINF:-1,The Big Bang Theory 24H
+http://maxptv.net:8080/sergio/sergio/543
+#EXTINF:-1,THE HISTORY CHANNEL FULL HD
+http://maxptv.net:8080/sergio/sergio/3052
+#EXTINF:-1,TLC HD
+http://maxptv.net:8080/sergio/sergio/23
+#EXTINF:-1,TLC SD
+http://maxptv.net:8080/sergio/sergio/22
+#EXTINF:-1,TNT FULLHD
+http://maxptv.net:8080/sergio/sergio/3069
+#EXTINF:-1,TNT HD
+http://maxptv.net:8080/sergio/sergio/21
+#EXTINF:-1,TNT SD
+http://maxptv.net:8080/sergio/sergio/20
+#EXTINF:-1,TNT Series HD
+http://maxptv.net:8080/sergio/sergio/517
+#EXTINF:-1,TNT Series SD
+http://maxptv.net:8080/sergio/sergio/18
+#EXTINF:-1,Todo Mundo Odeia o Cris
+http://maxptv.net:8080/sergio/sergio/317
+#EXTINF:-1,Tom & Jerry  24H
+http://maxptv.net:8080/sergio/sergio/557
+#EXTINF:-1,Tooncast HD
+http://maxptv.net:8080/sergio/sergio/17
+#EXTINF:-1,Tooncast SD
+http://maxptv.net:8080/sergio/sergio/16
+#EXTINF:-1,TV Aparecida FULL HD
+http://maxptv.net:8080/sergio/sergio/3046
+#EXTINF:-1,TV Aparecida HD
+http://maxptv.net:8080/sergio/sergio/15
+#EXTINF:-1,TV Aparecida SD
+http://maxptv.net:8080/sergio/sergio/14
+#EXTINF:-1,TV Rio Preto
+http://maxptv.net:8080/sergio/sergio/13
+#EXTINF:-1,TV RÁ TIM BUM FULL HD H265
+http://maxptv.net:8080/sergio/sergio/3051
+#EXTINF:-1,Two And a Half Man 24H
+http://maxptv.net:8080/sergio/sergio/542
+#EXTINF:-1,Um Maluco No Pedaco  24H
+http://maxptv.net:8080/sergio/sergio/541
+#EXTINF:-1,Universal Channel HD
+http://maxptv.net:8080/sergio/sergio/12
+#EXTINF:-1,Universal Channel SD
+http://maxptv.net:8080/sergio/sergio/11
+#EXTINF:-1,Venus HD
+http://maxptv.net:8080/sergio/sergio/10
+#EXTINF:-1,Venus SD
+http://maxptv.net:8080/sergio/sergio/9
+#EXTINF:-1,VH1 HD
+http://maxptv.net:8080/sergio/sergio/8
+#EXTINF:-1,VH1 SD
+http://maxptv.net:8080/sergio/sergio/7
+#EXTINF:-1,Viva HD
+http://maxptv.net:8080/sergio/sergio/6
+#EXTINF:-1,Viva SD
+http://maxptv.net:8080/sergio/sergio/5
+#EXTINF:-1,Warner Bros HD
+http://maxptv.net:8080/sergio/sergio/4
+#EXTINF:-1,Warner Bros SD
+http://maxptv.net:8080/sergio/sergio/3
+#EXTINF:-1,X-Men Evolution 24H
+http://maxptv.net:8080/sergio/sergio/1483
+#EXTINF:-1,Zoomoo HD
+http://maxptv.net:8080/sergio/sergio/2
+#EXTINF:-1,Zoomoo SD
+http://maxptv.net:8080/sergio/sergio/1
+#EXTINF:-1,+ Velozes + Furiosos
+http://maxptv.net:8080/movie/sergio/sergio/2313.mp4
+#EXTINF:-1,007 - Ao Serviço de Sua Majestade
+http://maxptv.net:8080/movie/sergio/sergio/4073.mkv
+#EXTINF:-1,007 - Casino Royale
+http://maxptv.net:8080/movie/sergio/sergio/4088.mkv
+#EXTINF:-1,007 - Contra Goldfinger 
+http://maxptv.net:8080/movie/sergio/sergio/4070.mkv
+#EXTINF:-1,007 - GoldenEye 
+http://maxptv.net:8080/movie/sergio/sergio/4084.mp4
+#EXTINF:-1,007 - Licença para Matar
+http://maxptv.net:8080/movie/sergio/sergio/4083.mkv
+#EXTINF:-1,007 - Marcado para a Morte
+http://maxptv.net:8080/movie/sergio/sergio/4082.mkv
+#EXTINF:-1,007 - O Amanhã Nunca Morre
+http://maxptv.net:8080/movie/sergio/sergio/4085.mkv
+#EXTINF:-1,007 - Os Diamantes São Eternos
+http://maxptv.net:8080/movie/sergio/sergio/4074.mkv
+#EXTINF:-1,007 - Quantum of Solace 
+http://maxptv.net:8080/movie/sergio/sergio/4089.mkv
+#EXTINF:-1,007 - Skyfall 
+http://maxptv.net:8080/movie/sergio/sergio/4090.mkv
+#EXTINF:-1,007 - Só Se Vive Duas Vezes 
+http://maxptv.net:8080/movie/sergio/sergio/4072.mkv
+#EXTINF:-1,007 - Vive e Deixa Morrer
+http://maxptv.net:8080/movie/sergio/sergio/4075.mkv
+#EXTINF:-1,007 Contra a Chantagem Atômica
+http://maxptv.net:8080/movie/sergio/sergio/4071.mkv
+#EXTINF:-1,007 Contra o Dr Satânico No
+http://maxptv.net:8080/movie/sergio/sergio/4068.mkv
+#EXTINF:-1,007 Contra o Foguete da Morte
+http://maxptv.net:8080/movie/sergio/sergio/4078.mkv
+#EXTINF:-1,007 Contra o Homem com a Pistola de Ouro
+http://maxptv.net:8080/movie/sergio/sergio/4076.mkv
+#EXTINF:-1,007 Contra Octopussy
+http://maxptv.net:8080/movie/sergio/sergio/4080.mkv
+#EXTINF:-1,007 contra Spectre
+http://maxptv.net:8080/movie/sergio/sergio/4091.mp4
+#EXTINF:-1,007 Moscou Contra
+http://maxptv.net:8080/movie/sergio/sergio/4069.mkv
+#EXTINF:-1,007 Na Mira dos Assassinos
+http://maxptv.net:8080/movie/sergio/sergio/4081.mkv
+#EXTINF:-1,007 O Espião que me Amava
+http://maxptv.net:8080/movie/sergio/sergio/4077.mkv
+#EXTINF:-1,007 O Mundo Não é o Bastante
+http://maxptv.net:8080/movie/sergio/sergio/4086.mkv
+#EXTINF:-1,007 Somente Para Seus Olhos
+http://maxptv.net:8080/movie/sergio/sergio/4079.mkv
+#EXTINF:-1,007 Um Novo Dia Para Morrer
+http://maxptv.net:8080/movie/sergio/sergio/4087.mkv
+#EXTINF:-1,101 Dálmatas - 1996
+http://maxptv.net:8080/movie/sergio/sergio/3883.avi
+#EXTINF:-1,101 Dálmatas 2 - A Aventura de Patch em Londres - 2003
+http://maxptv.net:8080/movie/sergio/sergio/3884.avi
+#EXTINF:-1,12 Macacos 
+http://maxptv.net:8080/movie/sergio/sergio/5377.mp4
+#EXTINF:-1,3000 Milhas para o Inferno 
+http://maxptv.net:8080/movie/sergio/sergio/3478.mkv
+#EXTINF:-1,A Arte da Autodefesa
+http://maxptv.net:8080/movie/sergio/sergio/5373.mp4
+#EXTINF:-1,A Bela e o Monstro: Natal Encantado - 1997
+http://maxptv.net:8080/movie/sergio/sergio/3851.avi
+#EXTINF:-1,A Bruxa
+http://maxptv.net:8080/movie/sergio/sergio/3705.mkv
+#EXTINF:-1,A Cabana - 2017
+http://maxptv.net:8080/movie/sergio/sergio/3611.mp4
+#EXTINF:-1,A Caminho da Fé
+http://maxptv.net:8080/movie/sergio/sergio/3745.mp4
+#EXTINF:-1,A Carga
+http://maxptv.net:8080/movie/sergio/sergio/3231.mkv
+#EXTINF:-1,A Casa de Vidro
+http://maxptv.net:8080/movie/sergio/sergio/4973.avi
+#EXTINF:-1,A Casa de Vidro 2
+http://maxptv.net:8080/movie/sergio/sergio/4972.avi
+#EXTINF:-1,A Chefa
+http://maxptv.net:8080/movie/sergio/sergio/5345.mkv
+#EXTINF:-1,A Colheita da Fé - 2017
+http://maxptv.net:8080/movie/sergio/sergio/3722.mkv
+#EXTINF:-1,A Conquista do Planeta dos Macacos - 1972
+http://maxptv.net:8080/movie/sergio/sergio/3355.mp4
+#EXTINF:-1,A Dama e o Vagabundo - 1955
+http://maxptv.net:8080/movie/sergio/sergio/3885.avi
+#EXTINF:-1,A Dama e o Vagabundo 2 As Aventuras de Banzé - 2001
+http://maxptv.net:8080/movie/sergio/sergio/3886.avi
+#EXTINF:-1,A Escolha Perfeita.
+http://maxptv.net:8080/movie/sergio/sergio/3638.mkv
+#EXTINF:-1,A Espada Era a Lei - 1963
+http://maxptv.net:8080/movie/sergio/sergio/3887.avi
+#EXTINF:-1,A Estrela de Belém
+http://maxptv.net:8080/movie/sergio/sergio/3723.mp4
+#EXTINF:-1,A Experiência 
+http://maxptv.net:8080/movie/sergio/sergio/3792.mkv
+#EXTINF:-1,A Experiência 2 - A Mutação
+http://maxptv.net:8080/movie/sergio/sergio/3791.mkv
+#EXTINF:-1,A Experiência 3
+http://maxptv.net:8080/movie/sergio/sergio/3789.mkv
+#EXTINF:-1,A Experiência 4: O Despertar
+http://maxptv.net:8080/movie/sergio/sergio/3790.mkv
+#EXTINF:-1,A Face Oculta
+http://maxptv.net:8080/movie/sergio/sergio/4741.mkv
+#EXTINF:-1,A Família Addams
+http://maxptv.net:8080/movie/sergio/sergio/4746.mkv
+#EXTINF:-1,A Família do Futuro
+http://maxptv.net:8080/movie/sergio/sergio/3888.avi
+#EXTINF:-1,A Favorita 
+http://maxptv.net:8080/movie/sergio/sergio/3232.mkv
+#EXTINF:-1,A Filha do Presidente
+http://maxptv.net:8080/movie/sergio/sergio/5031.mp4
+#EXTINF:-1,A Força
+http://maxptv.net:8080/movie/sergio/sergio/2248.mp4
+#EXTINF:-1,A Freira 
+http://maxptv.net:8080/movie/sergio/sergio/3701.mkv
+#EXTINF:-1,A Fuga das Galinhas - 2000
+http://maxptv.net:8080/movie/sergio/sergio/3889.avi
+#EXTINF:-1,A Herança de Mr. Deeds 
+http://maxptv.net:8080/movie/sergio/sergio/3489.mp4
+#EXTINF:-1,A Hora do Pesadelo 1
+http://maxptv.net:8080/movie/sergio/sergio/2080.mp4
+#EXTINF:-1,A Hora do Pesadelo 2 - A Vingança de Freddy 
+http://maxptv.net:8080/movie/sergio/sergio/2081.mp4
+#EXTINF:-1,A Hora do Pesadelo 3 - Os Guerreiros dos Sonhos
+http://maxptv.net:8080/movie/sergio/sergio/2082.mp4
+#EXTINF:-1,A Hora do Pesadelo 4 - O Mestre dos Sonhos
+http://maxptv.net:8080/movie/sergio/sergio/2083.mp4
+#EXTINF:-1,A Hora do Pesadelo 5 - O Maior Horror de Freddy
+http://maxptv.net:8080/movie/sergio/sergio/2084.mp4
+#EXTINF:-1,A Hora do Pesadelo 6 - Pesadelo Final A Morte de Freddy
+http://maxptv.net:8080/movie/sergio/sergio/2085.mp4
+#EXTINF:-1,A Hora do Pesadelo 7 - O Novo Pesadelo - O Retorno de Freddy Krueger
+http://maxptv.net:8080/movie/sergio/sergio/2086.mp4
+#EXTINF:-1,A Identidade Bourne
+http://maxptv.net:8080/movie/sergio/sergio/3986.mp4
+#EXTINF:-1,A Ilha da Morte - 2016
+http://maxptv.net:8080/movie/sergio/sergio/3612.avi
+#EXTINF:-1,A Janela Secreta
+http://maxptv.net:8080/movie/sergio/sergio/3639.mkv
+#EXTINF:-1,A Justiceira 
+http://maxptv.net:8080/movie/sergio/sergio/2194.mkv
+#EXTINF:-1,A Lenda de Tarzan
+http://maxptv.net:8080/movie/sergio/sergio/5011.mp4
+#EXTINF:-1,A Lenda do Cavaleiro Sem Cabeça 
+http://maxptv.net:8080/movie/sergio/sergio/2260.mp4
+#EXTINF:-1,A Lenda do Golem
+http://maxptv.net:8080/movie/sergio/sergio/3233.mkv
+#EXTINF:-1,A Luz Divina
+http://maxptv.net:8080/movie/sergio/sergio/3746.mkv
+#EXTINF:-1,A Maior História de Todos os Tempos - 1965
+http://maxptv.net:8080/movie/sergio/sergio/3358.mp4
+#EXTINF:-1,A Maldição 
+http://maxptv.net:8080/movie/sergio/sergio/5344.mkv
+#EXTINF:-1,A Maldição da Chorona
+http://maxptv.net:8080/movie/sergio/sergio/3234.mkv
+#EXTINF:-1,A Maratona de Brittany
+http://maxptv.net:8080/movie/sergio/sergio/4726.mp4
+#EXTINF:-1,A Moda Antiga
+http://maxptv.net:8080/movie/sergio/sergio/3724.mkv
+#EXTINF:-1,A Morte do Demônio
+http://maxptv.net:8080/movie/sergio/sergio/3616.mp4
+#EXTINF:-1,A Múmia 
+http://maxptv.net:8080/movie/sergio/sergio/3702.mp4
+#EXTINF:-1,A Nova Onda do  Imperador - 2000
+http://maxptv.net:8080/movie/sergio/sergio/3894.avi
+#EXTINF:-1,A Oração não Falha
+http://maxptv.net:8080/movie/sergio/sergio/3747.avi
+#EXTINF:-1,A Paixão de Cristo
+http://maxptv.net:8080/movie/sergio/sergio/3725.mp4
+#EXTINF:-1,A Premonição 5
+http://maxptv.net:8080/movie/sergio/sergio/4098.mp4
+#EXTINF:-1,A Princesa e a Ervilha - 2002
+http://maxptv.net:8080/movie/sergio/sergio/3855.avi
+#EXTINF:-1,A Princesa Encantada
+http://maxptv.net:8080/movie/sergio/sergio/3856.avi
+#EXTINF:-1,A Profecia do Presidente 
+http://maxptv.net:8080/movie/sergio/sergio/3615.mkv
+#EXTINF:-1,A Proposta 
+http://maxptv.net:8080/movie/sergio/sergio/2200.mp4
+#EXTINF:-1,A Pé Ele Não Vai Longe
+http://maxptv.net:8080/movie/sergio/sergio/3235.mkv
+#EXTINF:-1,A Ratinha Valente - 1982
+http://maxptv.net:8080/movie/sergio/sergio/3858.avi
+#EXTINF:-1,A Ratinha Valente 2 - O Segredo do Ratinho - 1998
+http://maxptv.net:8080/movie/sergio/sergio/3857.avi
+#EXTINF:-1,A Supremacia Bourne
+http://maxptv.net:8080/movie/sergio/sergio/3987.mp4
+#EXTINF:-1,A Torre Negra
+http://maxptv.net:8080/movie/sergio/sergio/5010.mp4
+#EXTINF:-1,A Vida Secreta das Cheerleaders
+http://maxptv.net:8080/movie/sergio/sergio/3324.mkv
+#EXTINF:-1,A Vida Secreta de Walter Mitty 
+http://maxptv.net:8080/movie/sergio/sergio/3620.mp4
+#EXTINF:-1,A Vida Secreta dos Nossos Bichos 2 
+http://maxptv.net:8080/movie/sergio/sergio/4965.mkv
+#EXTINF:-1,A Virada 
+http://maxptv.net:8080/movie/sergio/sergio/3726.mkv
+#EXTINF:-1,A Volta dos Mortos Vivos 
+http://maxptv.net:8080/movie/sergio/sergio/3217.mkv
+#EXTINF:-1,A Volta dos Mortos Vivos 2
+http://maxptv.net:8080/movie/sergio/sergio/3218.mkv
+#EXTINF:-1,A Volta dos Mortos Vivos 3 - 1993
+http://maxptv.net:8080/movie/sergio/sergio/3219.mkv
+#EXTINF:-1,A Órfã
+http://maxptv.net:8080/movie/sergio/sergio/3703.mkv
+#EXTINF:-1,A Última Premonição - 2015
+http://maxptv.net:8080/movie/sergio/sergio/4153.mkv
+#EXTINF:-1,Abdução
+http://maxptv.net:8080/movie/sergio/sergio/3704.mp4
+#EXTINF:-1,Abigail e a Cidade Proibida
+http://maxptv.net:8080/movie/sergio/sergio/5374.mkv
+#EXTINF:-1,Abominável
+http://maxptv.net:8080/movie/sergio/sergio/4943.mp4
+#EXTINF:-1,Acho Que Matei Minha Chefe
+http://maxptv.net:8080/movie/sergio/sergio/3029.mkv
+#EXTINF:-1,Ad Astra
+http://maxptv.net:8080/movie/sergio/sergio/3030.mkv
+#EXTINF:-1,Agente 00-Gato
+http://maxptv.net:8080/movie/sergio/sergio/2259.mp4
+#EXTINF:-1,Aladdin
+http://maxptv.net:8080/movie/sergio/sergio/3075.mkv
+#EXTINF:-1,Aladdin - 1992
+http://maxptv.net:8080/movie/sergio/sergio/3890.avi
+#EXTINF:-1,Aladdin 2 - O Retorno de Jafar (1994)
+http://maxptv.net:8080/movie/sergio/sergio/3891.avi
+#EXTINF:-1,Aladdin e o Rei dos Ladrões - 1996
+http://maxptv.net:8080/movie/sergio/sergio/3892.avi
+#EXTINF:-1,Alguém Lá em Cima Gosta de Mim
+http://maxptv.net:8080/movie/sergio/sergio/3754.avi
+#EXTINF:-1,Alice no País das Maravilhas - 1951
+http://maxptv.net:8080/movie/sergio/sergio/3893.avi
+#EXTINF:-1,Alien Domicile 2: Lot 24 
+http://maxptv.net:8080/movie/sergio/sergio/5085.mkv
+#EXTINF:-1,Alita: Anjo de Combate
+http://maxptv.net:8080/movie/sergio/sergio/3237.mkv
+#EXTINF:-1,Alok no Rock in Rio 2019
+http://maxptv.net:8080/movie/sergio/sergio/5042.mkv
+#EXTINF:-1,Alô, Amigos - 1942
+http://maxptv.net:8080/movie/sergio/sergio/3853.avi
+#EXTINF:-1,American Pie - Caindo em Tentação
+http://maxptv.net:8080/movie/sergio/sergio/2254.mp4
+#EXTINF:-1,American Pie - O Último Stifler Virgem
+http://maxptv.net:8080/movie/sergio/sergio/2257.mp4
+#EXTINF:-1,American Pie - Tocando a Maior Zona
+http://maxptv.net:8080/movie/sergio/sergio/2258.mp4
+#EXTINF:-1,American Pie 2 - A Segunda Vez é Ainda Melhor
+http://maxptv.net:8080/movie/sergio/sergio/2251.mp4
+#EXTINF:-1,American Pie — A Primeira Vez é Inesquecível
+http://maxptv.net:8080/movie/sergio/sergio/2252.mp4
+#EXTINF:-1,American Pie: O Casamento
+http://maxptv.net:8080/movie/sergio/sergio/2255.mp4
+#EXTINF:-1,American Pie: O Livro do Amor
+http://maxptv.net:8080/movie/sergio/sergio/2253.mp4
+#EXTINF:-1,American Pie: O Reencontro
+http://maxptv.net:8080/movie/sergio/sergio/2256.mp4
+#EXTINF:-1,Amor Impossível - 2015
+http://maxptv.net:8080/movie/sergio/sergio/4698.avi
+#EXTINF:-1,Ana 
+http://maxptv.net:8080/movie/sergio/sergio/5516.mkv
+#EXTINF:-1,Anastasia - 1996
+http://maxptv.net:8080/movie/sergio/sergio/3854.avi
+#EXTINF:-1,Animais Fantásticos e Onde Habitam
+http://maxptv.net:8080/movie/sergio/sergio/2079.mkv
+#EXTINF:-1,Anitta no Rock in Rio 2019
+http://maxptv.net:8080/movie/sergio/sergio/5043.mkv
+#EXTINF:-1,Anjo Perdido 
+http://maxptv.net:8080/movie/sergio/sergio/4749.mkv
+#EXTINF:-1,Anna e o Apocalipse 
+http://maxptv.net:8080/movie/sergio/sergio/4856.mp4
+#EXTINF:-1,Anna – O Perigo Tem Nome
+http://maxptv.net:8080/movie/sergio/sergio/2091.mkv
+#EXTINF:-1,Anos 90
+http://maxptv.net:8080/movie/sergio/sergio/3238.mkv
+#EXTINF:-1,Apollo 11
+http://maxptv.net:8080/movie/sergio/sergio/4960.mkv
+#EXTINF:-1,Apparition
+http://maxptv.net:8080/movie/sergio/sergio/5086.mkv
+#EXTINF:-1,Aquaman
+http://maxptv.net:8080/movie/sergio/sergio/2274.mp4
+#EXTINF:-1,As Aventuras de Azur e Asmar - 2006
+http://maxptv.net:8080/movie/sergio/sergio/3896.avi
+#EXTINF:-1,As Aventuras de Ichabod e Sr. Sapo 
+http://maxptv.net:8080/movie/sergio/sergio/3859.avi
+#EXTINF:-1,As Crónicas de Nárnia: A Viagem do Caminheiro da Alvorada
+http://maxptv.net:8080/movie/sergio/sergio/3976.mkv
+#EXTINF:-1,As Crónicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa 
+http://maxptv.net:8080/movie/sergio/sergio/3977.mkv
+#EXTINF:-1,As Crónicas de Nárnia: O Príncipe Caspian
+http://maxptv.net:8080/movie/sergio/sergio/3978.mkv
+#EXTINF:-1,As Extra Aventuras de Winnie the Pooh
+http://maxptv.net:8080/movie/sergio/sergio/3860.avi
+#EXTINF:-1,As Fitas de Poughkeepsie 
+http://maxptv.net:8080/movie/sergio/sergio/3325.mp4
+#EXTINF:-1,As Loucuras de Rose
+http://maxptv.net:8080/movie/sergio/sergio/4857.mp4
+#EXTINF:-1,As Meninas Superpoderosas: O Filme - 2002
+http://maxptv.net:8080/movie/sergio/sergio/3897.avi
+#EXTINF:-1,As Panteras
+http://maxptv.net:8080/movie/sergio/sergio/2275.mp4
+#EXTINF:-1,As Panteras - 2000
+http://maxptv.net:8080/movie/sergio/sergio/3617.mp4
+#EXTINF:-1,As Panteras - Detonando
+http://maxptv.net:8080/movie/sergio/sergio/3618.mp4
+#EXTINF:-1,Asilo de Medo - 2018
+http://maxptv.net:8080/movie/sergio/sergio/3321.mp4
+#EXTINF:-1,Assassin's Creed 
+http://maxptv.net:8080/movie/sergio/sergio/3619.mp4
+#EXTINF:-1,Assassinos 
+http://maxptv.net:8080/movie/sergio/sergio/5346.mkv
+#EXTINF:-1,Assim Nasce Uma Estrela 
+http://maxptv.net:8080/movie/sergio/sergio/5019.mkv
+#EXTINF:-1,Balto - 1995
+http://maxptv.net:8080/movie/sergio/sergio/3863.avi
+#EXTINF:-1,Balto 2 - Uma Aventura na Terra do Gelo 
+http://maxptv.net:8080/movie/sergio/sergio/3861.avi
+#EXTINF:-1,Balto 3 - Nas Asas do Destino 
+http://maxptv.net:8080/movie/sergio/sergio/3862.avi
+#EXTINF:-1,Barrabás
+http://maxptv.net:8080/movie/sergio/sergio/3764.mkv
+#EXTINF:-1,Bartok O Magnífico
+http://maxptv.net:8080/movie/sergio/sergio/3864.avi
+#EXTINF:-1,Batalha pelo Planeta dos Macacos - 1973
+http://maxptv.net:8080/movie/sergio/sergio/3356.mp4
+#EXTINF:-1,Batalha por T.E.R.A. - 2007
+http://maxptv.net:8080/movie/sergio/sergio/3898.avi
+#EXTINF:-1,Bater ou Correr
+http://maxptv.net:8080/movie/sergio/sergio/5032.mkv
+#EXTINF:-1,Bater ou Correr em Londres
+http://maxptv.net:8080/movie/sergio/sergio/5033.mkv
+#EXTINF:-1,Baywatch: S.O.S. Malibu
+http://maxptv.net:8080/movie/sergio/sergio/5034.mp4
+#EXTINF:-1,Bee Movie - A História de uma Abelha - 2007
+http://maxptv.net:8080/movie/sergio/sergio/3899.avi
+#EXTINF:-1,Bernardo e Bianca
+http://maxptv.net:8080/movie/sergio/sergio/3865.avi
+#EXTINF:-1,Bernie, o Golfinho
+http://maxptv.net:8080/movie/sergio/sergio/3240.mkv
+#EXTINF:-1,Beto - O Travesso - 2005
+http://maxptv.net:8080/movie/sergio/sergio/3900.avi
+#EXTINF:-1,Blue Story
+http://maxptv.net:8080/movie/sergio/sergio/4715.mkv
+#EXTINF:-1,Bohemian Rhapsody 
+http://maxptv.net:8080/movie/sergio/sergio/4858.mp4
+#EXTINF:-1,Born to Win - 2014
+http://maxptv.net:8080/movie/sergio/sergio/3731.avi
+#EXTINF:-1,Boyka O Imbatível 
+http://maxptv.net:8080/movie/sergio/sergio/4721.mkv
+#EXTINF:-1,Bravura Indômita 
+http://maxptv.net:8080/movie/sergio/sergio/4738.mkv
+#EXTINF:-1,Brightburn - Filho das Trevas 
+http://maxptv.net:8080/movie/sergio/sergio/3699.mkv
+#EXTINF:-1,Brincando com Fogo
+http://maxptv.net:8080/movie/sergio/sergio/4745.mkv
+#EXTINF:-1,Brooklyn - Sem Pai Nem Mãe
+http://maxptv.net:8080/movie/sergio/sergio/5087.mkv
+#EXTINF:-1,Bumblebee
+http://maxptv.net:8080/movie/sergio/sergio/3241.mkv
+#EXTINF:-1,Busca Implacável 
+http://maxptv.net:8080/movie/sergio/sergio/2332.mp4
+#EXTINF:-1,Busca Implacável 2
+http://maxptv.net:8080/movie/sergio/sergio/2333.mp4
+#EXTINF:-1,Busca Implacável 3
+http://maxptv.net:8080/movie/sergio/sergio/2334.mp4
+#EXTINF:-1,Caixa De Passaros :  Bird Box 
+http://maxptv.net:8080/movie/sergio/sergio/3322.mkv
+#EXTINF:-1,Caixinha de Surpresas - 1944
+http://maxptv.net:8080/movie/sergio/sergio/3852.avi
+#EXTINF:-1,Calmaria
+http://maxptv.net:8080/movie/sergio/sergio/3076.mkv
+#EXTINF:-1,Campo do Medo
+http://maxptv.net:8080/movie/sergio/sergio/3621.mkv
+#EXTINF:-1,Capitã Marvel
+http://maxptv.net:8080/movie/sergio/sergio/3077.mkv
+#EXTINF:-1,Capitão América - O Primeiro Vingador - 2011
+http://maxptv.net:8080/movie/sergio/sergio/2296.mp4
+#EXTINF:-1,Capitão América: Guerra Civil - 2016
+http://maxptv.net:8080/movie/sergio/sergio/2295.mp4
+#EXTINF:-1,Capitão América: O Soldado do Inverno - 2014
+http://maxptv.net:8080/movie/sergio/sergio/2294.mp4
+#EXTINF:-1,Carga Explosiva
+http://maxptv.net:8080/movie/sergio/sergio/2097.mkv
+#EXTINF:-1,Carga Explosiva 2
+http://maxptv.net:8080/movie/sergio/sergio/2098.mkv
+#EXTINF:-1,Carga Explosiva 3
+http://maxptv.net:8080/movie/sergio/sergio/2099.mkv
+#EXTINF:-1,Carrie  a Estranha
+http://maxptv.net:8080/movie/sergio/sergio/3622.mp4
+#EXTINF:-1,Casamento Sangrento
+http://maxptv.net:8080/movie/sergio/sergio/4750.mkv
+#EXTINF:-1,Caçado
+http://maxptv.net:8080/movie/sergio/sergio/3343.mkv
+#EXTINF:-1,Cemitério Maldito
+http://maxptv.net:8080/movie/sergio/sergio/3078.mkv
+#EXTINF:-1,Centro de Trauma
+http://maxptv.net:8080/movie/sergio/sergio/3079.mkv
+#EXTINF:-1,Cinderela 
+http://maxptv.net:8080/movie/sergio/sergio/3866.avi
+#EXTINF:-1,Cine Pesadelo
+http://maxptv.net:8080/movie/sergio/sergio/4968.mkv
+#EXTINF:-1,Code 8: Renegados
+http://maxptv.net:8080/movie/sergio/sergio/3916.mkv
+#EXTINF:-1,Com Deus no Caminho
+http://maxptv.net:8080/movie/sergio/sergio/3727.mkv
+#EXTINF:-1,Com Deus no Caminho 
+http://maxptv.net:8080/movie/sergio/sergio/3243.mkv
+#EXTINF:-1,Com Quem Será? 
+http://maxptv.net:8080/movie/sergio/sergio/3244.mkv
+#EXTINF:-1,Com Sartana Cada Bala É Uma Morte 
+http://maxptv.net:8080/movie/sergio/sergio/4733.mkv
+#EXTINF:-1,Como Perder um Homem em 10 Dias
+http://maxptv.net:8080/movie/sergio/sergio/3641.mp4
+#EXTINF:-1,Como Treinar o seu Dragão 3
+http://maxptv.net:8080/movie/sergio/sergio/3080.mkv
+#EXTINF:-1,Como é Bom Se Divertir
+http://maxptv.net:8080/movie/sergio/sergio/3867.avi
+#EXTINF:-1,Constantine
+http://maxptv.net:8080/movie/sergio/sergio/3706.mp4
+#EXTINF:-1,Coringa
+http://maxptv.net:8080/movie/sergio/sergio/3917.mkv
+#EXTINF:-1,Coringa
+http://maxptv.net:8080/movie/sergio/sergio/4961.mkv
+#EXTINF:-1,Corpo Fechado
+http://maxptv.net:8080/movie/sergio/sergio/3479.mp4
+#EXTINF:-1,Corra!
+http://maxptv.net:8080/movie/sergio/sergio/3707.mp4
+#EXTINF:-1,Cortina de Fogo 2
+http://maxptv.net:8080/movie/sergio/sergio/2261.mp4
+#EXTINF:-1,Creed II - 2018
+http://maxptv.net:8080/movie/sergio/sergio/3199.mkv
+#EXTINF:-1,Creed: O Legado de Rocky - 2015
+http://maxptv.net:8080/movie/sergio/sergio/3200.mkv
+#EXTINF:-1,Creepshow
+http://maxptv.net:8080/movie/sergio/sergio/5084.mkv
+#EXTINF:-1,Creepshow 2 
+http://maxptv.net:8080/movie/sergio/sergio/5040.mkv
+#EXTINF:-1,Crimes Obscuros
+http://maxptv.net:8080/movie/sergio/sergio/3247.mkv
+#EXTINF:-1,Crocodilo Dundee
+http://maxptv.net:8080/movie/sergio/sergio/3465.mkv
+#EXTINF:-1,Cópias - De Volta à Vida
+http://maxptv.net:8080/movie/sergio/sergio/3249.mkv
+#EXTINF:-1,De Volta ao  Planeta dos Macacos - 1970
+http://maxptv.net:8080/movie/sergio/sergio/3353.mp4
+#EXTINF:-1,Dead Kids 
+http://maxptv.net:8080/movie/sergio/sergio/2190.mkv
+#EXTINF:-1,Deadpool 2
+http://maxptv.net:8080/movie/sergio/sergio/4860.mp4
+#EXTINF:-1,Deadwood
+http://maxptv.net:8080/movie/sergio/sergio/4734.mp4
+#EXTINF:-1,Debi e Lóide
+http://maxptv.net:8080/movie/sergio/sergio/5328.mp4
+#EXTINF:-1,Depois da Escuridão 
+http://maxptv.net:8080/movie/sergio/sergio/4716.mkv
+#EXTINF:-1,Depois da Terra
+http://maxptv.net:8080/movie/sergio/sergio/3623.mp4
+#EXTINF:-1,Depois do Casamento
+http://maxptv.net:8080/movie/sergio/sergio/4729.mp4
+#EXTINF:-1,Dinossauro - 2000
+http://maxptv.net:8080/movie/sergio/sergio/3901.avi
+#EXTINF:-1,Direito a Vida
+http://maxptv.net:8080/movie/sergio/sergio/3728.avi
+#EXTINF:-1,Dirty Dancing 
+http://maxptv.net:8080/movie/sergio/sergio/5013.mp4
+#EXTINF:-1,Diário de uma Ninfomaníaca 
+http://maxptv.net:8080/movie/sergio/sergio/5014.mp4
+#EXTINF:-1,Django Livre
+http://maxptv.net:8080/movie/sergio/sergio/4735.mkv
+#EXTINF:-1,Do Inferno
+http://maxptv.net:8080/movie/sergio/sergio/3708.mkv
+#EXTINF:-1,Do que as Mulheres Gostam
+http://maxptv.net:8080/movie/sergio/sergio/3481.mkv
+#EXTINF:-1,Dois Papas
+http://maxptv.net:8080/movie/sergio/sergio/4751.mkv
+#EXTINF:-1,Dora e a Cidade Perdida 
+http://maxptv.net:8080/movie/sergio/sergio/3700.mkv
+#EXTINF:-1,Doutor Estranho - 2016
+http://maxptv.net:8080/movie/sergio/sergio/2297.mp4
+#EXTINF:-1,Doutor Sono  Qualidade 10
+http://maxptv.net:8080/movie/sergio/sergio/5728.mp4
+#EXTINF:-1,Dragon Ball Super: Broly
+http://maxptv.net:8080/movie/sergio/sergio/3250.mkv
+#EXTINF:-1,Dragão Vermelho 
+http://maxptv.net:8080/movie/sergio/sergio/3921.mp4
+#EXTINF:-1,Dumbo 
+http://maxptv.net:8080/movie/sergio/sergio/3081.mkv
+#EXTINF:-1,Dumbo 
+http://maxptv.net:8080/movie/sergio/sergio/3868.avi
+#EXTINF:-1,E O Vento Levou
+http://maxptv.net:8080/movie/sergio/sergio/3359.mp4
+#EXTINF:-1,Eclipse Mortal 
+http://maxptv.net:8080/movie/sergio/sergio/3482.mp4
+#EXTINF:-1,Ela Dança, Eu Danço
+http://maxptv.net:8080/movie/sergio/sergio/3946.mkv
+#EXTINF:-1,Ela Dança, Eu Danço 2 
+http://maxptv.net:8080/movie/sergio/sergio/3947.mkv
+#EXTINF:-1,Ela Dança, Eu Danço 3 
+http://maxptv.net:8080/movie/sergio/sergio/3948.mkv
+#EXTINF:-1,Ela Dança, Eu Danço 4
+http://maxptv.net:8080/movie/sergio/sergio/3949.mkv
+#EXTINF:-1,Ela Dança, Eu Danço 5: Tudo ou Nada
+http://maxptv.net:8080/movie/sergio/sergio/3950.mkv
+#EXTINF:-1,Ela Disse, Ele Disse
+http://maxptv.net:8080/movie/sergio/sergio/4699.mkv
+#EXTINF:-1,Eli 
+http://maxptv.net:8080/movie/sergio/sergio/1568.mkv
+#EXTINF:-1,Elvira - A Rainha das Trevas - 1988
+http://maxptv.net:8080/movie/sergio/sergio/5035.mkv
+#EXTINF:-1,Elvira 2
+http://maxptv.net:8080/movie/sergio/sergio/5036.mkv
+#EXTINF:-1,Em Nome do Pai
+http://maxptv.net:8080/movie/sergio/sergio/5347.mkv
+#EXTINF:-1,Entrando Numa Fria
+http://maxptv.net:8080/movie/sergio/sergio/3483.mp4
+#EXTINF:-1,Entre Mundos 
+http://maxptv.net:8080/movie/sergio/sergio/3642.mkv
+#EXTINF:-1,Entrevista com Deus
+http://maxptv.net:8080/movie/sergio/sergio/4863.mp4
+#EXTINF:-1,Era Uma Vez em  Hollywood
+http://maxptv.net:8080/movie/sergio/sergio/3709.mp4
+#EXTINF:-1,Era uma Vez no Oeste
+http://maxptv.net:8080/movie/sergio/sergio/3466.mkv
+#EXTINF:-1,Ernest no Campo
+http://maxptv.net:8080/movie/sergio/sergio/5037.mkv
+#EXTINF:-1,Especial de Natal Porta dos Fundos: A Primeira Tentação de Cristo
+http://maxptv.net:8080/movie/sergio/sergio/3717.mp4
+#EXTINF:-1,Espião Por Acidente
+http://maxptv.net:8080/movie/sergio/sergio/3729.mkv
+#EXTINF:-1,Espíritos - A Morte Está ao Seu Lado
+http://maxptv.net:8080/movie/sergio/sergio/5015.avi
+#EXTINF:-1,Esquadrão 6 
+http://maxptv.net:8080/movie/sergio/sergio/3766.mkv
+#EXTINF:-1,Esquadrão Suicida 
+http://maxptv.net:8080/movie/sergio/sergio/3698.mkv
+#EXTINF:-1,Estado de Calamidade 
+http://maxptv.net:8080/movie/sergio/sergio/3710.mp4
+#EXTINF:-1,Estrada Sem Lei
+http://maxptv.net:8080/movie/sergio/sergio/2249.mp4
+#EXTINF:-1,Eu Acredito
+http://maxptv.net:8080/movie/sergio/sergio/4962.mkv
+#EXTINF:-1,Eu, Eu Mesmo e Irene 
+http://maxptv.net:8080/movie/sergio/sergio/3484.mp4
+#EXTINF:-1,Exterminador Implacável 2: O Dia do Julgamento 
+http://maxptv.net:8080/movie/sergio/sergio/2088.mkv
+#EXTINF:-1,Exterminador Implacável: Destino Sombrio 
+http://maxptv.net:8080/movie/sergio/sergio/5387.mkv
+#EXTINF:-1,Extracurricular 
+http://maxptv.net:8080/movie/sergio/sergio/5520.mp4
+#EXTINF:-1,Fantasia
+http://maxptv.net:8080/movie/sergio/sergio/3870.avi
+#EXTINF:-1,Fantasia 2000 
+http://maxptv.net:8080/movie/sergio/sergio/3869.avi
+#EXTINF:-1,Fernandinho - Galileu 
+http://maxptv.net:8080/movie/sergio/sergio/3848.mp4
+#EXTINF:-1,Fievel – Um Conto Americano
+http://maxptv.net:8080/movie/sergio/sergio/3871.avi
+#EXTINF:-1,Filhas do Sol 
+http://maxptv.net:8080/movie/sergio/sergio/3031.mkv
+#EXTINF:-1,Footloose - Ritmo Louco - 1984
+http://maxptv.net:8080/movie/sergio/sergio/3467.mkv
+#EXTINF:-1,Forjando Campeões
+http://maxptv.net:8080/movie/sergio/sergio/3252.mkv
+#EXTINF:-1,Freddy vs. Jason - 2003
+http://maxptv.net:8080/movie/sergio/sergio/3992.mkv
+#EXTINF:-1,Frozen 2
+http://maxptv.net:8080/movie/sergio/sergio/4744.mkv
+#EXTINF:-1,Fuga do Planeta dos Macacos - 1971
+http://maxptv.net:8080/movie/sergio/sergio/3354.mp4
+#EXTINF:-1,G.I. Joe: Retaliação 
+http://maxptv.net:8080/movie/sergio/sergio/3624.mp4
+#EXTINF:-1,Gato Sórdido
+http://maxptv.net:8080/movie/sergio/sergio/4944.mkv
+#EXTINF:-1,Gente Grande
+http://maxptv.net:8080/movie/sergio/sergio/3229.mp4
+#EXTINF:-1,Gente Grande 2
+http://maxptv.net:8080/movie/sergio/sergio/3230.mp4
+#EXTINF:-1,George o Curioso 
+http://maxptv.net:8080/movie/sergio/sergio/3872.avi
+#EXTINF:-1,Gisaku E A Chave Do Tempo
+http://maxptv.net:8080/movie/sergio/sergio/3873.avi
+#EXTINF:-1,Godzilla II: Rei dos Monstros
+http://maxptv.net:8080/movie/sergio/sergio/3253.mkv
+#EXTINF:-1,Goosebumps 2: Arrepios no Halloween 
+http://maxptv.net:8080/movie/sergio/sergio/3643.mp4
+#EXTINF:-1,Graças a Deus
+http://maxptv.net:8080/movie/sergio/sergio/3730.mp4
+#EXTINF:-1,Guerra interior
+http://maxptv.net:8080/movie/sergio/sergio/3748.avi
+#EXTINF:-1,Halloween
+http://maxptv.net:8080/movie/sergio/sergio/4864.mp4
+#EXTINF:-1,Hannibal 
+http://maxptv.net:8080/movie/sergio/sergio/3922.mp4
+#EXTINF:-1,Hannibal - A Origem do Mal 
+http://maxptv.net:8080/movie/sergio/sergio/3923.mp4
+#EXTINF:-1,Harry Potter e a Câmara Secreta
+http://maxptv.net:8080/movie/sergio/sergio/2070.mp4
+#EXTINF:-1,Harry Potter e a Ordem da Fénix
+http://maxptv.net:8080/movie/sergio/sergio/2071.mp4
+#EXTINF:-1,Harry Potter e a Pedra Filosofal
+http://maxptv.net:8080/movie/sergio/sergio/2072.mp4
+#EXTINF:-1,Harry Potter e as Relíquias da Morte - Parte 1
+http://maxptv.net:8080/movie/sergio/sergio/2073.mp4
+#EXTINF:-1,Harry Potter e as Relíquias da Morte - Parte 2
+http://maxptv.net:8080/movie/sergio/sergio/2074.mp4
+#EXTINF:-1,Harry Potter e o Cálice de Fogo
+http://maxptv.net:8080/movie/sergio/sergio/2075.mp4
+#EXTINF:-1,Harry Potter e o Enigma do Príncipe 
+http://maxptv.net:8080/movie/sergio/sergio/2076.mp4
+#EXTINF:-1,Harry Potter e o Prisioneiro de Azkaban 
+http://maxptv.net:8080/movie/sergio/sergio/2077.mp4
+#EXTINF:-1,Hellboy 
+http://maxptv.net:8080/movie/sergio/sergio/3327.mp4
+#EXTINF:-1,Hellboy II - O Exército Dourado
+http://maxptv.net:8080/movie/sergio/sergio/3328.mp4
+#EXTINF:-1,Hellraiser - Renascido do Inferno
+http://maxptv.net:8080/movie/sergio/sergio/3926.mp4
+#EXTINF:-1,Hellraiser 3 - Inferno na Terra
+http://maxptv.net:8080/movie/sergio/sergio/3928.mp4
+#EXTINF:-1,Hellraiser 5 : Inferno
+http://maxptv.net:8080/movie/sergio/sergio/3930.mp4
+#EXTINF:-1,Hellraiser 7 - O Retorno dos Mortos 
+http://maxptv.net:8080/movie/sergio/sergio/3932.mp4
+#EXTINF:-1,Hellraiser 8 - O Mundo do Inferno - 2005
+http://maxptv.net:8080/movie/sergio/sergio/3933.mp4
+#EXTINF:-1,Hellraiser 9 - Revelações - 2011
+http://maxptv.net:8080/movie/sergio/sergio/3934.mp4
+#EXTINF:-1,Hellraiser II - Renascido das Trevas 
+http://maxptv.net:8080/movie/sergio/sergio/3927.mp4
+#EXTINF:-1,Hellraiser IV - Herança Maldita 
+http://maxptv.net:8080/movie/sergio/sergio/3929.mp4
+#EXTINF:-1,Hellraiser: Caçador do Inferno 
+http://maxptv.net:8080/movie/sergio/sergio/3931.mp4
+#EXTINF:-1,Heróis Muito Loucos
+http://maxptv.net:8080/movie/sergio/sergio/2276.mp4
+#EXTINF:-1,Homem de Ferro
+http://maxptv.net:8080/movie/sergio/sergio/2301.mp4
+#EXTINF:-1,Homem de Ferro - 2008
+http://maxptv.net:8080/movie/sergio/sergio/2299.mp4
+#EXTINF:-1,Homem de Ferro 2
+http://maxptv.net:8080/movie/sergio/sergio/2300.mp4
+#EXTINF:-1,Homem-Aranha - 2002
+http://maxptv.net:8080/movie/sergio/sergio/3214.mp4
+#EXTINF:-1,Homem-Aranha 2 - 2004
+http://maxptv.net:8080/movie/sergio/sergio/3215.mp4
+#EXTINF:-1,Homem-Aranha 3 - 2007
+http://maxptv.net:8080/movie/sergio/sergio/3216.mp4
+#EXTINF:-1,Homem-Aranha: Longe de Casa 
+http://maxptv.net:8080/movie/sergio/sergio/3082.mkv
+#EXTINF:-1,Homem-Formiga - 2015
+http://maxptv.net:8080/movie/sergio/sergio/2298.mp4
+#EXTINF:-1,Homens de Preto
+http://maxptv.net:8080/movie/sergio/sergio/2108.mp4
+#EXTINF:-1,Homens de Preto II 
+http://maxptv.net:8080/movie/sergio/sergio/2109.mp4
+#EXTINF:-1,Homens de Preto IIl
+http://maxptv.net:8080/movie/sergio/sergio/2110.mp4
+#EXTINF:-1,Hulk
+http://maxptv.net:8080/movie/sergio/sergio/2302.mp4
+#EXTINF:-1,Indiana Jones e a Última Cruzada
+http://maxptv.net:8080/movie/sergio/sergio/3936.mp4
+#EXTINF:-1,Indiana Jones e o Reino da Caveira de Cristal
+http://maxptv.net:8080/movie/sergio/sergio/3937.mp4
+#EXTINF:-1,Indiana Jones e o Templo da Perdição
+http://maxptv.net:8080/movie/sergio/sergio/3938.mp4
+#EXTINF:-1,Inferno na Fronteira
+http://maxptv.net:8080/movie/sergio/sergio/4700.mkv
+#EXTINF:-1,Inferno Vermelho
+http://maxptv.net:8080/movie/sergio/sergio/5038.mp4
+#EXTINF:-1,Interestelar
+http://maxptv.net:8080/movie/sergio/sergio/5016.mp4
+#EXTINF:-1,Irmão Urso 
+http://maxptv.net:8080/movie/sergio/sergio/3902.avi
+#EXTINF:-1,Isolados
+http://maxptv.net:8080/movie/sergio/sergio/4714.mkv
+#EXTINF:-1,It: Capítulo 2 
+http://maxptv.net:8080/movie/sergio/sergio/2191.mp4
+#EXTINF:-1,J.T. LeRoy
+http://maxptv.net:8080/movie/sergio/sergio/4701.mkv
+#EXTINF:-1,Jack Reacher: Sem Retorno
+http://maxptv.net:8080/movie/sergio/sergio/2262.mp4
+#EXTINF:-1,Jason Bourne
+http://maxptv.net:8080/movie/sergio/sergio/3989.mp4
+#EXTINF:-1,Jason X - 2001
+http://maxptv.net:8080/movie/sergio/sergio/3993.mkv
+#EXTINF:-1,Jesse James
+http://maxptv.net:8080/movie/sergio/sergio/4736.mkv
+#EXTINF:-1,Joe, o Pistoleiro Implacável - 1966
+http://maxptv.net:8080/movie/sergio/sergio/3475.mkv
+#EXTINF:-1,Jogos Mortais
+http://maxptv.net:8080/movie/sergio/sergio/3984.mkv
+#EXTINF:-1,Jogos Mortais - O Final
+http://maxptv.net:8080/movie/sergio/sergio/3985.mkv
+#EXTINF:-1,Jogos Mortais 3 - O Legado 
+http://maxptv.net:8080/movie/sergio/sergio/3980.avi
+#EXTINF:-1,Jogos Mortais 4 - A Revelação 
+http://maxptv.net:8080/movie/sergio/sergio/3981.avi
+#EXTINF:-1,Jogos Mortais 5 - A Sucessão 
+http://maxptv.net:8080/movie/sergio/sergio/3982.avi
+#EXTINF:-1,Jogos Mortais 6 
+http://maxptv.net:8080/movie/sergio/sergio/3983.avi
+#EXTINF:-1,Jogos Mortais II - A Experiência do Medo
+http://maxptv.net:8080/movie/sergio/sergio/3979.avi
+#EXTINF:-1,John Wick 3: Parabellum
+http://maxptv.net:8080/movie/sergio/sergio/3083.mkv
+#EXTINF:-1,Johnny Yuma 
+http://maxptv.net:8080/movie/sergio/sergio/3849.mkv
+#EXTINF:-1,Jonah Hex
+http://maxptv.net:8080/movie/sergio/sergio/2238.mkv
+#EXTINF:-1,Jonathan
+http://maxptv.net:8080/movie/sergio/sergio/3469.mp4
+#EXTINF:-1,José - O Rei Dos Sonhos
+http://maxptv.net:8080/movie/sergio/sergio/3749.mkv
+#EXTINF:-1,Jovens Bruxas
+http://maxptv.net:8080/movie/sergio/sergio/3470.mkv
+#EXTINF:-1,Jovens Pistoleiros 
+http://maxptv.net:8080/movie/sergio/sergio/2241.mkv
+#EXTINF:-1,João e Maria - Caçadores de Bruxas
+http://maxptv.net:8080/movie/sergio/sergio/3625.mp4
+#EXTINF:-1,Jurassic Park 
+http://maxptv.net:8080/movie/sergio/sergio/3226.mp4
+#EXTINF:-1,Jurassic Park III
+http://maxptv.net:8080/movie/sergio/sergio/3228.mp4
+#EXTINF:-1,Kenai e Koda 2 - 2006
+http://maxptv.net:8080/movie/sergio/sergio/3903.avi
+#EXTINF:-1,Kill Bill - A Vingança (Volume 1) 
+http://maxptv.net:8080/movie/sergio/sergio/3487.mkv
+#EXTINF:-1,Kill Bill - A Vingança (Volume 2) 
+http://maxptv.net:8080/movie/sergio/sergio/3486.mkv
+#EXTINF:-1,Killerman
+http://maxptv.net:8080/movie/sergio/sergio/2204.mkv
+#EXTINF:-1,Kong: Ilha da Caveira 
+http://maxptv.net:8080/movie/sergio/sergio/5017.mkv
+#EXTINF:-1,Kung Fu Panda
+http://maxptv.net:8080/movie/sergio/sergio/2319.mp4
+#EXTINF:-1,Kung Fu Panda 2
+http://maxptv.net:8080/movie/sergio/sergio/2320.mp4
+#EXTINF:-1,Kung Fu Panda 3
+http://maxptv.net:8080/movie/sergio/sergio/2321.mp4
+#EXTINF:-1,Liga da Justiça 
+http://maxptv.net:8080/movie/sergio/sergio/3626.mp4
+#EXTINF:-1,Like a Boss
+http://maxptv.net:8080/movie/sergio/sergio/5088.mkv
+#EXTINF:-1,Lilo & Stitch - 2002
+http://maxptv.net:8080/movie/sergio/sergio/3904.avi
+#EXTINF:-1,Lilo e Stitch 2 - Stitch Deu Defeito - 2005
+http://maxptv.net:8080/movie/sergio/sergio/3905.avi
+#EXTINF:-1,Linha de Frente - 2013
+http://maxptv.net:8080/movie/sergio/sergio/3644.mp4
+#EXTINF:-1,Logan
+http://maxptv.net:8080/movie/sergio/sergio/3309.mkv
+#EXTINF:-1,Lutando pela minha família
+http://maxptv.net:8080/movie/sergio/sergio/3254.mkv
+#EXTINF:-1,Lutero
+http://maxptv.net:8080/movie/sergio/sergio/3750.avi
+#EXTINF:-1,Mad Max - 1979
+http://maxptv.net:8080/movie/sergio/sergio/2113.mkv
+#EXTINF:-1,Mad Max 2 - A Caçada Continua 
+http://maxptv.net:8080/movie/sergio/sergio/2111.mkv
+#EXTINF:-1,Mad Max 3 - Além da Cúpula do Trovão
+http://maxptv.net:8080/movie/sergio/sergio/2112.mkv
+#EXTINF:-1,Mad Max: Estrada da Fúria - 2015
+http://maxptv.net:8080/movie/sergio/sergio/3459.mkv
+#EXTINF:-1,Mais que Vencedor
+http://maxptv.net:8080/movie/sergio/sergio/3882.avi
+#EXTINF:-1,Mais que Vencedores
+http://maxptv.net:8080/movie/sergio/sergio/3915.mp4
+#EXTINF:-1,Malévola: Dona do Mal
+http://maxptv.net:8080/movie/sergio/sergio/4945.mkv
+#EXTINF:-1,Mamãe é Uma Espiã
+http://maxptv.net:8080/movie/sergio/sergio/4717.mkv
+#EXTINF:-1,Matrix - 1999
+http://maxptv.net:8080/movie/sergio/sergio/3456.mkv
+#EXTINF:-1,Matrix Revolutions - 2003
+http://maxptv.net:8080/movie/sergio/sergio/3458.mkv
+#EXTINF:-1,Memória de um Crime
+http://maxptv.net:8080/movie/sergio/sergio/4963.mkv
+#EXTINF:-1,Meu Bebe
+http://maxptv.net:8080/movie/sergio/sergio/5376.mp4
+#EXTINF:-1,MIB: Homens de Preto Internacional
+http://maxptv.net:8080/movie/sergio/sergio/3084.mkv
+#EXTINF:-1,Minha irmã de Paris
+http://maxptv.net:8080/movie/sergio/sergio/5089.mkv
+#EXTINF:-1,Miss Simpatia
+http://maxptv.net:8080/movie/sergio/sergio/3488.mkv
+#EXTINF:-1,Mist of Guilt - 2018
+http://maxptv.net:8080/movie/sergio/sergio/3248.mkv
+#EXTINF:-1,Mistério na Venda de Garagem 
+http://maxptv.net:8080/movie/sergio/sergio/4946.avi
+#EXTINF:-1,Moana: Um Mar de Aventuras
+http://maxptv.net:8080/movie/sergio/sergio/3918.mkv
+#EXTINF:-1,Mogli: A Lenda da Selva 
+http://maxptv.net:8080/movie/sergio/sergio/2195.mkv
+#EXTINF:-1,Monella, a Travessa
+http://maxptv.net:8080/movie/sergio/sergio/5018.mkv
+#EXTINF:-1,Monstros Fantásticos: Os Crimes de Grindelwald - 2018
+http://maxptv.net:8080/movie/sergio/sergio/2078.mkv
+#EXTINF:-1,Monstros S.A.
+http://maxptv.net:8080/movie/sergio/sergio/3874.avi
+#EXTINF:-1,Mormaço
+http://maxptv.net:8080/movie/sergio/sergio/5386.mkv
+#EXTINF:-1,Mundo Jurássico
+http://maxptv.net:8080/movie/sergio/sergio/3284.mkv
+#EXTINF:-1,Mundo Jurássico: Reino Ameaçado
+http://maxptv.net:8080/movie/sergio/sergio/3308.mp4
+#EXTINF:-1,Máquinas Mortais
+http://maxptv.net:8080/movie/sergio/sergio/3255.mkv
+#EXTINF:-1,Nada a Perder
+http://maxptv.net:8080/movie/sergio/sergio/2092.mkv
+#EXTINF:-1,Nada a Perder
+http://maxptv.net:8080/movie/sergio/sergio/3751.mp4
+#EXTINF:-1,Namorada de Aluguel
+http://maxptv.net:8080/movie/sergio/sergio/3460.mp4
+#EXTINF:-1,Nas Trevas
+http://maxptv.net:8080/movie/sergio/sergio/3256.mkv
+#EXTINF:-1,Natal Sangrento
+http://maxptv.net:8080/movie/sergio/sergio/4723.mkv
+#EXTINF:-1,Nem Que a Vaca Tussa
+http://maxptv.net:8080/movie/sergio/sergio/3906.avi
+#EXTINF:-1,No Vale da Violência
+http://maxptv.net:8080/movie/sergio/sergio/4737.mkv
+#EXTINF:-1,Norbit - Uma Comédia de Peso
+http://maxptv.net:8080/movie/sergio/sergio/5026.avi
+#EXTINF:-1,Nos Caminhos de Deus
+http://maxptv.net:8080/movie/sergio/sergio/3732.mp4
+#EXTINF:-1,Noé
+http://maxptv.net:8080/movie/sergio/sergio/3752.mp4
+#EXTINF:-1,Nunca Diga Seu Nome
+http://maxptv.net:8080/movie/sergio/sergio/3712.mp4
+#EXTINF:-1,Nunca fui Beijada
+http://maxptv.net:8080/movie/sergio/sergio/3490.mp4
+#EXTINF:-1,O Anjo
+http://maxptv.net:8080/movie/sergio/sergio/3257.mkv
+#EXTINF:-1,O Auto da Compadecida 
+http://maxptv.net:8080/movie/sergio/sergio/3493.avi
+#EXTINF:-1,O Bicho Vai Pegar
+http://maxptv.net:8080/movie/sergio/sergio/2114.mp4
+#EXTINF:-1,O Bicho Vai Pegar 2
+http://maxptv.net:8080/movie/sergio/sergio/2115.mp4
+#EXTINF:-1,O Bicho Vai Pegar 3
+http://maxptv.net:8080/movie/sergio/sergio/2116.mp4
+#EXTINF:-1,O Clube dos Canibais
+http://maxptv.net:8080/movie/sergio/sergio/4964.mkv
+#EXTINF:-1,O Clube dos Meninos Bilionários
+http://maxptv.net:8080/movie/sergio/sergio/3258.mp4
+#EXTINF:-1,O Céu É de Verdade
+http://maxptv.net:8080/movie/sergio/sergio/5041.mkv
+#EXTINF:-1,O Elo Perdido 
+http://maxptv.net:8080/movie/sergio/sergio/3491.mkv
+#EXTINF:-1,O Escorpião Rei 5: O Livro das Almas 
+http://maxptv.net:8080/movie/sergio/sergio/4865.mp4
+#EXTINF:-1,O Especialista
+http://maxptv.net:8080/movie/sergio/sergio/5348.mkv
+#EXTINF:-1,O Exterminador do Futuro
+http://maxptv.net:8080/movie/sergio/sergio/2087.mkv
+#EXTINF:-1,O Exterminador do Futuro 3 - A Rebelião das Máquinas
+http://maxptv.net:8080/movie/sergio/sergio/2089.mkv
+#EXTINF:-1,O Exterminador do Futuro: A Salvação
+http://maxptv.net:8080/movie/sergio/sergio/2090.mkv
+#EXTINF:-1,O Exterminador do Futuro: Gênesis
+http://maxptv.net:8080/movie/sergio/sergio/2107.mp4
+#EXTINF:-1,O Fantástico Senhor Raposo - 2009
+http://maxptv.net:8080/movie/sergio/sergio/5039.mkv
+#EXTINF:-1,O Garoto Sombrio
+http://maxptv.net:8080/movie/sergio/sergio/4740.mp4
+#EXTINF:-1,O Gigante de Ferro - 1999
+http://maxptv.net:8080/movie/sergio/sergio/3907.avi
+#EXTINF:-1,O Grinch
+http://maxptv.net:8080/movie/sergio/sergio/4730.mp4
+#EXTINF:-1,O Herdeiro das Drogas
+http://maxptv.net:8080/movie/sergio/sergio/4969.mkv
+#EXTINF:-1,O Herói Cuco
+http://maxptv.net:8080/movie/sergio/sergio/3331.mp4
+#EXTINF:-1,O Homem Perfeito
+http://maxptv.net:8080/movie/sergio/sergio/3645.mkv
+#EXTINF:-1,O Homem que Matou Dom Quixote
+http://maxptv.net:8080/movie/sergio/sergio/3259.mkv
+#EXTINF:-1,O Homem Sem Sombra
+http://maxptv.net:8080/movie/sergio/sergio/3480.mkv
+#EXTINF:-1,O Iluminado
+http://maxptv.net:8080/movie/sergio/sergio/3485.mkv
+#EXTINF:-1,O Imperador de Paris
+http://maxptv.net:8080/movie/sergio/sergio/3260.mp4
+#EXTINF:-1,O Implacável
+http://maxptv.net:8080/movie/sergio/sergio/2263.mp4
+#EXTINF:-1,O Inimigo ao Meu Redor
+http://maxptv.net:8080/movie/sergio/sergio/3261.mkv
+#EXTINF:-1,O Irlandês
+http://maxptv.net:8080/movie/sergio/sergio/2196.mkv
+#EXTINF:-1,O Jovem Messias
+http://maxptv.net:8080/movie/sergio/sergio/3734.mp4
+#EXTINF:-1,O Juramento
+http://maxptv.net:8080/movie/sergio/sergio/4866.mp4
+#EXTINF:-1,O Justiceiro
+http://maxptv.net:8080/movie/sergio/sergio/2277.mp4
+#EXTINF:-1,O Legado Bourne
+http://maxptv.net:8080/movie/sergio/sergio/3990.mp4
+#EXTINF:-1,O Mau Exemplo de Cameron Post
+http://maxptv.net:8080/movie/sergio/sergio/3262.mkv
+#EXTINF:-1,O Milagre de Cokeville
+http://maxptv.net:8080/movie/sergio/sergio/3735.mp4
+#EXTINF:-1,O Mistério da Casa do Relógio
+http://maxptv.net:8080/movie/sergio/sergio/3646.mp4
+#EXTINF:-1,O Mistério da Fé
+http://maxptv.net:8080/movie/sergio/sergio/3733.mp4
+#EXTINF:-1,O Monstro do Armário
+http://maxptv.net:8080/movie/sergio/sergio/4718.mkv
+#EXTINF:-1,O Natal Está no Ar
+http://maxptv.net:8080/movie/sergio/sergio/2192.mkv
+#EXTINF:-1,O Nosso Milagre 
+http://maxptv.net:8080/movie/sergio/sergio/2273.mp4
+#EXTINF:-1,O Passageiro
+http://maxptv.net:8080/movie/sergio/sergio/5027.mp4
+#EXTINF:-1,O Pequenino
+http://maxptv.net:8080/movie/sergio/sergio/5028.mp4
+#EXTINF:-1,O Pequeno Narigudo
+http://maxptv.net:8080/movie/sergio/sergio/3875.avi
+#EXTINF:-1,O Pequeno Órfão
+http://maxptv.net:8080/movie/sergio/sergio/3263.mp4
+#EXTINF:-1,O Planeta dos Macacos 1968
+http://maxptv.net:8080/movie/sergio/sergio/3352.mp4
+#EXTINF:-1,O Predador
+http://maxptv.net:8080/movie/sergio/sergio/4867.mkv
+#EXTINF:-1,O Protetor 2
+http://maxptv.net:8080/movie/sergio/sergio/2264.mp4
+#EXTINF:-1,O Quarto dos Desejos
+http://maxptv.net:8080/movie/sergio/sergio/4703.mkv
+#EXTINF:-1,O Quebra-Nozes e os Quatro Reinos
+http://maxptv.net:8080/movie/sergio/sergio/3627.mkv
+#EXTINF:-1,O Ratinho Detetive 
+http://maxptv.net:8080/movie/sergio/sergio/3876.avi
+#EXTINF:-1,O Regresso de Mary Poppins - 2018
+http://maxptv.net:8080/movie/sergio/sergio/3264.mkv
+#EXTINF:-1,O Rei Leão
+http://maxptv.net:8080/movie/sergio/sergio/3085.mkv
+#EXTINF:-1,O Rei Leão - 1994
+http://maxptv.net:8080/movie/sergio/sergio/3222.mkv
+#EXTINF:-1,O Rei Leão 2 - O Reino de Simba - 1998
+http://maxptv.net:8080/movie/sergio/sergio/3220.mkv
+#EXTINF:-1,O Rei Leão 3 - Hakuna Matata - 2004
+http://maxptv.net:8080/movie/sergio/sergio/3221.mkv
+#EXTINF:-1,O Retorno de Johnny English
+http://maxptv.net:8080/movie/sergio/sergio/3714.mp4
+#EXTINF:-1,O Segredo da Caveira: Um Mistério de Aurora Teagarden
+http://maxptv.net:8080/movie/sergio/sergio/2206.avi
+#EXTINF:-1,O Senhor dos Anéis: a Sociedade do anel - 2001
+http://maxptv.net:8080/movie/sergio/sergio/2326.mp4
+#EXTINF:-1,O Senhor dos Anéis: As Duas Torres - 2002
+http://maxptv.net:8080/movie/sergio/sergio/2325.mp4
+#EXTINF:-1,O Senhor dos Anéis: O Retorno do Rei - 2003
+http://maxptv.net:8080/movie/sergio/sergio/2327.mp4
+#EXTINF:-1,O Sexto Dia 
+http://maxptv.net:8080/movie/sergio/sergio/2265.mp4
+#EXTINF:-1,O Sexto Dia - 2000
+http://maxptv.net:8080/movie/sergio/sergio/3347.mkv
+#EXTINF:-1,O Silêncio dos Inocentes - 1991
+http://maxptv.net:8080/movie/sergio/sergio/3924.mp4
+#EXTINF:-1,O Sobrevivente 
+http://maxptv.net:8080/movie/sergio/sergio/3476.mp4
+#EXTINF:-1,O terno de 2 bilhões de dólares 
+http://maxptv.net:8080/movie/sergio/sergio/3492.mkv
+#EXTINF:-1,O Trem do Inferno - 1975
+http://maxptv.net:8080/movie/sergio/sergio/3477.mkv
+#EXTINF:-1,O Ultimato Bourne
+http://maxptv.net:8080/movie/sergio/sergio/3991.mp4
+#EXTINF:-1,O Último Desafio
+http://maxptv.net:8080/movie/sergio/sergio/3631.mp4
+#EXTINF:-1,O Último dos Moicanos 
+http://maxptv.net:8080/movie/sergio/sergio/5329.mp4
+#EXTINF:-1,Oblivion
+http://maxptv.net:8080/movie/sergio/sergio/3628.mp4
+#EXTINF:-1,Obsessão
+http://maxptv.net:8080/movie/sergio/sergio/3265.mkv
+#EXTINF:-1,Olhos Famintos 2
+http://maxptv.net:8080/movie/sergio/sergio/2323.mp4
+#EXTINF:-1,Olhos Famintos 3
+http://maxptv.net:8080/movie/sergio/sergio/2324.mp4
+#EXTINF:-1,Olhos Famintos 3 - 2017
+http://maxptv.net:8080/movie/sergio/sergio/2322.mp4
+#EXTINF:-1,Onde Está Deus?
+http://maxptv.net:8080/movie/sergio/sergio/3753.mp4
+#EXTINF:-1,Operação Overlord 
+http://maxptv.net:8080/movie/sergio/sergio/3713.mp4
+#EXTINF:-1,Operação Red Sparrow
+http://maxptv.net:8080/movie/sergio/sergio/3721.mp4
+#EXTINF:-1,Operação Supletivo
+http://maxptv.net:8080/movie/sergio/sergio/2205.mp4
+#EXTINF:-1,Os Animais Somos Nós
+http://maxptv.net:8080/movie/sergio/sergio/3267.mkv
+#EXTINF:-1,Os Aristogatos - 1970
+http://maxptv.net:8080/movie/sergio/sergio/3895.avi
+#EXTINF:-1,Os Assassinatos de Amityville
+http://maxptv.net:8080/movie/sergio/sergio/4970.mkv
+#EXTINF:-1,Os Caçadores da Arca Perdida
+http://maxptv.net:8080/movie/sergio/sergio/3935.mp4
+#EXTINF:-1,Os Dez Mandamentos - 1956
+http://maxptv.net:8080/movie/sergio/sergio/3357.mp4
+#EXTINF:-1,Os Esquenta-Banco 2: Quebrando as Bolas
+http://maxptv.net:8080/movie/sergio/sergio/3629.mkv
+#EXTINF:-1,Os Estagiários
+http://maxptv.net:8080/movie/sergio/sergio/3630.mp4
+#EXTINF:-1,Os Imperdoáveis
+http://maxptv.net:8080/movie/sergio/sergio/2240.mkv
+#EXTINF:-1,Os Incríveis 2
+http://maxptv.net:8080/movie/sergio/sergio/4868.mp4
+#EXTINF:-1,Os Renegados
+http://maxptv.net:8080/movie/sergio/sergio/2242.mp4
+#EXTINF:-1,Os Smurfs e a Flauta Mágica - 1976
+http://maxptv.net:8080/movie/sergio/sergio/3908.avi
+#EXTINF:-1,Os Vingadores -The Avengers
+http://maxptv.net:8080/movie/sergio/sergio/2303.mp4
+#EXTINF:-1,Pais Muito Loucos
+http://maxptv.net:8080/movie/sergio/sergio/4971.mp4
+#EXTINF:-1,Pantera Negra 
+http://maxptv.net:8080/movie/sergio/sergio/2304.mp4
+#EXTINF:-1,Parque Jurássico - O Mundo Perdido
+http://maxptv.net:8080/movie/sergio/sergio/3227.mp4
+#EXTINF:-1,Patrick, Aprendendo a Amar
+http://maxptv.net:8080/movie/sergio/sergio/3755.mp4
+#EXTINF:-1,Paulo de Tarso e A História do Cristianismo Primitivo
+http://maxptv.net:8080/movie/sergio/sergio/3919.mkv
+#EXTINF:-1,Paulo, Apóstolo de Cristo
+http://maxptv.net:8080/movie/sergio/sergio/2266.mp4
+#EXTINF:-1,Paulo, Apóstolo de Cristo
+http://maxptv.net:8080/movie/sergio/sergio/3736.mp4
+#EXTINF:-1,Pedro Coelho
+http://maxptv.net:8080/movie/sergio/sergio/2207.mp4
+#EXTINF:-1,Pedro: A Redenção
+http://maxptv.net:8080/movie/sergio/sergio/3737.mp4
+#EXTINF:-1,Percy Jackson e o Ladrão de Raios
+http://maxptv.net:8080/movie/sergio/sergio/4092.mkv
+#EXTINF:-1,Percy Jackson e o Mar dos Monstros
+http://maxptv.net:8080/movie/sergio/sergio/4093.mkv
+#EXTINF:-1,Pinóquio
+http://maxptv.net:8080/movie/sergio/sergio/3877.avi
+#EXTINF:-1,Planeta dos Macacos 
+http://maxptv.net:8080/movie/sergio/sergio/3349.mp4
+#EXTINF:-1,Planeta dos Macacos: A Origem 
+http://maxptv.net:8080/movie/sergio/sergio/3351.mp4
+#EXTINF:-1,Planeta dos Macacos: O Confronto 
+http://maxptv.net:8080/movie/sergio/sergio/3350.mp4
+#EXTINF:-1,Poderes Extraordinários
+http://maxptv.net:8080/movie/sergio/sergio/4947.mp4
+#EXTINF:-1,Poema de salvação 
+http://maxptv.net:8080/movie/sergio/sergio/3738.avi
+#EXTINF:-1,Pokémon: Detetive Pikachu
+http://maxptv.net:8080/movie/sergio/sergio/3268.mkv
+#EXTINF:-1,Poltergeist
+http://maxptv.net:8080/movie/sergio/sergio/3715.mp4
+#EXTINF:-1,Polícia Federal - A Lei é Para Todos
+http://maxptv.net:8080/movie/sergio/sergio/5021.mkv
+#EXTINF:-1,Por Água Abaixo - 2006
+http://maxptv.net:8080/movie/sergio/sergio/3909.avi
+#EXTINF:-1,Porky's - 1981
+http://maxptv.net:8080/movie/sergio/sergio/3462.mp4
+#EXTINF:-1,Porky's 2 - O Dia Seguinte
+http://maxptv.net:8080/movie/sergio/sergio/3463.mp4
+#EXTINF:-1,Porky's Contra-Ataca
+http://maxptv.net:8080/movie/sergio/sergio/3464.mp4
+#EXTINF:-1,Possessão - O Último Estágio
+http://maxptv.net:8080/movie/sergio/sergio/5518.mkv
+#EXTINF:-1,Predador
+http://maxptv.net:8080/movie/sergio/sergio/5020.mp4
+#EXTINF:-1,Pregando o Amor
+http://maxptv.net:8080/movie/sergio/sergio/3756.mp4
+#EXTINF:-1,Premonição 1
+http://maxptv.net:8080/movie/sergio/sergio/4094.mkv
+#EXTINF:-1,Premonição 2
+http://maxptv.net:8080/movie/sergio/sergio/4096.mp4
+#EXTINF:-1,Premonição 3
+http://maxptv.net:8080/movie/sergio/sergio/4095.mp4
+#EXTINF:-1,Premonição 4
+http://maxptv.net:8080/movie/sergio/sergio/4097.mp4
+#EXTINF:-1,Priscilla A Rainha do Deserto - 1994
+http://maxptv.net:8080/movie/sergio/sergio/3471.mkv
+#EXTINF:-1,Projeto Gemini
+http://maxptv.net:8080/movie/sergio/sergio/3739.mkv
+#EXTINF:-1,Projeto Gemini 
+http://maxptv.net:8080/movie/sergio/sergio/4731.mkv
+#EXTINF:-1,Punidos Pelo Próprio Sangue - 1956
+http://maxptv.net:8080/movie/sergio/sergio/3820.mkv
+#EXTINF:-1,Pânico
+http://maxptv.net:8080/movie/sergio/sergio/2328.mp4
+#EXTINF:-1,Pânico 2
+http://maxptv.net:8080/movie/sergio/sergio/2329.mp4
+#EXTINF:-1,Pânico 3
+http://maxptv.net:8080/movie/sergio/sergio/2330.mp4
+#EXTINF:-1,Pânico 4
+http://maxptv.net:8080/movie/sergio/sergio/2331.mp4
+#EXTINF:-1,Pânico nas Alturas
+http://maxptv.net:8080/movie/sergio/sergio/3032.mkv
+#EXTINF:-1,Quando Tudo Parece Perdido
+http://maxptv.net:8080/movie/sergio/sergio/3757.avi
+#EXTINF:-1,Quarto de Guerra
+http://maxptv.net:8080/movie/sergio/sergio/2250.mp4
+#EXTINF:-1,Quatro Histórias de Fantasmas
+http://maxptv.net:8080/movie/sergio/sergio/4752.mkv
+#EXTINF:-1,Quem com Ferro Fere
+http://maxptv.net:8080/movie/sergio/sergio/5256.mkv
+#EXTINF:-1,Quem Matou Jesus
+http://maxptv.net:8080/movie/sergio/sergio/3758.avi
+#EXTINF:-1,Querido Menino
+http://maxptv.net:8080/movie/sergio/sergio/3269.mkv
+#EXTINF:-1,Rambo - Até o Fim
+http://maxptv.net:8080/movie/sergio/sergio/3033.mkv
+#EXTINF:-1,Rambo - Até o Fim
+http://maxptv.net:8080/movie/sergio/sergio/4753.mkv
+#EXTINF:-1,Rastros do Além
+http://maxptv.net:8080/movie/sergio/sergio/3270.mkv
+#EXTINF:-1,RedBad - A Invasão dos Francos
+http://maxptv.net:8080/movie/sergio/sergio/3271.mkv
+#EXTINF:-1,Rejeitados pelo Diabo
+http://maxptv.net:8080/movie/sergio/sergio/2267.mp4
+#EXTINF:-1,Rocketman
+http://maxptv.net:8080/movie/sergio/sergio/3086.mkv
+#EXTINF:-1,Rocky - 1976
+http://maxptv.net:8080/movie/sergio/sergio/3205.mkv
+#EXTINF:-1,Rocky Balboa - 2006
+http://maxptv.net:8080/movie/sergio/sergio/3201.mkv
+#EXTINF:-1,Rocky II - 1979
+http://maxptv.net:8080/movie/sergio/sergio/3202.mkv
+#EXTINF:-1,Rocky III - O desafio supremo
+http://maxptv.net:8080/movie/sergio/sergio/3203.mkv
+#EXTINF:-1,Rocky IV - 1985
+http://maxptv.net:8080/movie/sergio/sergio/3204.mkv
+#EXTINF:-1,Rocky V - 1990
+http://maxptv.net:8080/movie/sergio/sergio/3206.mkv
+#EXTINF:-1,Rogue One: Uma História de Star Wars 
+http://maxptv.net:8080/movie/sergio/sergio/3920.mkv
+#EXTINF:-1,Romeo Tem Que Morrer 
+http://maxptv.net:8080/movie/sergio/sergio/3494.mkv
+#EXTINF:-1,Rota de Fuga
+http://maxptv.net:8080/movie/sergio/sergio/3647.mp4
+#EXTINF:-1,Rota de Fuga 3
+http://maxptv.net:8080/movie/sergio/sergio/3272.mp4
+#EXTINF:-1,Rrrrrrr! - Na Idade da Pedra
+http://maxptv.net:8080/movie/sergio/sergio/5029.avi
+#EXTINF:-1,Rápida E Mortal
+http://maxptv.net:8080/movie/sergio/sergio/2243.mp4
+#EXTINF:-1,Sabata - 1969
+http://maxptv.net:8080/movie/sergio/sergio/3472.mkv
+#EXTINF:-1,Salt 
+http://maxptv.net:8080/movie/sergio/sergio/3716.mp4
+#EXTINF:-1,Salvo Pela Graça
+http://maxptv.net:8080/movie/sergio/sergio/3740.mp4
+#EXTINF:-1,Salyut 7 - Missão Espacial
+http://maxptv.net:8080/movie/sergio/sergio/5090.mkv
+#EXTINF:-1,Sansao
+http://maxptv.net:8080/movie/sergio/sergio/3759.mkv
+#EXTINF:-1,Sansão e Dalila 
+http://maxptv.net:8080/movie/sergio/sergio/3741.mkv
+#EXTINF:-1,Sapatinho Vermelho e os Sete Anões
+http://maxptv.net:8080/movie/sergio/sergio/5729.mkv
+#EXTINF:-1,Scooby-Doo! De Volta à Ilha dos Zumbis 
+http://maxptv.net:8080/movie/sergio/sergio/3348.mkv
+#EXTINF:-1,Scorpions - Rock in Rio 2019
+http://maxptv.net:8080/movie/sergio/sergio/3819.mkv
+#EXTINF:-1,Se Beber, Não Case! - Parte I
+http://maxptv.net:8080/movie/sergio/sergio/2117.mp4
+#EXTINF:-1,Se Beber, Não Case! - Parte II
+http://maxptv.net:8080/movie/sergio/sergio/2118.mp4
+#EXTINF:-1,Se Beber, Não Case! - Parte III 
+http://maxptv.net:8080/movie/sergio/sergio/2119.mp4
+#EXTINF:-1,Security
+http://maxptv.net:8080/movie/sergio/sergio/2209.mkv
+#EXTINF:-1,Sem Limites
+http://maxptv.net:8080/movie/sergio/sergio/5044.mp4
+#EXTINF:-1,Sete Homens e um Destino - 1960
+http://maxptv.net:8080/movie/sergio/sergio/2245.mkv
+#EXTINF:-1,Sete Homens e um Destino - 2016
+http://maxptv.net:8080/movie/sergio/sergio/2244.mkv
+#EXTINF:-1,Seven - 7 Pecados Capitais
+http://maxptv.net:8080/movie/sergio/sergio/5349.mkv
+#EXTINF:-1,Sexta-Feira 13 - 1980
+http://maxptv.net:8080/movie/sergio/sergio/4003.mkv
+#EXTINF:-1,Sexta-Feira 13 - Bem Vindos a Crystal Lake - 2009
+http://maxptv.net:8080/movie/sergio/sergio/3994.mkv
+#EXTINF:-1,Sexta-Feira 13 - Parte 2 - 1981
+http://maxptv.net:8080/movie/sergio/sergio/3996.mkv
+#EXTINF:-1,Sexta-Feira 13 - Parte 3 - 1982
+http://maxptv.net:8080/movie/sergio/sergio/3995.mkv
+#EXTINF:-1,Sexta-Feira 13 - Parte 4: O Capítulo Final - 1984
+http://maxptv.net:8080/movie/sergio/sergio/3997.mkv
+#EXTINF:-1,Sexta-Feira 13 - Parte 5: Um Novo Começo - 1985
+http://maxptv.net:8080/movie/sergio/sergio/3998.mkv
+#EXTINF:-1,Sexta-Feira 13 - Parte 6: Jason Vive - 1986
+http://maxptv.net:8080/movie/sergio/sergio/3999.mkv
+#EXTINF:-1,Sexta-Feira 13 - Parte 7: A Matança Continua - 1988
+http://maxptv.net:8080/movie/sergio/sergio/4000.mkv
+#EXTINF:-1,Sexta-Feira 13 - Parte 8: Jason Ataca Nova Iorque - 1989
+http://maxptv.net:8080/movie/sergio/sergio/4001.mkv
+#EXTINF:-1,Sexta-Feira 13 - Parte 9: Jason Vai Para o Inferno - 1993
+http://maxptv.net:8080/movie/sergio/sergio/4002.mkv
+#EXTINF:-1,Shaft - 2000
+http://maxptv.net:8080/movie/sergio/sergio/3360.mkv
+#EXTINF:-1,Shazam!
+http://maxptv.net:8080/movie/sergio/sergio/5022.mkv
+#EXTINF:-1,Sherlock Holmes
+http://maxptv.net:8080/movie/sergio/sergio/5023.mkv
+#EXTINF:-1,Shrek - 2001
+http://maxptv.net:8080/movie/sergio/sergio/2308.mp4
+#EXTINF:-1,Shrek 2 - 2004
+http://maxptv.net:8080/movie/sergio/sergio/2309.mp4
+#EXTINF:-1,Shrek o Terceiro - 2007
+http://maxptv.net:8080/movie/sergio/sergio/2311.mp4
+#EXTINF:-1,Shrek Para Sempre - 2010
+http://maxptv.net:8080/movie/sergio/sergio/2310.mp4
+#EXTINF:-1,Sinais
+http://maxptv.net:8080/movie/sergio/sergio/3633.mkv
+#EXTINF:-1,Sinbad - A Lenda dos Sete Mares - 2003
+http://maxptv.net:8080/movie/sergio/sergio/3910.avi
+#EXTINF:-1,Snatch - Porcos E Diamantes 
+http://maxptv.net:8080/movie/sergio/sergio/2269.mp4
+#EXTINF:-1,Sob o Sol da Toscana - 2003
+http://maxptv.net:8080/movie/sergio/sergio/3495.mp4
+#EXTINF:-1,Sob o Sol do Oeste
+http://maxptv.net:8080/movie/sergio/sergio/2246.mp4
+#EXTINF:-1,Sobrevivendo às Festas com os Parentes
+http://maxptv.net:8080/movie/sergio/sergio/4702.mp4
+#EXTINF:-1,Sobrevivendo às Festas com os Parentes
+http://maxptv.net:8080/movie/sergio/sergio/4974.mkv
+#EXTINF:-1,Spirit - Espírito Selvagem - 2002
+http://maxptv.net:8080/movie/sergio/sergio/3911.avi
+#EXTINF:-1,Star Wars: Episódio I - A Ameaça Fantasma 
+http://maxptv.net:8080/movie/sergio/sergio/3939.mkv
+#EXTINF:-1,Star Wars: Episódio II - Ataque dos Clones
+http://maxptv.net:8080/movie/sergio/sergio/3940.mkv
+#EXTINF:-1,Star Wars: Episódio III - A Vingança dos Sith 
+http://maxptv.net:8080/movie/sergio/sergio/3941.mkv
+#EXTINF:-1,Star Wars: Episódio IV - Uma Nova Esperança 
+http://maxptv.net:8080/movie/sergio/sergio/3942.mkv
+#EXTINF:-1,Star Wars: Episódio IX - A Ascensão de Skywalker - 2019
+http://maxptv.net:8080/movie/sergio/sergio/4724.mkv
+#EXTINF:-1,Star Wars: Episódio V - O Império Contra-Ataca
+http://maxptv.net:8080/movie/sergio/sergio/3943.mkv
+#EXTINF:-1,Star Wars: Episódio VI - O Retorno de Jedi 
+http://maxptv.net:8080/movie/sergio/sergio/3944.mkv
+#EXTINF:-1,Starfish - Vozes e Segredos
+http://maxptv.net:8080/movie/sergio/sergio/4720.mkv
+#EXTINF:-1,Super Cyclone 
+http://maxptv.net:8080/movie/sergio/sergio/3742.avi
+#EXTINF:-1,Super Monstros - Superamigos para Sempre
+http://maxptv.net:8080/movie/sergio/sergio/2197.mkv
+#EXTINF:-1,Superação: O Milagre da Fé
+http://maxptv.net:8080/movie/sergio/sergio/3743.mp4
+#EXTINF:-1,Taran e o Caldeirão Mágico
+http://maxptv.net:8080/movie/sergio/sergio/3878.avi
+#EXTINF:-1,Taxi 5
+http://maxptv.net:8080/movie/sergio/sergio/5030.mkv
+#EXTINF:-1,Tenacious D - Uma Dupla Infernal
+http://maxptv.net:8080/movie/sergio/sergio/5024.avi
+#EXTINF:-1,Terceira Pessoa
+http://maxptv.net:8080/movie/sergio/sergio/3850.mkv
+#EXTINF:-1,Terremoto - A Falha de San Andreas
+http://maxptv.net:8080/movie/sergio/sergio/5025.mp4
+#EXTINF:-1,The Kid - 2019
+http://maxptv.net:8080/movie/sergio/sergio/3821.mkv
+#EXTINF:-1,The Matrix Reloaded - 2003
+http://maxptv.net:8080/movie/sergio/sergio/3457.mkv
+#EXTINF:-1,The Mustang 
+http://maxptv.net:8080/movie/sergio/sergio/3087.mkv
+#EXTINF:-1,The Ridiculous
+http://maxptv.net:8080/movie/sergio/sergio/4959.mp4
+#EXTINF:-1,Thor
+http://maxptv.net:8080/movie/sergio/sergio/2305.mp4
+#EXTINF:-1,Thor: O Mundo Sombrio
+http://maxptv.net:8080/movie/sergio/sergio/2306.mp4
+#EXTINF:-1,Thor: Ragnarok
+http://maxptv.net:8080/movie/sergio/sergio/2307.mp4
+#EXTINF:-1,Timecop - O Guardião do Tempo
+http://maxptv.net:8080/movie/sergio/sergio/2278.mp4
+#EXTINF:-1,Timecop - O Guardião do Tempo
+http://maxptv.net:8080/movie/sergio/sergio/3346.mkv
+#EXTINF:-1,Tinha Que Ser Ele? 
+http://maxptv.net:8080/movie/sergio/sergio/3945.mkv
+#EXTINF:-1,Tinker Bell - O Segredo das Fadas
+http://maxptv.net:8080/movie/sergio/sergio/2123.mkv
+#EXTINF:-1,Tinker Bell - Uma Aventura no Mundo das Fadas
+http://maxptv.net:8080/movie/sergio/sergio/2120.mkv
+#EXTINF:-1,Tinker Bell e o Monstro da Terra do Nunca
+http://maxptv.net:8080/movie/sergio/sergio/2125.mkv
+#EXTINF:-1,Tinker Bell e o Resgate da Fada
+http://maxptv.net:8080/movie/sergio/sergio/2122.mkv
+#EXTINF:-1,Tinker Bell e o Tesouro Perdido
+http://maxptv.net:8080/movie/sergio/sergio/2121.mkv
+#EXTINF:-1,Tinker Bell: Fadas e Piratas
+http://maxptv.net:8080/movie/sergio/sergio/2124.mkv
+#EXTINF:-1,Titan 
+http://maxptv.net:8080/movie/sergio/sergio/3879.avi
+#EXTINF:-1,Titanic - 1997
+http://maxptv.net:8080/movie/sergio/sergio/3473.mp4
+#EXTINF:-1,Todas as Pequenas Coisas
+http://maxptv.net:8080/movie/sergio/sergio/3273.mkv
+#EXTINF:-1,Todas as Sardas do Mundo
+http://maxptv.net:8080/movie/sergio/sergio/4869.mkv
+#EXTINF:-1,Todos os cães merecem o céu 
+http://maxptv.net:8080/movie/sergio/sergio/3881.avi
+#EXTINF:-1,Todos os Cães Merecem o Céu 2
+http://maxptv.net:8080/movie/sergio/sergio/3880.avi
+#EXTINF:-1,Tomb Raider: A Origem
+http://maxptv.net:8080/movie/sergio/sergio/3634.mp4
+#EXTINF:-1,Tome suas pílulas
+http://maxptv.net:8080/movie/sergio/sergio/4948.mp4
+#EXTINF:-1,Toy Story 4 
+http://maxptv.net:8080/movie/sergio/sergio/4966.mkv
+#EXTINF:-1,Travessia
+http://maxptv.net:8080/movie/sergio/sergio/4727.mkv
+#EXTINF:-1,Troop Zero
+http://maxptv.net:8080/movie/sergio/sergio/5378.mp4
+#EXTINF:-1,Tropa de Elite
+http://maxptv.net:8080/movie/sergio/sergio/3338.mkv
+#EXTINF:-1,Tropa de Elite 2
+http://maxptv.net:8080/movie/sergio/sergio/3337.mkv
+#EXTINF:-1,Tropas Estelares
+http://maxptv.net:8080/movie/sergio/sergio/3225.mkv
+#EXTINF:-1,Tropas Estelares 2 
+http://maxptv.net:8080/movie/sergio/sergio/3223.mkv
+#EXTINF:-1,Tropas Estelares 3
+http://maxptv.net:8080/movie/sergio/sergio/3224.mkv
+#EXTINF:-1,True Lies 
+http://maxptv.net:8080/movie/sergio/sergio/5330.mkv
+#EXTINF:-1,Três Estranhos Idênticos
+http://maxptv.net:8080/movie/sergio/sergio/3274.mkv
+#EXTINF:-1,Tá Rindo do Quê? 
+http://maxptv.net:8080/movie/sergio/sergio/2210.mkv
+#EXTINF:-1,UglyDolls
+http://maxptv.net:8080/movie/sergio/sergio/3275.mkv
+#EXTINF:-1,Ultimo Duelo
+http://maxptv.net:8080/movie/sergio/sergio/2239.mp4
+#EXTINF:-1,Um Amor de Mãe
+http://maxptv.net:8080/movie/sergio/sergio/5519.mkv
+#EXTINF:-1,Um Ato de Esperança
+http://maxptv.net:8080/movie/sergio/sergio/3276.mkv
+#EXTINF:-1,Um Coração que Perdoa
+http://maxptv.net:8080/movie/sergio/sergio/3744.mp4
+#EXTINF:-1,Um Espião Animal
+http://maxptv.net:8080/movie/sergio/sergio/5730.mkv
+#EXTINF:-1,Um Espião Animal
+http://maxptv.net:8080/movie/sergio/sergio/5731.mkv
+#EXTINF:-1,Um Espião e Meio
+http://maxptv.net:8080/movie/sergio/sergio/3719.mkv
+#EXTINF:-1,Um Ladrão com Estilo
+http://maxptv.net:8080/movie/sergio/sergio/3277.mkv
+#EXTINF:-1,Um Lugar Silencioso
+http://maxptv.net:8080/movie/sergio/sergio/5091.mp4
+#EXTINF:-1,Um Lugar Sombrio
+http://maxptv.net:8080/movie/sergio/sergio/3278.mkv
+#EXTINF:-1,Um Morto Muito Louco
+http://maxptv.net:8080/movie/sergio/sergio/3474.mkv
+#EXTINF:-1,Um Novo Plano 
+http://maxptv.net:8080/movie/sergio/sergio/3760.avi
+#EXTINF:-1,Um Panda em Apuros
+http://maxptv.net:8080/movie/sergio/sergio/2093.mp4
+#EXTINF:-1,Um Passado de Presente
+http://maxptv.net:8080/movie/sergio/sergio/2211.mkv
+#EXTINF:-1,Um Refúgio 
+http://maxptv.net:8080/movie/sergio/sergio/4739.mp4
+#EXTINF:-1,Um Tira Muito Suspeito
+http://maxptv.net:8080/movie/sergio/sergio/2270.mp4
+#EXTINF:-1,Uma Ladra Sem Limites 
+http://maxptv.net:8080/movie/sergio/sergio/5045.mkv
+#EXTINF:-1,Uma Noite Alucinante
+http://maxptv.net:8080/movie/sergio/sergio/5383.mkv
+#EXTINF:-1,Uma Noite Alucinante 2 - 1987
+http://maxptv.net:8080/movie/sergio/sergio/5384.mkv
+#EXTINF:-1,Uma Noite Alucinante 3
+http://maxptv.net:8080/movie/sergio/sergio/5331.mkv
+#EXTINF:-1,Uma Noite de Crime
+http://maxptv.net:8080/movie/sergio/sergio/3635.mkv
+#EXTINF:-1,Uma Noite de Crime 2: Anarquia
+http://maxptv.net:8080/movie/sergio/sergio/3718.mkv
+#EXTINF:-1,Uma Questão de Fé
+http://maxptv.net:8080/movie/sergio/sergio/3761.mp4
+#EXTINF:-1,Uma Vida com Propósito
+http://maxptv.net:8080/movie/sergio/sergio/3762.mkv
+#EXTINF:-1,Vai que Cola 2: O Começo - 2019
+http://maxptv.net:8080/movie/sergio/sergio/4704.mkv
+#EXTINF:-1,Van
+http://maxptv.net:8080/movie/sergio/sergio/3339.mkv
+#EXTINF:-1,Velozes & Furiosos: Hobbs & Shaw 
+http://maxptv.net:8080/movie/sergio/sergio/2271.mp4
+#EXTINF:-1,Velozes e Furiosos
+http://maxptv.net:8080/movie/sergio/sergio/2312.mp4
+#EXTINF:-1,Velozes e Furiosos 4
+http://maxptv.net:8080/movie/sergio/sergio/2314.mp4
+#EXTINF:-1,Velozes e Furiosos 5: Operação Rio - 2011
+http://maxptv.net:8080/movie/sergio/sergio/2315.mp4
+#EXTINF:-1,Velozes e Furiosos 6
+http://maxptv.net:8080/movie/sergio/sergio/2316.mp4
+#EXTINF:-1,Velozes e Furiosos 7
+http://maxptv.net:8080/movie/sergio/sergio/2317.mp4
+#EXTINF:-1,Velozes e Furiosos: Desafio em Tóquio
+http://maxptv.net:8080/movie/sergio/sergio/2318.mp4
+#EXTINF:-1,Venom 
+http://maxptv.net:8080/movie/sergio/sergio/2279.mp4
+#EXTINF:-1,Viagem ao Centro da Terra
+http://maxptv.net:8080/movie/sergio/sergio/3340.mp4
+#EXTINF:-1,Vida de Inseto
+http://maxptv.net:8080/movie/sergio/sergio/3468.mp4
+#EXTINF:-1,Vidro
+http://maxptv.net:8080/movie/sergio/sergio/3720.mp4
+#EXTINF:-1,Vingadores Utimato
+http://maxptv.net:8080/movie/sergio/sergio/1581.mp4
+#EXTINF:-1,Vingança a Sangue-Frio
+http://maxptv.net:8080/movie/sergio/sergio/3279.mkv
+#EXTINF:-1,Vingança Mesmo Que Tardia
+http://maxptv.net:8080/movie/sergio/sergio/4747.avi
+#EXTINF:-1,Vingança à Sangue Frio
+http://maxptv.net:8080/movie/sergio/sergio/4870.mp4
+#EXTINF:-1,Voando Alto
+http://maxptv.net:8080/movie/sergio/sergio/2193.mkv
+#EXTINF:-1,Você Acredita? 
+http://maxptv.net:8080/movie/sergio/sergio/3763.mp4
+#EXTINF:-1,Você Nunca Esteve Realmente Aqui
+http://maxptv.net:8080/movie/sergio/sergio/3636.mkv
+#EXTINF:-1,Vovó... Zona
+http://maxptv.net:8080/movie/sergio/sergio/3320.mp4
+#EXTINF:-1,Vovó... Zona 2
+http://maxptv.net:8080/movie/sergio/sergio/3319.mp4
+#EXTINF:-1,Vovó... Zona 3
+http://maxptv.net:8080/movie/sergio/sergio/3318.mp4
+#EXTINF:-1,Warner Bros - Hanna-Barbera Parte 1
+http://maxptv.net:8080/movie/sergio/sergio/4005.mp4
+#EXTINF:-1,Warner Bros - Hanna-Barbera Parte 2
+http://maxptv.net:8080/movie/sergio/sergio/4004.mp4
+#EXTINF:-1,Wildling - A Última Criatura 
+http://maxptv.net:8080/movie/sergio/sergio/3632.mp4
+#EXTINF:-1,Wolverine  Imortal
+http://maxptv.net:8080/movie/sergio/sergio/3310.mkv
+#EXTINF:-1,X-Men
+http://maxptv.net:8080/movie/sergio/sergio/3312.mp4
+#EXTINF:-1,X-Men - Primeira Classe
+http://maxptv.net:8080/movie/sergio/sergio/3313.mp4
+#EXTINF:-1,X-Men 2 
+http://maxptv.net:8080/movie/sergio/sergio/3315.mp4
+#EXTINF:-1,X-Men 3: O Confronto Final
+http://maxptv.net:8080/movie/sergio/sergio/3316.mp4
+#EXTINF:-1,X-Men Origens: Wolverine
+http://maxptv.net:8080/movie/sergio/sergio/3317.mp4
+#EXTINF:-1,X-Men: Apocalipse 
+http://maxptv.net:8080/movie/sergio/sergio/3314.mkv
+#EXTINF:-1,X-Men: Dias de um Futuro Esquecido
+http://maxptv.net:8080/movie/sergio/sergio/3311.mp4
+#EXTINF:-1,X-Men: Fénix Negra 
+http://maxptv.net:8080/movie/sergio/sergio/3088.mkv
+#EXTINF:-1,Yu-Gi-Oh! o filme - 2004
+http://maxptv.net:8080/movie/sergio/sergio/3912.avi
+#EXTINF:-1,Zumbilandia
+http://maxptv.net:8080/movie/sergio/sergio/2272.mp4
+#EXTINF:-1,Zumbilândia: Atire Duas Vezes
+http://maxptv.net:8080/movie/sergio/sergio/4705.mkv
+#EXTINF:-1,Zumbilândia: Atire Duas Vezes
+http://maxptv.net:8080/movie/sergio/sergio/4748.mkv
+#EXTINF:-1,É o Fim
+http://maxptv.net:8080/movie/sergio/sergio/3637.mkv
+#EXTINF:-1,Crime sem Saída
+http://maxptv.net:8080/movie/sergio/sergio/5732.mkv
+#EXTINF:-1,Asher
+http://maxptv.net:8080/movie/sergio/sergio/5733.mkv
+#EXTINF:-1,Justiça em Chamas
+http://maxptv.net:8080/movie/sergio/sergio/5735.mkv
+#EXTINF:-1,Missão de Honra
+http://maxptv.net:8080/movie/sergio/sergio/5736.mp4
+#EXTINF:-1,O Último Sharknado: Já Estava na Hora
+http://maxptv.net:8080/movie/sergio/sergio/5738.mkv
+#EXTINF:-1,Sobrevivendo às Festas com os Parentes
+http://maxptv.net:8080/movie/sergio/sergio/5739.mkv
+#EXTINF:-1,Bad Boys Para Sempre 
+http://maxptv.net:8080/movie/sergio/sergio/5756.mkv
+#EXTINF:-1,Jumanji: O Nível Seguinte 
+http://maxptv.net:8080/movie/sergio/sergio/5757.mkv
+#EXTINF:-1,Invasão ao Serviço Secreto
+http://maxptv.net:8080/movie/sergio/sergio/5761.mkv
+#EXTINF:-1,Árctico
+http://maxptv.net:8080/movie/sergio/sergio/5859.mkv
+#EXTINF:-1,Arraste-me Para o Inferno - 2009
+http://maxptv.net:8080/movie/sergio/sergio/5860.mp4
+#EXTINF:-1,Black Mirror: Bandersnatch 
+http://maxptv.net:8080/movie/sergio/sergio/6134.mkv
+#EXTINF:-1,As Discípulas de Charles Manson
+http://maxptv.net:8080/movie/sergio/sergio/6135.mkv
+#EXTINF:-1,Canal Dazn HD
+http://maxptv.net:8080/sergio/sergio/6233
+#EXTINF:-1,Globo Floripa HD
+http://maxptv.net:8080/sergio/sergio/6234
+#EXTINF:-1,Globo Floripa SD
+http://maxptv.net:8080/sergio/sergio/6235
+#EXTINF:-1,127 Horas
+http://maxptv.net:8080/movie/sergio/sergio/6236.mp4
+#EXTINF:-1,Bem-vindos à Selva
+http://maxptv.net:8080/movie/sergio/sergio/6237.mp4
+#EXTINF:-1,Bons Meninos
+http://maxptv.net:8080/movie/sergio/sergio/6238.mkv
+#EXTINF:-1,Con Air, A Rota da Fuga
+http://maxptv.net:8080/movie/sergio/sergio/6239.mp4
+#EXTINF:-1,Frozen, Uma Aventura Congelante
+http://maxptv.net:8080/movie/sergio/sergio/6240.mp4
+#EXTINF:-1,Navio Fantasma
+http://maxptv.net:8080/movie/sergio/sergio/6241.mp4
+#EXTINF:-1,O Vôo da Fênix 
+http://maxptv.net:8080/movie/sergio/sergio/6242.mkv
+#EXTINF:-1,Tal Mãe Tal Filha
+http://maxptv.net:8080/movie/sergio/sergio/6243.mkv
+#EXTINF:-1,Lenda Urbana 2
+http://maxptv.net:8080/movie/sergio/sergio/6310.mp4
+#EXTINF:-1,Cascavel
+http://maxptv.net:8080/movie/sergio/sergio/6308.mp4
+#EXTINF:-1,A Vigilante 
+http://maxptv.net:8080/movie/sergio/sergio/6306.mp4
+#EXTINF:-1,A Vida Moderna de Rocko: Volta ao Lar
+http://maxptv.net:8080/movie/sergio/sergio/6305.mp4
+#EXTINF:-1,Astro Kid
+http://maxptv.net:8080/movie/sergio/sergio/6304.mp4
+#EXTINF:-1,Assassinos de Guerra
+http://maxptv.net:8080/movie/sergio/sergio/6303.mp4
+#EXTINF:-1,As Aventuras de Fujiwara Manchester: O Filme 
+http://maxptv.net:8080/movie/sergio/sergio/6302.mp4
+#EXTINF:-1,Joias Brutas
+http://maxptv.net:8080/movie/sergio/sergio/6311.mkv
+#EXTINF:-1,Nico - Acima da Lei
+http://maxptv.net:8080/movie/sergio/sergio/6312.mp4
+#EXTINF:-1,Presas no Paraíso
+http://maxptv.net:8080/movie/sergio/sergio/6313.mkv
+#EXTINF:-1,Segredos Oficiais 
+http://maxptv.net:8080/movie/sergio/sergio/6314.mkv
+#EXTINF:-1,Tango e Cash
+http://maxptv.net:8080/movie/sergio/sergio/6315.mp4
+#EXTINF:-1,Taylor Swift: Miss Americana
+http://maxptv.net:8080/movie/sergio/sergio/6316.mkv
+#EXTINF:-1,Bernie, o Golfinho
+http://maxptv.net:8080/movie/sergio/sergio/6307.mp4
+#EXTINF:-1,Ford vs Ferrari
+http://maxptv.net:8080/movie/sergio/sergio/6377.mp4
+#EXTINF:-1,Lenda Urbana
+http://maxptv.net:8080/movie/sergio/sergio/6309.mp4
+#EXTINF:-1,A Caminho de Casa
+http://maxptv.net:8080/movie/sergio/sergio/6448.mp4
+#EXTINF:-1,A Cinco Passos de Voce
+http://maxptv.net:8080/movie/sergio/sergio/6449.mp4
+#EXTINF:-1,AMeninaeoLeao
+http://maxptv.net:8080/movie/sergio/sergio/6450.mp4
+#EXTINF:-1,A Mula
+http://maxptv.net:8080/movie/sergio/sergio/6451.mp4
+#EXTINF:-1,A Senha - Swordfish
+http://maxptv.net:8080/movie/sergio/sergio/6452.mp4
+#EXTINF:-1,A Sereia - Lago dos Mortos
+http://maxptv.net:8080/movie/sergio/sergio/6453.mp4
+#EXTINF:-1,A Sombra e a Escuridão
+http://maxptv.net:8080/movie/sergio/sergio/6454.mp4
+#EXTINF:-1,ABC da Sedução 
+http://maxptv.net:8080/movie/sergio/sergio/6455.mp4
+#EXTINF:-1,Chamas da Vinganca
+http://maxptv.net:8080/movie/sergio/sergio/6466.mp4
+#EXTINF:-1,Vingança
+http://maxptv.net:8080/movie/sergio/sergio/6467.mp4
+#EXTINF:-1,Entrevista com o Vampiro 
+http://maxptv.net:8080/movie/sergio/sergio/6478.mp4
+#EXTINF:-1,Espiritos 1
+http://maxptv.net:8080/movie/sergio/sergio/6479.mp4
+#EXTINF:-1,Espiritos 2
+http://maxptv.net:8080/movie/sergio/sergio/6480.mp4
+#EXTINF:-1,Eu Sei o que Voces Fizeram no Verao Passado
+http://maxptv.net:8080/movie/sergio/sergio/6481.mp4
+#EXTINF:-1,Evocando Espiritos 1
+http://maxptv.net:8080/movie/sergio/sergio/6482.mp4
+#EXTINF:-1,Evocando Espiritos 2
+http://maxptv.net:8080/movie/sergio/sergio/6483.mp4
+#EXTINF:-1,Filha do Mal 
+http://maxptv.net:8080/movie/sergio/sergio/6484.mp4
+#EXTINF:-1,Gritos Mortais
+http://maxptv.net:8080/movie/sergio/sergio/6485.mp4
+#EXTINF:-1,WWZ: Guerra Mundial 
+http://maxptv.net:8080/movie/sergio/sergio/6486.mp4
+#EXTINF:-1,Hereditário 
+http://maxptv.net:8080/movie/sergio/sergio/6487.mp4
+#EXTINF:-1,A Invasão Zumbi 
+http://maxptv.net:8080/movie/sergio/sergio/6488.mp4
+#EXTINF:-1,Invocação do Mal 
+http://maxptv.net:8080/movie/sergio/sergio/6489.mp4
+#EXTINF:-1,Invocação do Mal 2
+http://maxptv.net:8080/movie/sergio/sergio/6490.mp4
+#EXTINF:-1,Legião
+http://maxptv.net:8080/movie/sergio/sergio/6491.mp4
+#EXTINF:-1,Madrugada dos Mortos
+http://maxptv.net:8080/movie/sergio/sergio/6492.mp4
+#EXTINF:-1,Mama 
+http://maxptv.net:8080/movie/sergio/sergio/6493.mp4
+#EXTINF:-1,Mara - O Demonio do Sono
+http://maxptv.net:8080/movie/sergio/sergio/6494.mp4
+#EXTINF:-1,See No Evil - 1971
+http://maxptv.net:8080/movie/sergio/sergio/6495.mp4
+#EXTINF:-1,Noite de Terror 2 
+http://maxptv.net:8080/movie/sergio/sergio/6496.mp4
+#EXTINF:-1,O Albergue 1
+http://maxptv.net:8080/movie/sergio/sergio/6497.mp4
+#EXTINF:-1,O Albergue 2
+http://maxptv.net:8080/movie/sergio/sergio/6498.mp4
+#EXTINF:-1,O Albergue 3
+http://maxptv.net:8080/movie/sergio/sergio/6499.mp4
+#EXTINF:-1,3 Pedidos
+http://maxptv.net:8080/movie/sergio/sergio/6301.mp4
+#EXTINF:-1,A Balada do Pistoleiro
+http://maxptv.net:8080/movie/sergio/sergio/6500.mp4
+#EXTINF:-1,Amaldiçoada 
+http://maxptv.net:8080/movie/sergio/sergio/6501.mp4
+#EXTINF:-1,Appaloosa - Uma Cidade sem Lei 
+http://maxptv.net:8080/movie/sergio/sergio/6502.mp4
+#EXTINF:-1,As Loucas Aventuras De James West
+http://maxptv.net:8080/movie/sergio/sergio/6503.mp4
+#EXTINF:-1,Cowboys e Aliens
+http://maxptv.net:8080/movie/sergio/sergio/6504.mp4
+#EXTINF:-1,Criminosos e Anjos
+http://maxptv.net:8080/movie/sergio/sergio/6505.mp4
+#EXTINF:-1,Danças com Lobos
+http://maxptv.net:8080/movie/sergio/sergio/6506.mp4
+#EXTINF:-1,Dívida de Honra 
+http://maxptv.net:8080/movie/sergio/sergio/6507.mp4
+#EXTINF:-1,Em Busca da Justiça 
+http://maxptv.net:8080/movie/sergio/sergio/6508.mp4
+#EXTINF:-1,Era Uma Vez no México
+http://maxptv.net:8080/movie/sergio/sergio/6509.mp4
+#EXTINF:-1,Faroeste Caboclo
+http://maxptv.net:8080/movie/sergio/sergio/6510.mp4
+#EXTINF:-1,Gigantes em Luta
+http://maxptv.net:8080/movie/sergio/sergio/6511.mp4
+#EXTINF:-1,Hostiles
+http://maxptv.net:8080/movie/sergio/sergio/6512.mp4
+#EXTINF:-1,Inferno no Faroeste 
+http://maxptv.net:8080/movie/sergio/sergio/6513.mp4
+#EXTINF:-1,Inferno no Faroeste 2
+http://maxptv.net:8080/movie/sergio/sergio/6514.mp4
+#EXTINF:-1,Joe Kidd
+http://maxptv.net:8080/movie/sergio/sergio/6515.mp4
+#EXTINF:-1,O Meu Nome é Ninguém 
+http://maxptv.net:8080/movie/sergio/sergio/6516.mp4
+#EXTINF:-1,Meu Ódio Será Sua Herança
+http://maxptv.net:8080/movie/sergio/sergio/6517.mp4
+#EXTINF:-1,O Álamo 
+http://maxptv.net:8080/movie/sergio/sergio/6518.mp4
+#EXTINF:-1,O Assassinato de Jesse James pelo Covarde Robert Ford
+http://maxptv.net:8080/movie/sergio/sergio/6519.mp4
+#EXTINF:-1,O Duelo
+http://maxptv.net:8080/movie/sergio/sergio/6520.mp4
+#EXTINF:-1,Os Oito Odiados
+http://maxptv.net:8080/movie/sergio/sergio/6521.mp4
+#EXTINF:-1,Por um Punhado de Dólares - 1964
+http://maxptv.net:8080/movie/sergio/sergio/6522.mp4
+#EXTINF:-1,Por Mais Alguns Dólares - 1965
+http://maxptv.net:8080/movie/sergio/sergio/6523.mp4
+#EXTINF:-1,Rastro De Maldade
+http://maxptv.net:8080/movie/sergio/sergio/6524.mp4
+#EXTINF:-1,Resgate no Oeste
+http://maxptv.net:8080/movie/sergio/sergio/6525.mp4
+#EXTINF:-1,Sem Lei e Sem Alma - 1957
+http://maxptv.net:8080/movie/sergio/sergio/6526.mp4
+#EXTINF:-1,Nós 
+http://maxptv.net:8080/movie/sergio/sergio/6527.mp4
+#EXTINF:-1,Beyoncé: Live in Rock in Rio 2013 - 2013
+http://maxptv.net:8080/movie/sergio/sergio/6528.mp4
+#EXTINF:-1,Coldplay: Ghost Stories Live - 2014
+http://maxptv.net:8080/movie/sergio/sergio/6529.mp4
+#EXTINF:-1,Ed Sheeran: Jumpers for Goalposts - 2015
+http://maxptv.net:8080/movie/sergio/sergio/6530.mp4
+#EXTINF:-1,Evanescence: Rock am Ring 2012 - 2012
+http://maxptv.net:8080/movie/sergio/sergio/6531.mp4
+#EXTINF:-1,Fernanda Brum - Da Eternidade Ao Vivo em Israel
+http://maxptv.net:8080/movie/sergio/sergio/6532.mp4
+#EXTINF:-1,Linkin Park - Live in São Paulo 2012
+http://maxptv.net:8080/movie/sergio/sergio/6533.mp4
+#EXTINF:-1,Metallica: Rock In Rio 2011 - 2011
+http://maxptv.net:8080/movie/sergio/sergio/6534.mp4
+#EXTINF:-1,Red Hot Chili Peppers: Ao Vivo no Slane Castle
+http://maxptv.net:8080/movie/sergio/sergio/6535.mp4
+#EXTINF:-1,Roupa Nova - 30 Anos Ao Vivo 
+http://maxptv.net:8080/movie/sergio/sergio/6536.mp4
+#EXTINF:-1,Skank ao Vivo no Recife
+http://maxptv.net:8080/movie/sergio/sergio/6537.mp4
+#EXTINF:-1,Wesley Safadão em Casa - 2016
+http://maxptv.net:8080/movie/sergio/sergio/6538.mp4
+#EXTINF:-1,À Espera de Um Milagre - 1999
+http://maxptv.net:8080/movie/sergio/sergio/6539.mp4
+#EXTINF:-1,Deus Não Está Morto
+http://maxptv.net:8080/movie/sergio/sergio/6540.mp4
+#EXTINF:-1,Deus Não Está Morto 2 
+http://maxptv.net:8080/movie/sergio/sergio/6541.mp4
+#EXTINF:-1,Deus Não Está Morto: Uma Luz na Escuridão - 2018
+http://maxptv.net:8080/movie/sergio/sergio/6542.mp4
+#EXTINF:-1,Operação Entebbe
+http://maxptv.net:8080/movie/sergio/sergio/6543.mp4
+#EXTINF:-1,13 Fantasmas
+http://maxptv.net:8080/movie/sergio/sergio/6544.mp4
+#EXTINF:-1,22 Balas
+http://maxptv.net:8080/movie/sergio/sergio/6545.mp4
+#EXTINF:-1,22 Milhas 
+http://maxptv.net:8080/movie/sergio/sergio/6546.mp4
+#EXTINF:-1,30 Dias de Noite
+http://maxptv.net:8080/movie/sergio/sergio/6547.mp4
+#EXTINF:-1,30 Dias de Noite 2 - Dias Sombrios 
+http://maxptv.net:8080/movie/sergio/sergio/6548.mp4
+#EXTINF:-1,60 Minutos para Morrer
+http://maxptv.net:8080/movie/sergio/sergio/6549.mp4
+#EXTINF:-1,60 Segundos
+http://maxptv.net:8080/movie/sergio/sergio/6550.mp4
+#EXTINF:-1,72 Horas
+http://maxptv.net:8080/movie/sergio/sergio/6551.mp4
+#EXTINF:-1,300
+http://maxptv.net:8080/movie/sergio/sergio/6552.mp4
+#EXTINF:-1,A 5ª Onda
+http://maxptv.net:8080/movie/sergio/sergio/6553.mp4
+#EXTINF:-1,A Autópsia
+http://maxptv.net:8080/movie/sergio/sergio/6554.mp4
+#EXTINF:-1,A Chegada
+http://maxptv.net:8080/movie/sergio/sergio/6555.mp4
+#EXTINF:-1,211 - O Grande Assalto - 2018
+http://maxptv.net:8080/movie/sergio/sergio/6556.mp4
+#EXTINF:-1,300: O Início de um Império
+http://maxptv.net:8080/movie/sergio/sergio/6557.mp4
+#EXTINF:-1,3096 Dias de Cativeiro
+http://maxptv.net:8080/movie/sergio/sergio/6558.mp4
+#EXTINF:-1,Kingsman: O Círculo Dourado
+http://maxptv.net:8080/movie/sergio/sergio/6559.mp4
+#EXTINF:-1,Kingsman: Serviço Secreto
+http://maxptv.net:8080/movie/sergio/sergio/6560.mp4
+#EXTINF:-1,Kung-Fusão
+http://maxptv.net:8080/movie/sergio/sergio/6561.mp4
+#EXTINF:-1,Kung Fu futebol clube
+http://maxptv.net:8080/movie/sergio/sergio/6562.mp4
+#EXTINF:-1,Lucas  Um Intruso no Formigueiro
+http://maxptv.net:8080/movie/sergio/sergio/6563.mp4
+#EXTINF:-1,Mais Forte que o Mundo - A História de José Aldo
+http://maxptv.net:8080/movie/sergio/sergio/6564.mp4
+#EXTINF:-1,Mamãe - Operação Balada 
+http://maxptv.net:8080/movie/sergio/sergio/6565.mp4
+#EXTINF:-1,Mar em Furia
+http://maxptv.net:8080/movie/sergio/sergio/6566.mp4
+#EXTINF:-1,Marley & Eu
+http://maxptv.net:8080/movie/sergio/sergio/6567.mp4
+#EXTINF:-1,Meu Primeiro Amor 
+http://maxptv.net:8080/movie/sergio/sergio/6568.mp4
+#EXTINF:-1,Meus 15 Anos 
+http://maxptv.net:8080/movie/sergio/sergio/6569.mp4
+#EXTINF:-1,Meus Vizinhos São um Terror
+http://maxptv.net:8080/movie/sergio/sergio/6570.mp4
+#EXTINF:-1,Millennium 1 - Os Homens Que Odeiam As Mulheres
+http://maxptv.net:8080/movie/sergio/sergio/6571.mp4
+#EXTINF:-1,Millennium 2: A Menina que Brincava com Fogo 
+http://maxptv.net:8080/movie/sergio/sergio/6572.mp4
+#EXTINF:-1,Millennium 3 A Rainha do Castelo de Ar
+http://maxptv.net:8080/movie/sergio/sergio/6573.mp4
+#EXTINF:-1,Millennium A Garota Na Teia De Aranha
+http://maxptv.net:8080/movie/sergio/sergio/6574.mp4
+#EXTINF:-1,Minha Mãe é uma Peça
+http://maxptv.net:8080/movie/sergio/sergio/6575.mp4
+#EXTINF:-1,Minha Mãe é Uma Peça 2 
+http://maxptv.net:8080/movie/sergio/sergio/6576.mp4
+#EXTINF:-1,As Minhas Adoráveis ex-Namoradas 
+http://maxptv.net:8080/movie/sergio/sergio/6577.mp4
+#EXTINF:-1,Minha Vida em Marte
+http://maxptv.net:8080/movie/sergio/sergio/6578.mp4
+#EXTINF:-1,Momento Crítico
+http://maxptv.net:8080/movie/sergio/sergio/6579.mp4
+#EXTINF:-1,Motoqueiro Fantasma 
+http://maxptv.net:8080/movie/sergio/sergio/6580.mp4
+#EXTINF:-1,Motoqueiro Fantasma 2
+http://maxptv.net:8080/movie/sergio/sergio/6581.mp4
+#EXTINF:-1,Motoqueiros Selvagens
+http://maxptv.net:8080/movie/sergio/sergio/6582.mp4
+#EXTINF:-1,Mudança de Hábito 
+http://maxptv.net:8080/movie/sergio/sergio/6583.mp4
+#EXTINF:-1,Mudanca de Habito 2
+http://maxptv.net:8080/movie/sergio/sergio/6584.mp4
+#EXTINF:-1,Muita Calma Nessa Hora 2 
+http://maxptv.net:8080/movie/sergio/sergio/6585.mp4
+#EXTINF:-1,Muita Calma Nessa Hora 
+http://maxptv.net:8080/movie/sergio/sergio/6586.mp4
+#EXTINF:-1,Muito Bem Acompanhada
+http://maxptv.net:8080/movie/sergio/sergio/6587.mp4
+#EXTINF:-1,Mulan 2: A Lenda Continua
+http://maxptv.net:8080/movie/sergio/sergio/6588.mp4
+#EXTINF:-1,Mulan 
+http://maxptv.net:8080/movie/sergio/sergio/6589.mp4
+#EXTINF:-1,Mulher Gato
+http://maxptv.net:8080/movie/sergio/sergio/6590.mp4
+#EXTINF:-1,Mulher-Maravilha
+http://maxptv.net:8080/movie/sergio/sergio/6591.mp4
+#EXTINF:-1,My Little Pony: O Filme 
+http://maxptv.net:8080/movie/sergio/sergio/6592.mp4
+#EXTINF:-1,Nem Que a Vaca Tussa
+http://maxptv.net:8080/movie/sergio/sergio/6593.mp4
+#EXTINF:-1,Nevoa em Agosto
+http://maxptv.net:8080/movie/sergio/sergio/6594.mp4
+#EXTINF:-1,Ninguém Segura Esse Bebê 
+http://maxptv.net:8080/movie/sergio/sergio/6595.mp4
+#EXTINF:-1,No Limite do Amanhã 
+http://maxptv.net:8080/movie/sergio/sergio/6596.mp4
+#EXTINF:-1,Número 23 
+http://maxptv.net:8080/movie/sergio/sergio/6597.mp4
+#EXTINF:-1,Nunca fui Beijada 
+http://maxptv.net:8080/movie/sergio/sergio/6598.mp4
+#EXTINF:-1,O Náufrago
+http://maxptv.net:8080/movie/sergio/sergio/6599.mp4
+#EXTINF:-1,Abutres
+http://maxptv.net:8080/movie/sergio/sergio/6600.mp4
+#EXTINF:-1,O Alvo
+http://maxptv.net:8080/movie/sergio/sergio/6601.mp4
+#EXTINF:-1,O Amor é Cego 
+http://maxptv.net:8080/movie/sergio/sergi…
