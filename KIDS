@@ -1,20 +1,77 @@
-  
 <item>
 <title>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]KIDS [/COLOR]</title>
-<thumbnail>https://ia601500.us.archive.org/32/items/fanart_20200421_1802/kids.png</thumbnail>
+<thumbnail>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/canais.png</thumbnail>
 <link>https://</link>
 <info>
 
 by VemProTop
-[COLOR deeppink]l[/COLOR]- KIDS -[COLOR deeppink]l[/COLOR]</info>
+[COLOR deeppink]l[/COLOR]- DESENHOS PARA CRIANÇADA -[COLOR deeppink]l[/COLOR]</info>
 </item>
 
-<item>
-<title>[B] NOME DO FILME AQUI- [COLOR deeppink](ANO)[/COLOR] - [COLOR lime](QUALIDADE)[/COLOR] - DUBLADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14r8VemyiabUciWegkMe9qFyqdfMCrxHi/view?usp=drivesdk</link>
-<thumbnail>https://</thumbnail>
-<fanart>https://</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]Vem[/B][/COLOR][COLOR deeppink][B]ProTop[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]ESCREVER AQUI</info>
-</item>
-<item>
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/30/items/20200427-210518/20200427_210518.png" group-title="VemProTop", CANAIS VemProTop 24hs
+https://www.youtube.com/channel/UCUHtLbZz8dm_h3ujDhTs3Ng
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/vtyvann9p/TOMEJERRY.png" group-title="Desenhos 24 Horas",Tom and Jerry Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/b111zzk3x/XMEN.png" group-title="Desenhos 24 Horas",X-Men Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/9s3j3hwg9/MUNDODEBOBBYS.png" group-title="Desenhos 24 Horas",Bobby's World Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jg7sf5ci5/DUNGEONS_E_DRAGONS.png" group-title="Desenhos 24 Horas",Dungeons & Dragons Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/hyviv2mj1/MASCARA.png" group-title="Desenhos 24 Horas",The Mask Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/c1n20ig09/JACK_CHAN.png" group-title="Desenhos 24 Horas",Jackie Chan Adventures Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/65xpquq31/LIGA_DA_JUSTICA.png" group-title="Desenhos 24 Horas",Justice League Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/twjb3qm4t/BATMAN.png" group-title="Desenhos 24 Horas",Batman Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/m7mgs0ln1/BEN10.png" group-title="Desenhos 24 Horas",Ben 10 Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/mhtzbd099/BOB_ESPONJA.png" group-title="Desenhos 24 Horas",SpongeBob - SquarePants Dublado
+http://95.141.32.213:8081/looktvs/bobesponja/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pfqy527wt/CAVALEIROS_DO_ZODIACO.png" group-title="Desenhos 24 Horas",Os Cavaleiros do Zodíaco Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/egac776vh/DUCKTALES.png" group-title="Desenhos 24 Horas",DuckTales Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/7ail4qxsd/DOUG.png" group-title="Desenhos 24 Horas",Doug Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tesr1mlxp/DRAGON_BALL_Z.png" group-title="Desenhos 24 Horas",Dragon Ball Z Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/o7c9awuq5/FAMILIA_DINOSAUROS.png" group-title="Desenhos 24 Horas",Dinosaurs Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/l5lh0yhl9/FUTURAMA.png" group-title="Desenhos 24 Horas",Futurama Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pc6bgah6x/GALINHA_PINTADINHA.png" group-title="Desenhos 24 Horas",Galinha Pintadinha
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/s2k8r839p/JASPION.png" group-title="Desenhos 24 Horas",Jaspion Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/szqo03erx/NARUTO.png" group-title="Desenhos 24 Horas",Watch Naruto Shippuden Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/eupwvec25/THEFLINTSTONES.png" group-title="Desenhos 24 Horas",The Flintstones Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/nw4g909zh/PICA_PAL.png" group-title="Desenhos 24 Horas",Woody Woodpecker Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5o7m846tp/SCOOBYDOO.png" group-title="Desenhos 24 Horas",Scooby Doo Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/x1ct2vde5/SIMPSONS.png" group-title="Desenhos 24 Horas",The Simpsons Dublado
+http://95.141.32.213:8081/looktvs/simpsons/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/3q0ya4ebx/SOUTHPARK.png" group-title="Desenhos 24 Horas",South Park Dublado
+http://95.141.32.213:8081/looktvs/southpark/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ezy9it8r1/THUNDERCATS.png" group-title="Desenhos 24 Horas",ThunderCats Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/bq5lnqzkd/FAMILIADAPESADApng.png" group-title="Desenhos 24 Horas",Family Guy Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4r5sczkp9/YU_GI_OH.png" group-title="Desenhos 24 Horas",Yu-Gi-Oh! Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pk3lnnnv1/PENGUINS_MADAGASCAR.png" group-title="Desenhos 24 Horas",The Penguins of Madagascar Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ot5tkrf65/PADRINHOSMAGICOS.png" group-title="Desenhos 24 Horas",The Fairly OddParents Dublado
