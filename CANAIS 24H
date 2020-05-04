@@ -14,90 +14,85 @@ by VemProTop
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/30/items/20200427-210518/20200427_210518.png" group-title="VemProTop", CANAIS VemProTop 24hs
 https://www.youtube.com/channel/UCUHtLbZz8dm_h3ujDhTs3Ng
 
+
+#EXT3MU
  
-#EXTINF:-1 group-title="Canais 24H",[24H] A Pantera Cor De Rosa
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/737.m3u8
+#EXTINF:-1 tvg-logo="",Ben 10 - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/19219
  
-#EXTINF:-1 group-title="Canais 24H",[24H] Apenas Um Show
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/736.m3u8
+#EXTINF:-1 tvg-logo="",Bob Esponja - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/19220
  
-#EXTINF:-1 group-title="Canais 24H",[24H] Armação Ilimitada
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/735.m3u8
+#EXTINF:-1 tvg-logo="",Caverna do Dragão - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/19216
  
-#EXTINF:-1 group-title="Canais 24H",[24H] Capitão Planeta
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/734.m3u8
+#EXTINF:-1 tvg-logo="",Chaves - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/19218
  
-#EXTINF:-1 group-title="Canais 24H",[24H] Changeman
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/733.m3u8
+#EXTINF:-1 tvg-logo="",Chaves em Desenho Animado - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/19217
  
-#EXTINF:-1 group-title="Canais 24H",[24H] Chaves
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/732.m3u8
+#EXTINF:-1 tvg-logo="",Classicos Disney - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/24972
  
-#EXTINF:-1 group-title="Canais 24H",[24H] Dragon Ball Super
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/731.m3u8
+#EXTINF:-1 tvg-logo="",Os Trapalhões - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/24978
  
-#EXTINF:-1 group-title="Canais 24H",[24H] He-Man
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/730.m3u8
+#EXTINF:-1 tvg-logo="",Os Simpsons - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/19195
  
-#EXTINF:-1 group-title="Canais 24H",[24H] Jaspion
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/729.m3u8
+#EXTINF:-1 tvg-logo="",Todo Mundo Odeia o Chris - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/19185
  
-#EXTINF:-1 group-title="Canais 24H",[24H] Liga Da Justiça Jovem
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/728.m3u8
+#EXTINF:-1 tvg-logo="",Tom e Jerry - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/19184
  
-#EXTINF:-1 group-title="Canais 24H",[24H] Macgyver
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/727.m3u8
+#EXTINF:-1 tvg-logo="",Dois Homens e Meio - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/19212
  
-#EXTINF:-1 group-title="Canais 24H",[24H] Ninja Jiraya
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/726.m3u8
+#EXTINF:-1 tvg-logo="",The Big Bang Theory - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/24984
  
-#EXTINF:-1 group-title="Canais 24H",[24H] O Fantástico Mundo De Bobby
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/725.m3u8
- 
-#EXTINF:-1 group-title="Canais 24H",[24H] Os Flintstones
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/724.m3u8
- 
-#EXTINF:-1 group-title="Canais 24H",[24H] Os Normais
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/723.m3u8
- 
-#EXTINF:-1 group-title="Canais 24H",[24H] Os Simpsons
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/722.m3u8
- 
-#EXTINF:-1 group-title="Canais 24H",[24H] Os Trapalhões
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/721.m3u8
- 
-#EXTINF:-1 group-title="Canais 24H",[24H] Patati - Patatá
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/720.m3u8
- 
-#EXTINF:-1 group-title="Canais 24H",[24H] Peppa Pig
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/719.m3u8
- 
-#EXTINF:-1 group-title="Canais 24H",[24H] Popeye
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/718.m3u8
- 
-#EXTINF:-1 group-title="Canais 24H",[24H] Power Rangers
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/717.m3u8
- 
-#EXTINF:-1 group-title="Canais 24H",[24H] Scooby Doo
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/716.m3u8
- 
-#EXTINF:-1 group-title="Canais 24H",[24H] Snoopy
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/715.m3u8
- 
-#EXTINF:-1 group-title="Canais 24H",[24H] Speed Racer
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/714.m3u8
- 
-#EXTINF:-1 group-title="Canais 24H",[24H] Super Amigos
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/713.m3u8
- 
-#EXTINF:-1 group-title="Canais 24H",[24H] Super Vicky
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/712.m3u8
- 
-#EXTINF:-1 group-title="Canais 24H",[24H] Thundercats
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/711.m3u8
- 
-#EXTINF:-1 group-title="Canais 24H",[24H] TV Pirata
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/710.m3u8
- 
-#EXTINF:-1 group-title="Canais 24H",[24H] Um Maluco No Pedaço
-http://158.69.22.210:25461/live/ueiJhduHS/HUjshdkS/709.m3u8
+#EXTINF:-1 tvg-logo="",Tico e Teco - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/24985
+
+#EXT3MU
+
+#EXTINF:-1 tvg-logo="",Ben 10 - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/19219
+
+#EXTINF:-1 tvg-logo="",Bob Esponja - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/19220
+
+#EXTINF:-1 tvg-logo="",Caverna do Dragão - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/19216
+
+#EXTINF:-1 tvg-logo="",Chaves - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/19218
+
+#EXTINF:-1 tvg-logo="",Chaves em Desenho Animado - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/19217
+
+#EXTINF:-1 tvg-logo="",Classicos Disney - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/24972
+
+#EXTINF:-1 tvg-logo="",Os Trapalhões - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/24978
+
+#EXTINF:-1 tvg-logo="",Os Simpsons - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/19195
+
+#EXTINF:-1 tvg-logo="",Todo Mundo Odeia o Chris - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/19185
+
+#EXTINF:-1 tvg-logo="",Tom e Jerry - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/19184
+
+#EXTINF:-1 tvg-logo="",Dois Homens e Meio - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/19212
+
+#EXTINF:-1 tvg-logo="",The Big Bang Theory - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/24984
+
+#EXTINF:-1 tvg-logo="",Tico e Teco - 24h
+http://psrv.io:80/xZFSYpeN/k8AkJpHf/24985
