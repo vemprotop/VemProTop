@@ -15,84 +15,54 @@ by VemProTop
 https://www.youtube.com/channel/UCUHtLbZz8dm_h3ujDhTs3Ng
 
 
-#EXT3MU
- 
-#EXTINF:-1 tvg-logo="",Ben 10 - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/19219
- 
-#EXTINF:-1 tvg-logo="",Bob Esponja - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/19220
- 
-#EXTINF:-1 tvg-logo="",Caverna do Dragão - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/19216
- 
-#EXTINF:-1 tvg-logo="",Chaves - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/19218
- 
-#EXTINF:-1 tvg-logo="",Chaves em Desenho Animado - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/19217
- 
-#EXTINF:-1 tvg-logo="",Classicos Disney - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/24972
- 
-#EXTINF:-1 tvg-logo="",Os Trapalhões - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/24978
- 
-#EXTINF:-1 tvg-logo="",Os Simpsons - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/19195
- 
-#EXTINF:-1 tvg-logo="",Todo Mundo Odeia o Chris - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/19185
- 
-#EXTINF:-1 tvg-logo="",Tom e Jerry - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/19184
- 
-#EXTINF:-1 tvg-logo="",Dois Homens e Meio - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/19212
- 
-#EXTINF:-1 tvg-logo="",The Big Bang Theory - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/24984
- 
-#EXTINF:-1 tvg-logo="",Tico e Teco - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/24985
+#EXTM3U
 
-#EXT3MU
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pp2b07oul/LOST.png" group-title="Séries 24 Horas",Lost Dublado
 
-#EXTINF:-1 tvg-logo="",Ben 10 - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/19219
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/71u76azrh/PRISONBREAK.png" group-title="Séries 24 Horas",Prison Break Dublado
 
-#EXTINF:-1 tvg-logo="",Bob Esponja - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/19220
+#EXTINF:-1 tvg-logo="http://s29.postimg.org/svglffi1z/Friends.png" group-title="Séries 24 Horas",Friends Legendado
 
-#EXTINF:-1 tvg-logo="",Caverna do Dragão - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/19216
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/u5unyw32j/GLEE.png" group-title="Séries 24 Horas",Glee Dublado
 
-#EXTINF:-1 tvg-logo="",Chaves - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/19218
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ibdq9rq19/DRAKE_E_JOSH.png" group-title="Séries 24 Horas",Drake & Josh Dublado
 
-#EXTINF:-1 tvg-logo="",Chaves em Desenho Animado - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/19217
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ppygoemj1/CASTELO_RA_TIM_BUM.png" group-title="Séries 24 Horas",Castelo Rá-Tim-Bum!
 
-#EXTINF:-1 tvg-logo="",Classicos Disney - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/24972
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ydz3ii07h/TWO_ANDAHALF_MEN.png" group-title="Séries 24 Horas",Two And a Half Men Dublado
 
-#EXTINF:-1 tvg-logo="",Os Trapalhões - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/24978
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/cpmpryzyl/BIGBANGTHEORY.png" group-title="Séries 24 Horas",The Big Bang Theory Dublado
 
-#EXTINF:-1 tvg-logo="",Os Simpsons - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/19195
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5p3bcxnkd/BREAKING_BAD.png" group-title="Séries 24 Horas",Breaking Bad Dublado
 
-#EXTINF:-1 tvg-logo="",Todo Mundo Odeia o Chris - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/19185
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/d6cis5d3h/CHAVES.png" group-title="Séries 24 Horas",El Chavo del Ocho Dublado
+http://95.141.32.213:8081/looktvs/chaves/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="",Tom e Jerry - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/19184
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/f88esnlot/CHAPOLIN.png" group-title="Séries 24 Horas",El Chapulín Colorado Dublado
 
-#EXTINF:-1 tvg-logo="",Dois Homens e Meio - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/19212
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5rn6zrr7x/CRIMINAL_MINDS.png" group-title="Séries 24 Horas",Criminal Minds Legendado
 
-#EXTINF:-1 tvg-logo="",The Big Bang Theory - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/24984
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4145ya9ot/CHUNCK.png" group-title="Séries 24 Horas",Chuck Legendado
 
-#EXTINF:-1 tvg-logo="",Tico e Teco - 24h
-http://psrv.io:80/xZFSYpeN/k8AkJpHf/24985
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/t8f1yjcst/CSI.png" group-title="Séries 24 Horas",CSI Legendado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5t1q6xifh/EUAPATROAEASCRIANCAS.png" group-title="Séries 24 Horas",My Wife and Kids Dublado
+http://95.141.32.213:8081/looktvs/patroa/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/6l4e64mml/GOSSIO_GIRL.png" group-title="Séries 24 Horas",Gossip Girl Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4vvay26x9/HEROES.png" group-title="Séries 24 Horas",Heroes Reborn Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/3uv28xpxp/ICARLY.png" group-title="Séries 24 Horas",iCarly Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/uxxby379p/KENAN_E_KEL.png" group-title="Séries 24 Horas",Kenan & Kel Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5s1fodcb1/SMALLVILLE.png" group-title="Séries 24 Horas",Smallville Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/iai14y9al/SUPERNATURAL.png" group-title="Séries 24 Horas",Supernatural Dublado
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/r6st8vzwt/TODOMUNDOONDEIOCRIS.png" group-title="Séries 24 Horas",Everybody Hates Chris Dublado
+http://95.141.32.213:8081/looktvs/chris/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5e4p2ihl9/UMMALUCONOPEDA_O.png" group-title="Séries 24 Horas",The Fresh Prince of Bel-Air Dublado
+http://95.141.32.213:8081/looktvs/thefresh/playlist.m3u8?PEDROJUNIORTUTORIAIS
