@@ -60,14 +60,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]MÚSICAS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801506.us.archive.org/30/items/20200427-210518/20200427_210518.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/vemprotop/VemProTop/master/MUSICAS</externallink>
-<fanart>https://ia801509.us.archive.org/15/items/fanart-filme/fanart%20series.jpg</fanart>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]DOCUMENTÁRIO[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/vemprotop/VemProTop/master/FILMES</externallink>
+<fanart>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/farnat1.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR]- MÚSICA PARA RELAXAR OU DANÇAR -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR]- DOCUMENTÁRIO DO BRASIL E DO MUNDO -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -75,14 +75,29 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]RÁDIO[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801506.us.archive.org/30/items/20200427-210518/20200427_210518.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/vemprotop/VemProTop/master/RADIO</externallink>
-<fanart>https://ia801509.us.archive.org/15/items/fanart-filme/fanartlancamento.jpg</fanart>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]SHOWS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/vemprotop/VemProTop/master/FILMES</externallink>
+<fanart>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/farnat1.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR]- ESCUTE A RÁDIO DE SUA PREFERÊNCIA -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR]- SÓ SUCESSO! SHOWS AO VIVO -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]RÁDIO&MÚSICAS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia801506.us.archive.org/30/items/20200427-210518/20200427_210518.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/vemprotop/VemProTop/master/MUSICAS</externallink>
+<fanart>https://ia801509.us.archive.org/15/items/fanart-filme/fanart%20series.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR]- MÚSICAS PARA RELAXAR OU DANÇAR -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
