@@ -90,6 +90,21 @@
 
 <channels>
 <channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]STAND UP COMEDY[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/vemprotop/VemProTop/master/SHOWS</externallink>
+<fanart>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/farnat1.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR]- RINDO ATÉ 2025. KKK -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]RÁDIO&MÚSICAS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia801506.us.archive.org/30/items/20200427-210518/20200427_210518.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/vemprotop/VemProTop/master/MUSICAS</externallink>
