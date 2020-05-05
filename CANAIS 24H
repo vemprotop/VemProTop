@@ -14,164 +14,75 @@ by VemProTop
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/30/items/20200427-210518/20200427_210518.png" group-title="VemProTop", CANAIS VemProTop 24hs
 https://www.youtube.com/channel/UCUHtLbZz8dm_h3ujDhTs3Ng
 
-
-
 #EXTM3U
 
- 
-
-#EXTINF:-1 tvg-logo="https://www.gazetadopovo.com.br/viver-bem/wp-content/uploads/2018/11/caverna-do-dragao-novo-filme-0_cke-600x308.jpg", 24h Caverna do Dragão
-http://granip.com:8080/Jonas/1234/11516
-
-#EXTINF:-1 tvg-logo="https://asbaratas.com.br/loja/wp-content/uploads/2017/12/CYBERCOP_D.jpg", 24h Cybercop
-http://granip.com:8080/Jonas/1234/11524
-
-#EXTINF:-1 tvg-logo="http://seriesraras.com.br/product_images/s/569/flashman__97426_zoom.png", 24h Flashman
-http://granip.com:8080/Jonas/1234/11523
-
-#EXTINF:-1 tvg-logo="https://www.98fmcuritiba.com.br/wp-content/uploads/2018/05/03082358/he-man-desenho-capa.jpg", 24h He-Man
-http://granip.com:8080/Jonas/1234/11520
-
-#EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2017/09/desenho-peppa-pig.jpg", 24h Peppa Pig
-http://granip.com:8080/Jonas/1234/11517
-
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/lion-man-ou-poderoso-laion-men-completo-e-dublado-D_NQ_NP_152021-MLB20698436251_052016-F.jpg", 24h Poderoso Lion Man
-http://granip.com:8080/Jonas/1234/11514
-
-#EXTINF:-1 tvg-logo="http://www.diarioonline.com.br/app/painel/modulo-noticia/img/imagensdb/original/destaque-473123-she-ra-233333.jpg", 24h She-Ra
-http://granip.com:8080/Jonas/1234/11521
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81POU4gm3aL._RI_.jpg", 24h ThunderCats
-http://granip.com:8080/Jonas/1234/11519
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-4THvwBM4_hM/UnwhqZAXtAI/AAAAAAAAADc/LswtPbmFlGo/s1600/1086071938.jpg", 24h Jiban
-http://granip.com:8080/Jonas/1234/11538
-
-#EXTINF:-1 tvg-logo="http://s.glbimg.com/jo/g1/f/original/2011/09/12/hhspongebob-study_fran.jpg", BOB ESPONJA 24hrs
-http://granip.com:8080/Jonas/1234/12070
-
-#EXTINF:-1 tvg-logo="https://studiosol-a.akamaihd.net/uploadfile/letras/fotos/4/c/7/b/4c7bf711e5aa0d9d02ba70ac734d0d29.jpg", CHAVES 24hrs
-http://granip.com:8080/Jonas/1234/12059
-
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/dois-homens-e-meio-two-and-a-half-men-9-temporadas-D_NQ_NP_778293-MLB26912791593_022018-F.jpg", Dois Homens e Meio 24hrs
-http://granip.com:8080/Jonas/1234/12067
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e7/Galinha_Pintadinha.png/255px-Galinha_Pintadinha.png", Galinha Pintadinha 24hrs
-http://granip.com:8080/Jonas/1234/12058
-
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/jiraya-serie-completa-10-dvd-digital-menu-personalizado-D_NQ_NP_670605-MLB25038555196_092016-F.jpg", JIRAYA 24hrs
-http://granip.com:8080/Jonas/1234/12052
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e6/The_Simpsons_promo.png/229px-The_Simpsons_promo.png", OS SIMPSONS 24HRS
-http://granip.com:8080/Jonas/1234/12065
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Woody_Woodpecker.png", PICA PAU 24hrs
-http://granip.com:8080/Jonas/1234/12064
-
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/serie-todo-mundo-odeia-o-chris-completa-dublado-D_NQ_NP_697378-MLB26235669062_102017-F.jpg", TODO MUNDO ODEIA O CHRIS 24hrs
-http://granip.com:8080/Jonas/1234/12063
-
-#EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/11/chapolin-1.jpg", Chapolin 24hs
-http://granip.com:8080/Jonas/1234/18791
-
-#EXTINF:-1 tvg-logo="https://assets0.minhaserie.com.br//images/highlights/000/034/231/33085.jpg", The Big Bang Theory 24hs
-http://granip.com:8080/Jonas/1234/18793
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8c/Logo_The_Fresh_Prince_of_Bel-Air.jpg/220px-Logo_The_Fresh_Prince_of_Bel-Air.jpg", Um Maluco no Pedaço 24hs
-http://granip.com:8080/Jonas/1234/19200
-
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/desenhos-biblicos-historias-inesqueciveis-completo-em-dvd-D_NQ_NP_126605-MLB25040207297_092016-F.jpg", Desenhos Bíblicos 24hs
-http://granip.com:8080/Jonas/1234/19235
-
-#EXTINF:-1 tvg-logo="http://www.teatropedroivo.sc.gov.br/wp-content/uploads/2017/02/masha-1_72d47f70.jpg", Masha e o Urso 24hs
-http://granip.com:8080/Jonas/1234/19234
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/soundeffects/images/a/a8/The_flintstones_cover.png", Os Flintstones 24hs
-http://granip.com:8080/Jonas/1234/19434
-
-#EXTINF:-1 tvg-logo="https://img.elo7.com.br/product/zoom/FF4DC1/painel-corrida-maluca-g-frete-gratis-decoracao-de-festa.jpg", Corrida Maluca 24hs
-http://granip.com:8080/Jonas/1234/19983
-
-#EXTINF:-1 tvg-logo="https://ioneadwnews.files.wordpress.com/2013/06/masterchef.png", Master Chef 24hs
-http://granip.com:8080/Jonas/1234/21003
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UYfr61iMbhc/maxresdefault.jpg", O Sócio 24hs
-http://granip.com:8080/Jonas/1234/21002
-
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/desenho-a-vaca-e-o-frango-D_NQ_NP_795601-MLB20345696188_072015-F.jpg", A Vaca e o Frango 24hs
-http://granip.com:8080/Jonas/1234/21026
-
-#EXTINF:-1 tvg-logo="https://www.animesonline.co/wp-content/uploads/2018/02/cavalo-de-fogo-2649-poster-180x260.jpg", Cavalo de Fogo 24hs
-http://granip.com:8080/Jonas/1234/21025
-
-#EXTINF:-1 tvg-logo="https://dafitistatic-a.akamaihd.net//cms/dora_aventureira_1.jpg", Dora Aventureira 24hs
-http://granip.com:8080/Jonas/1234/21024
-
-#EXTINF:-1 tvg-logo="https://img.jakpost.net/c/2017/11/28/2017_11_28_36580_1511861358._large.jpg", Marvel Movies 24hs
-http://granip.com:8080/Jonas/1234/21020
-
-#EXTINF:-1 tvg-logo="https://images.indianexpress.com/2017/11/dc-universe-759.jpg", DC Movies 24hs
-http://granip.com:8080/Jonas/1234/21065
-
-#EXTINF:-1 tvg-logo="http://cdn1.solojavirtual.com/arquivos_loja/18044/Fotos/thumbs3/produto_Foto1_4366478.jpg", Mosquite, Mosquito e Moscardo 24hs
-http://granip.com:8080/Jonas/1234/21023
-
-#EXTINF:-1 tvg-logo="https://abrilsuperinteressante.files.wordpress.com/2018/07/5763124c0e21634575185afao-dia-em-que-o-coiote-pegou-o-papaleguas.jpeg", Papa-Léguas 24hs
-http://granip.com:8080/Jonas/1234/21021
-
-#EXTINF:-1 tvg-logo="https://www.imagenspng.com.br/wp-content/uploads/2015/02/patati-patata-07.png", Patati e Patata 24hs
-http://granip.com:8080/Jonas/1234/21018
-
-#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2018/07/ultraman-background-hd.jpg", Ultraman 24hs
-http://granip.com:8080/Jonas/1234/21022
-
-#EXTINF:-1 tvg-logo="https://s.aficionados.com.br/imagens/yu-yu-hakusho-filme_cke.jpg", Yu Yu Hakusho 24hs
-http://granip.com:8080/Jonas/1234/21019
-
-#EXTINF:-1 tvg-logo="https://wallimpex.com/data/out/597/imagenes-de-naruto-shippuden-9563922.jpg", Naruto Shippuden 24hs
-http://granip.com:8080/Jonas/1234/21027
-
-#EXTINF:-1 tvg-logo="http://s2.glbimg.com/fP8FcBdhKXgZ2HCLdGl7R8MIHIk=/e.glbimg.com/og/ed/f/original/2017/10/20/rick-and-morty3.png", Rick & Morty 24hs
-http://granip.com:8080/Jonas/1234/21066
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/fa/39/fe/fa39fe541ad885130351e71927fbac33.jpg", Mr. Bean 24hs
-http://granip.com:8080/Jonas/1234/21105
-
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/du-dudu-e-edu-completo-dublado-o-filme-em-dvd-D_NQ_NP_664371-MLB27453058427_052018-F.jpg", Du, Dudu e Edu 24hs
-http://granip.com:8080/Jonas/1234/21148
-
-#EXTINF:-1 tvg-logo="http://infantv.com.br/infantv/wp-content/uploads/2016/07/inspetor2.jpg", O Inspetor 24hs
-http://granip.com:8080/Jonas/1234/21144
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/24/HQ_Recruta_Zero_Globo.jpg/220px-HQ_Recruta_Zero_Globo.jpg", Recruta Zero 24hs
-http://granip.com:8080/Jonas/1234/21149
-
-#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2014/11/kx1.jpg", Xena - Hércules 24hs
-http://granip.com:8080/Jonas/1234/21146
-
-#EXTINF:-1 tvg-logo="https://video-clips.gomes-81.com/images/video-clips-flashback.png", Clipes Flash Back 24hs
-http://granip.com:8080/Jonas/1234/21147
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9N1566CgQGs/Wc1IwfDgofI/AAAAAAAACZY/zamQ9giOY7EP7jhgE2eI3JQNocFoSFbhwCLcBGAs/s1600/logo%2Bem%2Balta%2Bresolu%25C3%25A7%25C3%25A3o.png", Clipes Sertanejo 24hs
-http://granip.com:8080/Jonas/1234/21150
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-u2c-Pg4DJ6o/UD8E465UPXI/AAAAAAAAACI/LiRQVPU0Or8/s1600/music%2Bgospel%2Bmais%2B4%2Bpng.png", Clipes Gospel 24hs
-http://granip.com:8080/Jonas/1234/21166
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/167-1679631_animaniacs-set-for-2-season-revival-on-hulu-logo-animaniacs.png", Animaniacs 24hs
-http://granip.com:8080/Jonas/1234/21199
-
-#EXTINF:-1 tvg-logo="https://www.imagenspng.com.br/wp-content/uploads/2018/04/turma-mundo-bita-03.png", Bita 24hs
-http://granip.com:8080/Jonas/1234/21200
-
-#EXTINF:-1 tvg-logo="https://fun.cartoonnetwork.com.ar/iframe/tsubasa/images/oliver.png", Super Campeões 24hs
-http://granip.com:8080/Jonas/1234/21198
-
-#EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/1260/1*Tt8BW41ul1T_l2wAhCrt9g.png", Dr. House 24hs
-http://granip.com:8080/Jonas/1234/21206
-
-#EXTINF:-1 tvg-logo="https://www.pocoyo.com/_site_v6/assets/images/html/series/cover-season1.png", Pocoyó 24hs
-http://granip.com:8080/Jonas/1234/21201
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VUwWsZmu2g0/maxresdefault.jpg", Titio Avô 24hs
-http://granip.com:8080/Jonas/1234/21205
+#EXTINF:-1 group-title="ESPECIAIS 24H",23: EU A PATROA E AS CRIANÇAS
+http://new.lista.red:80/live/Lucas3453/lp197114/80138.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",24: GALINHA PINTADINHA
+http://new.lista.red:80/live/Lucas3453/lp197114/80142.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",3 PALAVRINHAS
+http://new.lista.red:80/live/Lucas3453/lp197114/80189.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",24: APENAS UM SHOW*
+http://new.lista.red:80/live/Lucas3453/lp197114/80181.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",24: TODO MUNDO ODEIA O CRIS
+http://new.lista.red:80/live/Lucas3453/lp197114/80183.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",24: Pica-Pau
+http://new.lista.red:80/live/Lucas3453/lp197114/80194.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",24: Patrulha Canina
+http://new.lista.red:80/live/Lucas3453/lp197114/80197.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",24: Vai QUE Cola
+http://new.lista.red:80/live/Lucas3453/lp197114/80203.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",24: Chapolin Colorado
+http://new.lista.red:80/live/Lucas3453/lp197114/80215.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",24:Os Simpsons
+http://new.lista.red:80/live/Lucas3453/lp197114/80217.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",24: REPORTAGEN POLICIA
+http://new.lista.red:80/live/Lucas3453/lp197114/80221.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Bob Esponja 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85312.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Cavaleiros dos Zodiacos 24H Saga Doze Casas
+http://new.lista.red:80/live/Lucas3453/lp197114/85313.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Classicos Disney 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85314.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Coragem o Cão Covarde 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85315.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Dois Homens e Meio 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85316.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Dragon Ball 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85317.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Familia da Pesada (Family Guy) 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85318.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Formiga Atomica 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85319.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",FUTURAMA 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85320.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Galinha Pintadinha 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85321.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Luluzinha 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85322.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Mickey e Donald 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85323.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Os Trapalhões 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85324.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Peppa Pig 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85325.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",South Parks 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85326.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Thundercats 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85327.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Todo Mundo Odeia o Cris 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85328.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Um Maluco no Pedaço 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85329.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",As aventuras de Jackie Chan 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85330.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Corrida Maluca 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85331.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Kenan e Kel 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85332.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",O Mascara 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85333.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",The Big Bang Theory 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85334.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H",Tico e Teco 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85335.m3u8
