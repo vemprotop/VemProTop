@@ -1,6 +1,22 @@
+  
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]ADICIONADOS RECENTE[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/vemprotop/VemProTop/master/ADICIONADOS%20RECENTES</externallink>
+<fanart>https://ia801509.us.archive.org/15/items/fanart-filme/fanart%20series.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR]- FILMES -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+  
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]LANÇAMENTOS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/vemprotop/VemProTop/master/FILMES%20ATIVO</externallink>
 <fanart>https://ia801509.us.archive.org/15/items/fanart-filme/fanart%20series.jpg</fanart>
@@ -15,9 +31,40 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]LANÇAMENTOS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]TOP 2019[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/filmes.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801509.us.archive.org/15/items/fanart-filme/fanart%20series.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR]- FILMES -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+     
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]ANIMAÇÃO[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/filmes.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801509.us.archive.org/15/items/fanart-filme/fanart%20series.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR]- FILMES -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]NACIONAIS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/lancamento.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/vemprotop/VemProTop/master/LANCAMENTO2</externallink>
+<externallink>https://</externallink>
 <fanart>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/farnat1.jpg</fanart>
 <info>
 
@@ -26,33 +73,19 @@
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]NACIONAIS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/nacionais.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/vemprotop/VemProTop/master/NACIONAIS</externallink>
-<fanart>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/nacionais.png</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- FILMES NACIONAIS -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]OS MELHORES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]CINEMA[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/fanart%20kids.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/vemprotop/VemProTop/master/FILMES%20ANTIGOS</externallink>
+<externallink>https://</externallink>
 <fanart>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/fanart%20kids.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR]- FILMES ANTIGOS -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR]- FILMES DO CINEMA -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
