@@ -1,0 +1,47 @@
+<item>
+<title>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]NOTICIAS [/COLOR]</title>
+<thumbnail>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/canais.png</thumbnail>
+<link>https://</link>
+<info>
+
+by VemProTop
+[COLOR deeppink]l[/COLOR]- NOTICIAS -[COLOR deeppink]l[/COLOR]</info>
+</item>
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/qlQKTR6Org33aeBUQOjUVDey_Ow=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/6/0/TqS478RcWAOoyUeV1zPQ/rede-globo-marca-logo-rep.jpg" group-title="NOTICIAS", (ONLINE) Globo News FHD H265¹
+http://smarterplay.xyz:80/rhjuieok/ttcvunok/24286
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/deh948S.png" group-title="NOTICIAS", (DOUBTFUL) Band News FHD H265²
+http://smarterplay.xyz:80/rhjuieok/ttcvunok/32478
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hbWMYmj.png" group-title="NOTICIAS", (DOUBTFUL) Globo News FHD H265²
+http://smarterplay.xyz:80/rhjuieok/ttcvunok/32511
+
+#EXTINF:-1 tvg-logo="http://www.set.org.br/wp-content/uploads/2019/04/BANDNEWS.jpg" group-title="NOTICIAS", (DOUBTFUL) Band News SD¹
+http://smarterplay.xyz:80/rhjuieok/ttcvunok/23149
+
+#EXTINF:-1 tvg-logo="https://ocdn.eu/pulscms-transforms/1/aI5k9kpTURBXy82MzgwMWU2YWVmNzIxZTk3ZWYwNzY3OGZlZmE1YWM2Ny5wbmeTlQMAzLHNAyDNAcKTCaYzMzE4MDYGkwXNAjrNASyBoTAB/cnn_logo800.jpg" group-title="NOTICIAS", (DOUBTFUL) CNN BRASIL SD¹
+http://smarterplay.xyz:80/rhjuieok/ttcvunok/33647
+
+#EXTINF:-1 tvg-logo="http://portalmakingof.com.br/uploads/categorias/0a51c6dad29b655406d39d893b808406.jpeg" group-title="NOTICIAS", (ONLINE) Globo News SD¹
+http://smarterplay.xyz:80/rhjuieok/ttcvunok/23187
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_record-news_m.png" group-title="NOTICIAS", (ONLINE) Record News SD¹
+http://smarterplay.xyz:80/rhjuieok/ttcvunok/23233
+
+#EXTINF:-1 tvg-logo="https://www4.anfip.org.br/img/noticias/Noticia_P_0_06_06_2017_12_02_26.jpg" group-title="CANAIS - ABERTOS", (ONLINE) TV Senado SD¹
+http://smarterplay.xyz:80/rhjuieok/ttcvunok/23273
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/deh948S.png" group-title="NOTICIAS", (DOUBTFUL) Band News SD²
+http://smarterplay.xyz:80/rhjuieok/ttcvunok/32252
+
+#EXTINF:-1 tvg-logo="https://ocdn.eu/pulscms-transforms/1/aI5k9kpTURBXy82MzgwMWU2YWVmNzIxZTk3ZWYwNzY3OGZlZmE1YWM2Ny5wbmeTlQMAzLHNAyDNAcKTCaYzMzE4MDYGkwXNAjrNASyBoTAB/cnn_logo800.jpg" group-title="NOTICIAS", (DOUBTFUL) CNN BRASIL SD²
+http://smarterplay.xyz:80/rhjuieok/ttcvunok/33648
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hbWMYmj.png" group-title="NOTICIAS", (DOUBTFUL) Globo News SD²
+http://smarterplay.xyz:80/rhjuieok/ttcvunok/32290
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6vsNWSE.png" group-title="NOTICIAS", (DOUBTFUL) Record News SD²
+http://smarterplay.xyz:80/rhjuieok/ttcvunok/32336
