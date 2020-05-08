@@ -10,6 +10,11 @@ by VemProTop
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/30/items/20200427-210518/20200427_210518.png" group-title="VemProTop", CANAIS VemProTop 24hs
+https://www.youtube.com/channel/UCUHtLbZz8dm_h3ujDhTs3Ng
+
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://studiosol-a.akamaihd.net/uploadfile/letras/fotos/d/9/6/0/d96019bdcc8851edb245a4131fa0716f.jpg" group-title="CANAIS 24H¹", (ONLINE) 3 Palavrinhas 24hs
 http://smarterplay.xyz:80/rhjuieok/ttcvunok/23366
 
