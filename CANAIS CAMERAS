@@ -1,0 +1,38 @@
+<item>
+<title>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]CÂMERAS [/COLOR]</title>
+<thumbnail>https://ia801500.us.archive.org/32/items/fanart_20200421_1802/canais.png</thumbnail>
+<link>https://</link>
+<info>
+
+by VemProTop
+[COLOR deeppink]l[/COLOR]- CÂMERAS -[COLOR deeppink]l[/COLOR]</info>
+</item>
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/t/video-camera-stencil-style-3147499.jpg" group-title="Cameras", (ONLINE) Praça da Inspiração - Goiânia
+https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w1619468484.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/t/video-camera-stencil-style-3147499.jpg" group-title="Cameras", (ONLINE) Ponta da Praia - Santos SP
+https://b9.hdrelay.com/camera/33f005a3-17ea-47d8-a816-e41d7d5c5cc0/relay/chunklist_w471073967.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/t/video-camera-stencil-style-3147499.jpg" group-title="Cameras", (ONLINE) Barra da Tijuca
+https://cdn.jmvstream.com/w/IPC-6849/camera.stream/chunklist_w2094923708.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/t/video-camera-stencil-style-3147499.jpg" group-title="Cameras", (ONLINE) Ponte Internacional da Amizade
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/t/video-camera-stencil-style-3147499.jpg" group-title="Cameras", (ONLINE) Cascavel Panorâmica
+https://5b33b873179a2.streamlock.net:1443/cameraecocataratas/cameraecocataratas.stream/chunklist_w127724520.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/t/video-camera-stencil-style-3147499.jpg" group-title="Cameras", (ONLINE) Pico do Gavião
+https://cdn.jmvstream.com/w/IPC-6753/camera.stream/chunklist_w1815578017.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/t/video-camera-stencil-style-3147499.jpg" group-title="Cameras", (ONLINE) Praia de Tramandaí
+http://vid1.streaming.websul.net.br:1935/live/ods-paradouro.stream/chunklist_w544980703.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/t/video-camera-stencil-style-3147499.jpg" group-title="Cameras", (ONLINE) Praia da Barra da Lagoa
+https://cdn.jmvstream.com/w/IPC-6871/camera.stream/chunklist_w641703285.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/t/video-camera-stencil-style-3147499.jpg" group-title="Cameras", (ONLINE) Florianópolis - Praia dos Ingleses
+https://ipc-80.camerite.com/1dia/9fd34730-1a6a-11e9-81f3-07b0e1c82f3e.stream/chunklist.m3u8
