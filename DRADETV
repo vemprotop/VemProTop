@@ -2,7 +2,28 @@
 #PLAYLISTV: pltv-logo="https://ia801506.us.archive.org/30/items/20200427-210518/20200427_210518.png" pltv-name="LISTA VemProTop" pltv-description="MELHORES FILMES E SÉRIES" pltv-cover="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/youtube-thumbnail-music-playlist-karaoke-design-template-02b9d9a19bcf1dd1e8cad5b7951a4758_screen.jpg?ts=1561483116" pltv-author="by Luiz Carlos" pltv-site="XXX" pltv-email="XXX E-MAIL XXX" pltv-phone="(21)99932-8383"
 
 
-################## XXXX SEPARADOR XXXX ########################
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="XXXX LINK DO LOGO DO CANAL XXX" group-title="XXX TITULO DO GRUPO- CATEGORIA XXX" pltv-subgroup="XXX SUBGRUPOXXX", XXX NOME DO CANAL, EXEMPLO DBZ EPISODIO 1 XXX
-XXXX LINK STREAM DIRETO .MP4, .M3U, ETC XXXX
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBvo3qOPcmhlqAaJcXcQHtx2qLk.jpg" tvg-id="0" group-title="VemProTop",Mortal Kombat Legends 01 VIEW
+https://drive.google.com/file/d/14r8VemyiabUciWegkMe9qFyqdfMCrxHi/view
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBvo3qOPcmhlqAaJcXcQHtx2qLk.jpg" tvg-id="0" group-title="VemProTop",Mortal Kombat Legends 02 DOWNLOADS
+https://drive.google.com/uc?id=14r8VemyiabUciWegkMe9qFyqdfMCrxHi&export=download
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBvo3qOPcmhlqAaJcXcQHtx2qLk.jpg" tvg-id="0" group-title="VemProTop",Mortal Kombat Legends 03 API LINK
+https://www.googleapis.com/drive/v3/files/14r8VemyiabUciWegkMe9qFyqdfMCrxHi?alt=media&key=AIzaSyDTV4WhWv1edrpNcaHMkYa_WxY1YIrsQvc
+
+#EXTINF:-1 type="video" group-title="Filmes", Mortal Kombat Legends NEW CONFIG API FULL
+https://www.googleapis.com/drive/v3/files/14r8VemyiabUciWegkMe9qFyqdfMCrxHi?alt=media&key=AIzaSyDTV4WhWv1edrpNcaHMkYa_WxY1YIrsQvc
+
+#EXTINF:-1 type="video" group-title="Filmes", Mortal Kombat Legends NEW CONFIG
+https://www.googleapis.com/drive/v3/files/14r8VemyiabUciWegkMe9qFyqdfMCrxHi?alt=media&key=AIzaSyDTV4WhWv1edrpNcaHMkYa_WxY1YIrsQvc
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBvo3qOPcmhlqAaJcXcQHtx2qLk.jpg" tvg-id="0" group-title="VemProTop",Mortal Kombat Legends DOC 01
+https://docs.google.com/file/d/14r8VemyiabUciWegkMe9qFyqdfMCrxHi/preview
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBvo3qOPcmhlqAaJcXcQHtx2qLk.jpg" tvg-id="0" group-title="VemProTop",Mortal Kombat Legends DOC 02
+https://drive.google.com/file/d/https://docs.google.com/file/d/14r8VemyiabUciWegkMe9qFyqdfMCrxHi/view?usp=sharing
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBvo3qOPcmhlqAaJcXcQHtx2qLk.jpg" tvg-id="0" group-title="VemProTop",Mortal Kombat Legends DOC 03
+https://docs.google.com/file/d/https://docs.google.com/file/d/14r8VemyiabUciWegkMe9qFyqdfMCrxHi/view
