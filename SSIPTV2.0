@@ -1,0 +1,16 @@
+  
+#EXTM3U?by-VemProTop/radio/Tv/filmes/series/Lista/021/99932/8383/Venda.
+#EXTINF:0 tvg-logo="https://ia801506.us.archive.org/30/items/20200427-210518/20200427_210518.png" group-title="#ENTRE AQUI",by-VemProTop
+https://drive.google.com/uc?id=1sm6N7iSYnV2QGehTY1LgrSy_FzSWpDYP&export=download/(21)99932-8383/Venda.
+#EXTINF:0 tvg-logo="https://ia801506.us.archive.org/30/items/20200427-210518/20200427_210518.png" group-title="by Luiz Carlos",(21)99932-8383
+https://drive.google.com/uc?id=1sk62Pah9W-UaegA9C1JcnmLdpAANoSM1&export=download/by VemProTop/(21)99932-8383/Venda.
+#EXTINF:0 tvg-logo="https://ia801506.us.archive.org/30/items/20200427-210518/20200427_210518.png" group-title="FIQUE EM CASA!",Que Deus Abençõe o MUNDO!
+https://ia601505.us.archive.org/25/items/20200403-100920/20200403_100920.jpg(@dj)lista VemProTop/Boa diversao!",Fiquem em casa/cortesia/?by VemProTop
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VfuE1wgsL9jIrmuI4AF6zEnDbb.jpg" tvg-id="0" group-title="VemProTop",CARGA EXPLOSIVA
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1r4MANjFHz1bpInYfTZl2siwdj4L7oTW8/view?usp=drivesdk
+
+#EXTM3U
+https://stream.canais.info:8443/dfix/RCFServer4/ondemand/FRZN2.mp4/chunk.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDIwIDM6MjQ6MTQgQU0maGFzaF92YWx1ZT10WCtRaE9HbjJTbUdnVGI2bGtKNnVRPT0mdmFsaWRtaW51dGVzPTE=
