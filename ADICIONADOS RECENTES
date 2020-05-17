@@ -1,7 +1,3 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/30/items/20200427-210518/20200427_210518.png" group-title="VemProTop", FILMES ADICONADOS RECENTES ADDONS VemProTop
-
 <item>
 <title>[COLOR white]ADICIONADOS RECENTES [/COLOR]</title>
 <thumbnail>https://ia601506.us.archive.org/30/items/20200427-210518/20200427_210518.png</thumbnail>
@@ -14,7 +10,7 @@ by VemProTop
 
 <item>
 <item>
-<title>[B][COLOR lime]*NEW  [/COLOR][/B][B]Invocação do Mal - [COLOR yellow](2013)[/COLOR] - [COLOR lime](HD720)[/COLOR] - DUBLADO[/B]</title>
+<title>[B][COLOR lime]*TERROR  [/COLOR][/B][B]Invocação do Mal - [COLOR yellow](2013)[/COLOR] - [COLOR lime](HD720)[/COLOR] - DUBLADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19WN6-sFO1EbCxbxpdB92YpshDuFG_j8x/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NxHKZW5DPbUFtbF3MxbdSyxRqU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/9J7SSlev5FtCARttcM9cNwwQRpZ.jpg</fanart>
@@ -23,7 +19,7 @@ by VemProTop
 <item>
 
 <item>
-<title>[B]Invocação do Mal 2 - [COLOR deeppink](2016)[/COLOR] - [COLOR lime](HD720)[/COLOR] - DUBLADO[/B]</title>
+<title>[B][COLOR lime]*TERROR  [/COLOR][/B][B]Invocação do Mal 2 - [COLOR deeppink](2016)[/COLOR] - [COLOR lime](HD720)[/COLOR] - DUBLADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Opr_rTvn-lBQ2vR-kehRUvxkEJCTVt0l/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/16kR95yBmFlf3sveibocl7ND83V.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/i6mO9SMUK6UNvqRxI2BqgYQnPSk.jpg</fanart>
